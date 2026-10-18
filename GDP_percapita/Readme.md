@@ -11,6 +11,13 @@ The main objective is to create a complete annual dataset by interpolating and e
 * GDP
 * GDP per capita
 
+A key methodological decision is that **GDP per capita was not directly interpolated or extrapolated**. Instead, GDP was calculated from GDP per capita and population, GDP was then estimated, and GDP per capita was finally recalculated from GDP and population.
+
+This preserves the mathematical relationship:
+
+```text
+GDP per capita = GDP / Population
+```
 The project uses a spline-based method through the `fill_spline()` function from my own R package.
 
 ---
@@ -18,6 +25,21 @@ The project uses a spline-based method through the `fill_spline()` function from
 ## Dataset
 
 The original Gapminder dataset contains observations for different countries and years. However, some countries do not have observations available for every year.
+
+
+The project uses the **Gapminder dataset**, containing country-level observations for:
+
+| Variable    | Description         |
+| ----------- | ------------------- |
+| `country`   | Country name        |
+| `continent` | Continent           |
+| `year`      | Year of observation |
+| `lifeExp`   | Life expectancy     |
+| `pop`       | Population          |
+| `gdpPercap` | GDP per capita      |
+
+The original dataset contains gaps in the yearly observations for some countries.
+
 
 To make the dataset consistent, I created a complete yearly range from:
 
