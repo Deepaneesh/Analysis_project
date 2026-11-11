@@ -319,25 +319,96 @@ Each product represents a specific labour-market indicator.
 
 ## Output Data Format
 
-The final output is stored in a **wide format**.
+## Output Data Structure
 
-- Countries and products are represented by rows.
-- Years are represented by columns.
-- Values are stored at the intersection of product and year.
+The final processed labour-market data is stored in a **wide format**, where each row represents a country and product combination, and each year is represented as a separate column.
 
-Example:
+```text
+------------------- ┌────┬────┬────┬────┬────┬────────┐
+Country/Product     │2010│2011│2012│2013│2014│ Status │
+────────────────────┼────┼────┼────┼────┼────┼────────┤
+Labour Count        │ ...│ ...│ ...│ ...│ ...│ AAACX  │
+Employed %          │ ...│ ...│ ...│ ...│ ...│ AAACC  │
+Unemployed %        │ ...│ ...│ ...│ ...│ ...│ AAACX  │
+Other %             │ ...│ ...│ ...│ ...│ ...│ AACCC  │
+Employed Count      │ ...│ ...│ ...│ ...│ ...│ AAACC  │
+Unemployed Count    │ ...│ ...│ ...│ ...│ ...│ AAACC  │
+Other Count         │ ...│ ...│ ...│ ...│ ...│ AAACC  │
+────────────────────┴────┴────┴────┴────┴────┴────────┘
+```
 
-| Country | Product | Product ID | Status | 2010 | 2011 | 2012 | 2013 |
-|---|---|---:|---|---:|---:|---:|---:|
-| Country A | Labour Count | 1 | Actual | ... | ... | ... | ... |
-| Country A | Employed Percentage | 2 | Actual | ... | ... | ... | ... |
-| Country A | Unemployed Percentage | 3 | Actual | ... | ... | ... | ... |
-| Country A | Other Percentage | 4 | Calculated | ... | ... | ... | ... |
-| Country A | Employed Count | 5 | Calculated | ... | ... | ... | ... |
-| Country A | Unemployed Count | 6 | Calculated | ... | ... | ... | ... |
-| Country A | Other Count | 7 | Calculated | ... | ... | ... | ... |
+### Status Coding
 
----
+The `add_status()` function generates a status string that records the status of each yearly value.
+
+| Code | Meaning |
+|---|---|
+| `A` | Actual |
+| `C` | Calculated |
+| `X` | Missing |
+
+Each character in the status string corresponds sequentially to the yearly values.
+
+For example:
+
+```text
+Years:   2010  2011  2012  2013  2014
+Values:   ...   ...   ...   ...   ...
+Status:    A     A     A     C     X
+```
+
+The resulting status string is:
+
+```text
+AAACX
+```
+
+This indicates:
+
+- `2010` → Actual
+- `2011` → Actual
+- `2012` → Actual
+- `2013` → Calculated
+- `2014` → Missing
+
+Another example:
+
+```text
+Years:   2010  2011  2012  2013  2014
+Status:    A     A     A     C     C
+
+Status string: AAACC
+```
+
+Here, the first three years contain actual observations, while the values for 2013 and 2014 are calculated.
+
+The status information allows the dataset to retain the **provenance of each yearly value** and distinguish between actual, calculated, and missing observations.
+
+### Extracting Actual Values
+
+The status string can also be used to identify the original actual observations from the processed data.
+
+For example:
+
+```text
+Years:   2010  2011  2012  2013  2014
+Values:   100   105   110   115    NA
+Status:    A     A     A     C     X
+```
+
+Using the status information:
+
+- `A` → retain the original actual value.
+- `C` → value was calculated.
+- `X` → value is missing.
+
+Therefore, the original actual values are:
+
+```text
+100, 105, 110
+```
+
+This structure makes it possible to distinguish **actual observations from calculated and missing values** when performing further analysis or creating visualizations.
 
 # Running the Project
 
