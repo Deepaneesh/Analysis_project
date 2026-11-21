@@ -1,0 +1,1441 @@
+date,indicator_id,indicator_name,country_id,country_name,country_code,value,unit,obs_status,decimal
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZH,Africa Eastern and Southern,AFE,16.638018237959,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZH,Africa Eastern and Southern,AFE,15.5587839737356,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZH,Africa Eastern and Southern,AFE,14.7123265377176,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZH,Africa Eastern and Southern,AFE,14.0356570774579,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZH,Africa Eastern and Southern,AFE,13.4166762880997,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZH,Africa Eastern and Southern,AFE,12.5204363284964,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZI,Africa Western and Central,AFW,23.2219553092793,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZI,Africa Western and Central,AFW,21.4928383333887,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZI,Africa Western and Central,AFW,19.8148667839086,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZI,Africa Western and Central,AFW,18.1780891841996,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZI,Africa Western and Central,AFW,16.9588146798813,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZI,Africa Western and Central,AFW,15.8449618826665,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1A,Arab World,ARB,30.0351179520562,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1A,Arab World,ARB,28.8356281425241,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1A,Arab World,ARB,27.8203375128039,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1A,Arab World,ARB,26.9541694576231,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1A,Arab World,ARB,26.4100761512133,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1A,Arab World,ARB,25.3313165946797,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S3,Caribbean small states,CSS,16.7284190652708,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S3,Caribbean small states,CSS,16.7375292596602,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S3,Caribbean small states,CSS,16.7282089123091,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S3,Caribbean small states,CSS,16.6308349087606,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S3,Caribbean small states,CSS,16.1366698198467,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S3,Caribbean small states,CSS,15.68622504316,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",B8,Central Europe and the Baltics,CEB,29.628256723895,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",B8,Central Europe and the Baltics,CEB,29.4941041273508,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",B8,Central Europe and the Baltics,CEB,29.3559732678638,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",B8,Central Europe and the Baltics,CEB,29.358123768674,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",B8,Central Europe and the Baltics,CEB,29.5586075664144,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",B8,Central Europe and the Baltics,CEB,29.6285024828255,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V2,Early-demographic dividend,EAR,22.3934220456065,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V2,Early-demographic dividend,EAR,21.3281682684262,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V2,Early-demographic dividend,EAR,20.3655260148644,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V2,Early-demographic dividend,EAR,19.4516082380601,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V2,Early-demographic dividend,EAR,18.6553802634939,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V2,Early-demographic dividend,EAR,17.811644771731,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z4,East Asia & Pacific,EAS,28.8364820011419,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z4,East Asia & Pacific,EAS,26.3661052795066,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z4,East Asia & Pacific,EAS,23.7018536499781,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z4,East Asia & Pacific,EAS,20.9782485861585,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z4,East Asia & Pacific,EAS,18.9619239515144,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z4,East Asia & Pacific,EAS,17.3140662931886,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,27.055963109954,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,24.3440256233877,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,21.4782448057747,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,18.6278380096637,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,16.324542099204,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,14.4592133997363,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,27.01845405474,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,24.2752279887521,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,21.3738114842085,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,18.4874503485489,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,16.1536304080715,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,14.2692508551079,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XC,Euro area,EMU,36.6783122449892,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XC,Euro area,EMU,36.031626158,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XC,Euro area,EMU,35.3935601675993,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XC,Euro area,EMU,34.8180825023727,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XC,Euro area,EMU,34.5083635116405,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XC,Euro area,EMU,34.0968033264388,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z7,Europe & Central Asia,ECS,33.9499154334036,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z7,Europe & Central Asia,ECS,33.4916434602138,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z7,Europe & Central Asia,ECS,33.0365616815127,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z7,Europe & Central Asia,ECS,32.6813388476764,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z7,Europe & Central Asia,ECS,32.5595577432715,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",Z7,Europe & Central Asia,ECS,32.3629669289396,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,28.9906102229009,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,28.4699047045049,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,27.9884097331226,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,27.5689951072757,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,27.4083838295266,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,27.180383077794,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,30.4411939031363,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,30.14948766889,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,29.9587625246267,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,29.8909554957543,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,29.9297204071678,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,29.8454682724028,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EU,European Union,EUU,35.6306471329616,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EU,European Union,EUU,35.0572798504253,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EU,European Union,EUU,34.4767547786481,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EU,European Union,EUU,33.9808172992071,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EU,European Union,EUU,33.7657997426601,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EU,European Union,EUU,33.4370589614326,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,17.5036621167974,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,16.3366204093678,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,15.2916349916413,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,14.3825246600742,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,13.6108418701785,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,12.7174236234138,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XD,High income,NA,39.081092139045,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XD,High income,NA,38.3581499415489,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XD,High income,NA,37.584518127478,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XD,High income,NA,36.7442422219278,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XD,High income,NA,36.2676060430578,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XD,High income,NA,35.6505387884626,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XF,IBRD only,IBD,26.7508878142712,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XF,IBRD only,IBD,25.1405207640506,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XF,IBRD only,IBD,23.4997351914371,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XF,IBRD only,IBD,21.8787705147109,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XF,IBRD only,IBD,20.5446555341896,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XF,IBRD only,IBD,19.3862534469261,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZT,IDA & IBRD total,IBT,24.5819830458949,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZT,IDA & IBRD total,IBT,23.13524534228,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZT,IDA & IBRD total,IBT,21.6912628676249,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZT,IDA & IBRD total,IBT,20.2793817531254,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZT,IDA & IBRD total,IBT,19.1341549175003,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZT,IDA & IBRD total,IBT,18.0961781453645,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XH,IDA blend,IDB,21.4919165687183,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XH,IDA blend,IDB,20.0109426482393,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XH,IDA blend,IDB,18.7116304197174,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XH,IDA blend,IDB,17.5707101344791,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XH,IDA blend,IDB,16.7826734734124,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XH,IDA blend,IDB,15.8799498810132,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XI,IDA only,IDX,16.4711844870171,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XI,IDA only,IDX,15.2703710973562,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XI,IDA only,IDX,14.1048058273179,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XI,IDA only,IDX,13.0839198961446,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XI,IDA only,IDX,12.3082045882601,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XI,IDA only,IDX,11.4718339626592,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XG,IDA total,IDA,18.2490552362706,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XG,IDA total,IDA,16.9466933404959,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XG,IDA total,IDA,15.7188470372075,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XG,IDA total,IDA,14.647052280258,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XG,IDA total,IDA,13.8581467996757,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XG,IDA total,IDA,12.988540882151,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V3,Late-demographic dividend,LTE,30.1340525735661,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V3,Late-demographic dividend,LTE,27.7025984689645,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V3,Late-demographic dividend,LTE,25.1513522884026,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V3,Late-demographic dividend,LTE,22.7061779442948,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V3,Late-demographic dividend,LTE,20.8556580797736,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V3,Late-demographic dividend,LTE,19.3635018110006,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZJ,Latin America & Caribbean,LCN,38.7969140896877,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZJ,Latin America & Caribbean,LCN,38.1222349749676,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZJ,Latin America & Caribbean,LCN,37.3738153436879,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZJ,Latin America & Caribbean,LCN,36.5784964321159,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZJ,Latin America & Caribbean,LCN,35.4864438305493,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZJ,Latin America & Caribbean,LCN,34.4335268413727,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,38.7324714190336,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,38.0549569720584,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,37.3056608913797,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,36.5185431824382,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,35.4172296742558,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,34.3583082396605,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,38.775579298514,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,38.0823177739911,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,37.313570847423,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,36.4986596376276,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,35.3797256746956,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,34.2982169631676,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XL,Least developed countries: UN classification,LDC,16.0904525647573,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XL,Least developed countries: UN classification,LDC,14.7516013341843,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XL,Least developed countries: UN classification,LDC,13.5353827433552,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XL,Least developed countries: UN classification,LDC,12.4638622968704,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XL,Least developed countries: UN classification,LDC,11.6385111163275,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XL,Least developed countries: UN classification,LDC,10.7441978342487,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XO,Low & middle income,LMY,24.2973745685682,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XO,Low & middle income,LMY,22.7880273216182,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XO,Low & middle income,LMY,21.2629693574362,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XO,Low & middle income,LMY,19.7443820168256,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XO,Low & middle income,LMY,18.4894749290604,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XO,Low & middle income,LMY,17.3400084041488,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XM,Low income,NA,15.9262705893348,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XM,Low income,NA,15.0961477431064,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XM,Low income,NA,14.2718214956943,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XM,Low income,NA,13.6311725342967,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XM,Low income,NA,13.0450973661195,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XM,Low income,NA,12.2526768030681,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XN,Lower middle income,NA,19.3074018276439,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XN,Lower middle income,NA,18.1172489580846,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XN,Lower middle income,NA,17.0425653864169,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XN,Lower middle income,NA,16.0798687190926,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XN,Lower middle income,NA,15.4184319604511,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XN,Lower middle income,NA,14.7298204827618,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,28.0954628103696,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,26.908030086159,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,25.9988463508793,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,25.1387381854177,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,24.548001117116,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,23.7229212844063,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,25.8974961673954,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,25.0093116767872,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,24.3698876253389,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,23.7059931069473,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,23.1473832522045,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,22.4253560457487,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,25.8142118323516,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,24.9260228609692,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,24.2877773784796,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,23.6246223550673,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,23.0722737623873,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,22.3601913012632,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XP,Middle income,MIC,25.1888542650217,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XP,Middle income,MIC,23.5536735363358,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XP,Middle income,MIC,21.9047521295133,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XP,Middle income,MIC,20.2651249207897,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XP,Middle income,MIC,18.9251405320127,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XP,Middle income,MIC,17.7242444705545,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XU,North America,NAC,39.9511937424163,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XU,North America,NAC,39.4782433974319,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XU,North America,NAC,39.0363183037864,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XU,North America,NAC,38.5634193538278,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XU,North America,NAC,37.5358797355192,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XU,North America,NAC,36.4761148438565,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OE,OECD members,OED,39.0314347155239,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OE,OECD members,OED,38.3595309114365,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OE,OECD members,OED,37.5865781794791,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OE,OECD members,OED,36.6829013752431,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OE,OECD members,OED,36.096940170487,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OE,OECD members,OED,35.4517587575107,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S4,Other small states,OSS,26.7170192268343,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S4,Other small states,OSS,26.2567265192058,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S4,Other small states,OSS,25.7815854056277,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S4,Other small states,OSS,25.4147731182743,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S4,Other small states,OSS,24.788683208657,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S4,Other small states,OSS,24.5502208025903,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S2,Pacific island small states,PSS,18.1658799085695,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S2,Pacific island small states,PSS,17.8333179263699,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S2,Pacific island small states,PSS,17.2224428679909,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S2,Pacific island small states,PSS,16.5316097695962,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S2,Pacific island small states,PSS,15.935838095176,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S2,Pacific island small states,PSS,15.0482541799072,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V4,Post-demographic dividend,PST,39.4174746641547,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V4,Post-demographic dividend,PST,38.7555186779932,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V4,Post-demographic dividend,PST,38.0011237016664,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V4,Post-demographic dividend,PST,37.1013168330045,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V4,Post-demographic dividend,PST,36.5600451224071,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V4,Post-demographic dividend,PST,35.8972239307609,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V1,Pre-demographic dividend,PRE,19.8746225588274,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V1,Pre-demographic dividend,PRE,18.4850046317737,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V1,Pre-demographic dividend,PRE,17.2527316798743,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V1,Pre-demographic dividend,PRE,16.0737047998913,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V1,Pre-demographic dividend,PRE,15.1661333858731,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",V1,Pre-demographic dividend,PRE,14.2415140746515,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S1,Small states,SST,23.3142864138786,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S1,Small states,SST,22.9603807216611,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S1,Small states,SST,22.537431905113,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S1,Small states,SST,22.1301209838903,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S1,Small states,SST,21.5625043156324,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",S1,Small states,SST,21.19410129017,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",8S,South Asia,SAS,17.0757507235505,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",8S,South Asia,SAS,16.0260444799551,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",8S,South Asia,SAS,15.0501572649408,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",8S,South Asia,SAS,14.1466616447546,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",8S,South Asia,SAS,13.547260608329,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",8S,South Asia,SAS,12.9443043904597,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,17.0757507235505,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,16.0260444799551,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,15.0501572649408,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,14.1466616447546,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,13.547260608329,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,12.9443043904597,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZG,Sub-Saharan Africa,SSF,19.3208918771691,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZG,Sub-Saharan Africa,SSF,17.9738625253581,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZG,Sub-Saharan Africa,SSF,16.7825706044309,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZG,Sub-Saharan Africa,SSF,15.7066533418624,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZG,Sub-Saharan Africa,SSF,14.8398825266836,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZG,Sub-Saharan Africa,SSF,13.85579328938,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,19.3201581107485,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,17.9729388884026,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,16.7816661716114,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,15.7055456700903,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,14.8385988202071,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,13.8542111189691,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,19.3208918771691,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,17.9738625253581,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,16.7825706044309,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,15.7066533418624,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,14.8398825266836,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,13.85579328938,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XT,Upper middle income,NA,30.3825363135346,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XT,Upper middle income,NA,28.1887731674849,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XT,Upper middle income,NA,25.8684414996326,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XT,Upper middle income,NA,23.5122927091156,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XT,Upper middle income,NA,21.521502177293,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",XT,Upper middle income,NA,19.8463569547772,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1W,World,WLD,27.0103867702013,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1W,World,WLD,25.742041394177,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1W,World,WLD,24.461914181077,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1W,World,WLD,23.208003449663,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1W,World,WLD,22.2763927597642,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",1W,World,WLD,21.4245200668069,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AF,Afghanistan,AFG,13.5470365857469,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AF,Afghanistan,AFG,12.5541430432792,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AF,Afghanistan,AFG,11.6979765879561,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AF,Afghanistan,AFG,10.8618596746783,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AF,Afghanistan,AFG,10.1160013647219,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AF,Afghanistan,AFG,9.43573133310603,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AL,Albania,ALB,28.5043804755945,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AL,Albania,ALB,25.968253968254,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AL,Albania,ALB,23.1852315394243,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AL,Albania,ALB,20.6051437216339,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AL,Albania,ALB,19.4758784991066,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AL,Albania,ALB,18.4798375398898,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DZ,Algeria,DZA,35.6409814682647,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DZ,Algeria,DZA,34.0285459892615,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DZ,Algeria,DZA,32.1339183180707,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DZ,Algeria,DZA,30.2206809583859,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DZ,Algeria,DZA,28.2756268122122,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DZ,Algeria,DZA,26.2766768292683,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AO,Angola,AGO,22.4057843996494,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AO,Angola,AGO,20.3642130032227,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AO,Angola,AGO,18.477998065764,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AO,Angola,AGO,16.524236983842,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AO,Angola,AGO,14.6869320997852,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AO,Angola,AGO,13.0165489209329,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AG,Antigua and Barbuda,ATG,10.8695652173913,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AG,Antigua and Barbuda,ATG,12.6436781609195,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AG,Antigua and Barbuda,ATG,13.4146341463415,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AG,Antigua and Barbuda,ATG,14.1025641025641,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AG,Antigua and Barbuda,ATG,16.1764705882353,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AG,Antigua and Barbuda,ATG,16.1290322580645,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AR,Argentina,ARG,44.5546198552959,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AR,Argentina,ARG,44.1224550453262,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AR,Argentina,ARG,43.7343131420291,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AR,Argentina,ARG,43.2295477332466,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AR,Argentina,ARG,42.7008870898286,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AR,Argentina,ARG,42.072030651341,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AM,Armenia,ARM,31.505016722408,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AM,Armenia,ARM,32.1524966261808,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AM,Armenia,ARM,30.9452736318408,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AM,Armenia,ARM,29.8342541436464,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AM,Armenia,ARM,30.7787775364567,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AM,Armenia,ARM,32.1579689703808,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AW,Aruba,ABW,19.2307692307692,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AW,Aruba,ABW,19.8019801980198,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AW,Aruba,ABW,21,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AW,Aruba,ABW,21.978021978022,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AW,Aruba,ABW,23.75,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AW,Aruba,ABW,24.1935483870968,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AU,Australia,AUS,44.2270713151074,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AU,Australia,AUS,44.0501696125692,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AU,Australia,AUS,43.4844054580897,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AU,Australia,AUS,42.9335410176532,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AU,Australia,AUS,42.4961377179431,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AU,Australia,AUS,42.2179329706966,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AT,Austria,AUT,31.8102138599977,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AT,Austria,AUT,31.6353249226375,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AT,Austria,AUT,31.5329530282801,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AT,Austria,AUT,31.3715710723192,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AT,Austria,AUT,31.3047833708991,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AT,Austria,AUT,30.9908735332464,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AZ,Azerbaijan,AZE,27.0050972641215,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AZ,Azerbaijan,AZE,26.3140532219046,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AZ,Azerbaijan,AZE,25.6685740978629,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AZ,Azerbaijan,AZE,24.9969200443514,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AZ,Azerbaijan,AZE,25.6370656370656,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AZ,Azerbaijan,AZE,26.4412416851441,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BS,"Bahamas, The",BHS,40.3100775193798,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BS,"Bahamas, The",BHS,40.1662049861496,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BS,"Bahamas, The",BHS,39.8176291793313,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BS,"Bahamas, The",BHS,39.7306397306397,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BS,"Bahamas, The",BHS,39.6428571428571,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BS,"Bahamas, The",BHS,39.2996108949416,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BH,Bahrain,BHR,55.0735294117647,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BH,Bahrain,BHR,55.3514376996805,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BH,Bahrain,BHR,52.901023890785,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BH,Bahrain,BHR,50.4491017964072,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BH,Bahrain,BHR,51.063829787234,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BH,Bahrain,BHR,51.1111111111111,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BD,Bangladesh,BGD,17.9670843463624,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BD,Bangladesh,BGD,16.0131281182589,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BD,Bangladesh,BGD,14.2314195089916,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BD,Bangladesh,BGD,12.5914007735074,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BD,Bangladesh,BGD,11.6034036873279,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BD,Bangladesh,BGD,10.6205650643473,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BB,Barbados,BRB,15.625,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BB,Barbados,BRB,15.6583629893238,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BB,Barbados,BRB,16.1172161172161,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BB,Barbados,BRB,16.4179104477612,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BB,Barbados,BRB,15.9695817490494,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BB,Barbados,BRB,15.3846153846154,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BY,Belarus,BLR,35.4319654427646,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BY,Belarus,BLR,34.5485196501949,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BY,Belarus,BLR,33.7092602172788,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BY,Belarus,BLR,32.8992185934682,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BY,Belarus,BLR,32.0541760722348,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BY,Belarus,BLR,31.2798518374111,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BE,Belgium,BEL,48.037199320397,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BE,Belgium,BEL,47.8384059957956,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BE,Belgium,BEL,47.6353601674755,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BE,Belgium,BEL,47.4581223217764,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BE,Belgium,BEL,47.3083357937211,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BE,Belgium,BEL,47.0883030971234,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BZ,Belize,BLZ,21.264367816092,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BZ,Belize,BLZ,22.0064724919094,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BZ,Belize,BLZ,22.4264705882353,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BZ,Belize,BLZ,23.109243697479,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BZ,Belize,BLZ,23.3009708737864,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BZ,Belize,BLZ,22.9946524064171,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BJ,Benin,BEN,22.1803474584061,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BJ,Benin,BEN,21.062039957939,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BJ,Benin,BEN,20.004888182818,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BJ,Benin,BEN,18.9235861275004,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BJ,Benin,BEN,18.1590377547611,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BJ,Benin,BEN,16.8566286742651,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BT,Bhutan,BTN,21.2628865979381,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BT,Bhutan,BTN,19.1073919107392,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BT,Bhutan,BTN,16.7692307692308,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BT,Bhutan,BTN,13.2743362831858,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BT,Bhutan,BTN,10.7843137254902,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BT,Bhutan,BTN,8.58208955223881,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BO,Bolivia,BOL,33.578231292517,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BO,Bolivia,BOL,32.460372157133,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BO,Bolivia,BOL,31.1992304403591,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BO,Bolivia,BOL,30.0494350282486,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BO,Bolivia,BOL,28.9063523248199,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BO,Bolivia,BOL,27.0532823079188,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BA,Bosnia and Herzegovina,BIH,19.2408376963351,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BA,Bosnia and Herzegovina,BIH,18.9856957087126,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BA,Bosnia and Herzegovina,BIH,18.9175257731959,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BA,Bosnia and Herzegovina,BIH,18.8526727509778,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BA,Bosnia and Herzegovina,BIH,18.9150809429139,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BA,Bosnia and Herzegovina,BIH,19.2265193370166,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BW,Botswana,BWA,29.1686922702965,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BW,Botswana,BWA,28.3248730964467,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BW,Botswana,BWA,27.5053304904051,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BW,Botswana,BWA,26.4236902050114,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BW,Botswana,BWA,24.1792929292929,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BW,Botswana,BWA,20.6647398843931,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BR,Brazil,BRA,41.5677262862249,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BR,Brazil,BRA,40.9589672660212,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BR,Brazil,BRA,40.3041763814722,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BR,Brazil,BRA,39.5753703332283,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BR,Brazil,BRA,37.8575708346974,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BR,Brazil,BRA,36.1568480701379,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BN,Brunei Darussalam,BRN,38.9277389277389,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BN,Brunei Darussalam,BRN,38.1546134663342,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BN,Brunei Darussalam,BRN,37.1273712737127,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BN,Brunei Darussalam,BRN,36.144578313253,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BN,Brunei Darussalam,BRN,35.8108108108108,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BN,Brunei Darussalam,BRN,34.6303501945525,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BG,Bulgaria,BGR,35.6670884296359,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BG,Bulgaria,BGR,34.9573690621194,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BG,Bulgaria,BGR,34.1403097748275,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BG,Bulgaria,BGR,33.3916520869783,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BG,Bulgaria,BGR,33.0701124670974,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BG,Bulgaria,BGR,32.6947058156672,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BF,Burkina Faso,BFA,15.1548981300586,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BF,Burkina Faso,BFA,12.960102960103,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BF,Burkina Faso,BFA,10.8255103561317,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BF,Burkina Faso,BFA,8.92411060384185,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BF,Burkina Faso,BFA,7.54212091179386,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BF,Burkina Faso,BFA,6.86641697877653,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BI,Burundi,BDI,6.59452460229375,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BI,Burundi,BDI,5.82692515975306,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BI,Burundi,BDI,5.10939510939511,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BI,Burundi,BDI,4.46508840275697,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BI,Burundi,BDI,3.86473429951691,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",BI,Burundi,BDI,3.35414808206958,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CV,Cabo Verde,CPV,33.2023575638507,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CV,Cabo Verde,CPV,31.006160164271,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CV,Cabo Verde,CPV,28.6012526096033,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CV,Cabo Verde,CPV,26.0180995475113,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CV,Cabo Verde,CPV,23.75,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CV,Cabo Verde,CPV,21.3675213675214,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KH,Cambodia,KHM,9.97639854564011,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KH,Cambodia,KHM,9.50922380786634,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KH,Cambodia,KHM,9.23929320155735,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KH,Cambodia,KHM,9.06487768960157,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KH,Cambodia,KHM,8.50510677808728,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KH,Cambodia,KHM,7.58445572974167,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CM,Cameroon,CMR,27.5540736941096,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CM,Cameroon,CMR,26.1249030256012,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CM,Cameroon,CMR,25.1833066872485,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CM,Cameroon,CMR,23.5825955923903,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CM,Cameroon,CMR,22.011630411372,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CM,Cameroon,CMR,20.4788335680557,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CA,Canada,CAN,40.2536938946195,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CA,Canada,CAN,39.7761237765926,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CA,Canada,CAN,39.3253549947293,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CA,Canada,CAN,38.9529580401355,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CA,Canada,CAN,37.9996586448199,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CA,Canada,CAN,37.4900571263287,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CF,Central African Republic,CAF,19.9042265250885,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CF,Central African Republic,CAF,19.2873563218391,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CF,Central African Republic,CAF,18.8841201716738,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CF,Central African Republic,CAF,18.6366135239142,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CF,Central African Republic,CAF,18.412213740458,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CF,Central African Republic,CAF,18.2286302780639,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TD,Chad,TCD,11.5178243292907,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TD,Chad,TCD,11.2542662116041,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TD,Chad,TCD,11.2342720191732,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TD,Chad,TCD,11.1311890133719,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TD,Chad,TCD,11.0458452722063,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TD,Chad,TCD,10.6872794488321,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JG,Channel Islands,CHI,15.3374233128834,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JG,Channel Islands,CHI,15.0943396226415,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JG,Channel Islands,CHI,14.9350649350649,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JG,Channel Islands,CHI,14.7651006711409,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JG,Channel Islands,CHI,14.5833333333333,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JG,Channel Islands,CHI,15,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CL,Chile,CHL,43.8908725730864,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CL,Chile,CHL,43.3968864789225,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CL,Chile,CHL,42.7836944546456,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CL,Chile,CHL,41.9836956521739,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CL,Chile,CHL,41.1426592797784,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CL,Chile,CHL,40.3057363402452,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CN,China,CHN,28.8552904671633,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CN,China,CHN,25.509000442705,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CN,China,CHN,21.9451560753981,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CN,China,CHN,18.4489729614059,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CN,China,CHN,15.8323178713763,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CN,China,CHN,13.8034148798425,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CO,Colombia,COL,36.6936542227786,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CO,Colombia,COL,36.0412539832917,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CO,Colombia,COL,35.3070581696925,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CO,Colombia,COL,34.5506040403028,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CO,Colombia,COL,33.7771701982228,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CO,Colombia,COL,32.7198486804576,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KM,Comoros,COM,14.2857142857143,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KM,Comoros,COM,14.0762463343109,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KM,Comoros,COM,14.1430948419301,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KM,Comoros,COM,14.1776937618147,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KM,Comoros,COM,14.1630901287554,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KM,Comoros,COM,14.043583535109,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CD,"Congo, Dem. Rep.",COD,21.8678943379277,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CD,"Congo, Dem. Rep.",COD,20.5495972085993,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CD,"Congo, Dem. Rep.",COD,19.2825942104094,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CD,"Congo, Dem. Rep.",COD,18.0557626360519,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CD,"Congo, Dem. Rep.",COD,16.8713700847377,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CD,"Congo, Dem. Rep.",COD,15.7171092205895,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CG,"Congo, Rep.",COG,33.0978377221152,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CG,"Congo, Rep.",COG,31.9873510094867,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CG,"Congo, Rep.",COG,30.9429700734049,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CG,"Congo, Rep.",COG,29.7409657818996,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CG,"Congo, Rep.",COG,28.5661764705882,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CG,"Congo, Rep.",COG,27.4979009235936,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CR,Costa Rica,CRI,38.5168898660803,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CR,Costa Rica,CRI,35.896337545513,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CR,Costa Rica,CRI,32.962962962963,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CR,Costa Rica,CRI,29.3129770992366,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CR,Costa Rica,CRI,26.9617706237425,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CR,Costa Rica,CRI,24.5614035087719,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CI,Cote d'Ivoire,CIV,27.7952571026062,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CI,Cote d'Ivoire,CIV,26.0486930860034,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CI,Cote d'Ivoire,CIV,24.3603748634508,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CI,Cote d'Ivoire,CIV,22.7994049094967,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CI,Cote d'Ivoire,CIV,21.6556477704318,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CI,Cote d'Ivoire,CIV,20.7576758005943,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HR,Croatia,HRV,28.1081081081081,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HR,Croatia,HRV,27.3858921161826,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HR,Croatia,HRV,26.7775752051048,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HR,Croatia,HRV,26.3851653261841,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HR,Croatia,HRV,26.1351524195268,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HR,Croatia,HRV,25.886524822695,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CU,Cuba,CUB,38.0833851897946,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CU,Cuba,CUB,37.9133055580179,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CU,Cuba,CUB,37.6461211477152,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CU,Cuba,CUB,37.1667115539995,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CU,Cuba,CUB,36.6995975118917,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CU,Cuba,CUB,36.2452830188679,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CY,Cyprus,CYP,33.9347079037801,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CY,Cyprus,CYP,34.2701722574796,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CY,Cyprus,CYP,34.269119070668,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CY,Cyprus,CYP,34.3584305408271,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CY,Cyprus,CYP,34.1121495327103,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CY,Cyprus,CYP,33.6814621409922,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CZ,Czechia,CZE,35.6347438752784,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CZ,Czechia,CZE,35.7021034678795,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CZ,Czechia,CZE,35.5879190694947,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CZ,Czechia,CZE,35.7623646473515,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CZ,Czechia,CZE,36.0769900377213,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CZ,Czechia,CZE,36.3257795855123,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DK,Denmark,DNK,43.3668963080728,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DK,Denmark,DNK,42.8931724013691,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DK,Denmark,DNK,42.3403469915098,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DK,Denmark,DNK,41.925814911952,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DK,Denmark,DNK,41.8004587155963,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DK,Denmark,DNK,41.6650457109512,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DJ,Djibouti,DJI,38.8888888888889,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DJ,Djibouti,DJI,38.7290167865707,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DJ,Djibouti,DJI,38.659793814433,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DJ,Djibouti,DJI,38.5359116022099,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DJ,Djibouti,DJI,38.3458646616541,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DJ,Djibouti,DJI,38.3050847457627,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DO,Dominican Republic,DOM,39.3259481787458,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DO,Dominican Republic,DOM,36.7375461715084,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DO,Dominican Republic,DOM,33.3511720004281,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DO,Dominican Republic,DOM,30.301281311324,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DO,Dominican Republic,DOM,28.2777638505891,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DO,Dominican Republic,DOM,27.2702180513387,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EC,Ecuador,ECU,31.4926660914582,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EC,Ecuador,ECU,31.0045996933538,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EC,Ecuador,ECU,30.5291427741889,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EC,Ecuador,ECU,29.6178089842815,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EC,Ecuador,ECU,28.4022622834924,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EC,Ecuador,ECU,27.0940339786646,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,21.3680258777418,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,21.3010400122957,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,21.3619961826212,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,21.4358074905121,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,21.5374051791787,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,21.8577489039175,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SV,El Salvador,SLV,31.1235605353252,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SV,El Salvador,SLV,30.090061112898,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SV,El Salvador,SLV,28.9807343981558,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SV,El Salvador,SLV,27.7898976338312,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SV,El Salvador,SLV,25.4871259568546,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SV,El Salvador,SLV,23.4798877455566,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GQ,Equatorial Guinea,GNQ,21.026282853567,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GQ,Equatorial Guinea,GNQ,20.6896551724138,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GQ,Equatorial Guinea,GNQ,20.6953642384106,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GQ,Equatorial Guinea,GNQ,20.4633204633205,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GQ,Equatorial Guinea,GNQ,20.5882352941176,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GQ,Equatorial Guinea,GNQ,18.4491978609626,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ER,Eritrea,ERI,11.4705445911856,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ER,Eritrea,ERI,10.3814666434419,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ER,Eritrea,ERI,9.49732179645653,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ER,Eritrea,ERI,8.80710659898477,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ER,Eritrea,ERI,8.24772527149985,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ER,Eritrea,ERI,7.974335472044,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EE,Estonia,EST,30.46875,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EE,Estonia,EST,30.7929176289453,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EE,Estonia,EST,30.9433962264151,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EE,Estonia,EST,31.2820512820513,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EE,Estonia,EST,32.0307048150733,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",EE,Estonia,EST,32.9712460063898,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SZ,Eswatini,SWZ,10.7309486780715,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SZ,Eswatini,SWZ,10.8040201005025,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SZ,Eswatini,SWZ,11.2217194570136,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SZ,Eswatini,SWZ,11.4661654135338,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SZ,Eswatini,SWZ,11.8257261410788,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SZ,Eswatini,SWZ,11.6009280742459,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ET,Ethiopia,ETH,9.64807665096723,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ET,Ethiopia,ETH,8.58373040932315,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ET,Ethiopia,ETH,7.78410881209957,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ET,Ethiopia,ETH,7.30177962892844,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ET,Ethiopia,ETH,6.6358024691358,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ET,Ethiopia,ETH,6.07177053411598,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FJ,Fiji,FJI,27.0179372197309,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FJ,Fiji,FJI,26.1627906976744,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FJ,Fiji,FJI,25.0608272506083,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FJ,Fiji,FJI,24.0147783251232,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FJ,Fiji,FJI,22.8387096774194,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FJ,Fiji,FJI,20.8791208791209,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FI,Finland,FIN,41.2195568577184,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FI,Finland,FIN,40.7973174366617,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FI,Finland,FIN,40.335493709493,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FI,Finland,FIN,39.8493335908828,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FI,Finland,FIN,39.1074574280681,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FI,Finland,FIN,38.1792660918388,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FR,France,FRA,38.2028869533101,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FR,France,FRA,37.5322231184071,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FR,France,FRA,36.8980388965742,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FR,France,FRA,36.3596446786233,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FR,France,FRA,35.9209074610399,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FR,France,FRA,35.5563374087431,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PF,French Polynesia,PYF,28.6219081272085,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PF,French Polynesia,PYF,28.7313432835821,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PF,French Polynesia,PYF,29.0196078431373,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PF,French Polynesia,PYF,28.6919831223629,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PF,French Polynesia,PYF,29.1666666666667,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PF,French Polynesia,PYF,30.1507537688442,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GA,Gabon,GAB,44.0068493150685,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GA,Gabon,GAB,43.1599229287091,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GA,Gabon,GAB,41.8840579710145,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GA,Gabon,GAB,40,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GA,Gabon,GAB,37.372802960222,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GA,Gabon,GAB,34.2133051742344,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GM,"Gambia, The",GMB,29.862874555612,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GM,"Gambia, The",GMB,28.256989886972,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GM,"Gambia, The",GMB,26.3414634146341,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GM,"Gambia, The",GMB,24.4100895036615,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GM,"Gambia, The",GMB,22.3474178403756,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GM,"Gambia, The",GMB,19.8689956331878,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GE,Georgia,GEO,24.6457607433217,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GE,Georgia,GEO,24.2652084757348,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GE,Georgia,GEO,24.0893854748603,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GE,Georgia,GEO,24.4992620704196,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GE,Georgia,GEO,25.2022893230709,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GE,Georgia,GEO,25.8058608058608,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DE,Germany,DEU,36.491364065793,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DE,Germany,DEU,35.8914439211246,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DE,Germany,DEU,35.3575475636667,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DE,Germany,DEU,35.1662036593543,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DE,Germany,DEU,35.2051186452909,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",DE,Germany,DEU,34.8797336248882,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GH,Ghana,GHA,26.514730405781,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GH,Ghana,GHA,24.7135438133707,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GH,Ghana,GHA,23.377291432847,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GH,Ghana,GHA,21.9507012324692,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GH,Ghana,GHA,20.0942664518823,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GH,Ghana,GHA,18.360790211224302,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GR,Greece,GRC,38.1808376775121,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GR,Greece,GRC,37.2580790350167,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GR,Greece,GRC,36.2829453853818,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GR,Greece,GRC,35.4360094665939,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GR,Greece,GRC,35.1700871520945,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GR,Greece,GRC,34.8095659875996,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GD,Grenada,GRD,17.7570093457944,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GD,Grenada,GRD,17.3076923076923,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GD,Grenada,GRD,17.4757281553398,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GD,Grenada,GRD,17.4757281553398,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GD,Grenada,GRD,16.8316831683168,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GD,Grenada,GRD,16.4948453608247,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GU,Guam,GUM,47.6470588235294,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GU,Guam,GUM,47.5,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GU,Guam,GUM,47.7987421383648,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GU,Guam,GUM,47.741935483871,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GU,Guam,GUM,47.945205479452,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GU,Guam,GUM,48.4615384615385,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GT,Guatemala,GTM,24.8477391571824,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GT,Guatemala,GTM,23.7275135964301,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GT,Guatemala,GTM,22.7383863080685,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GT,Guatemala,GTM,21.8493395215994,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GT,Guatemala,GTM,21.0758289091455,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GT,Guatemala,GTM,20.3037120359955,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GN,Guinea,GIN,18.9666342727567,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GN,Guinea,GIN,17.7546892239794,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GN,Guinea,GIN,16.6858097525321,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GN,Guinea,GIN,15.7100388749142,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GN,Guinea,GIN,14.8781421462294,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GN,Guinea,GIN,14.1196013289037,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GW,Guinea-Bissau,GNB,25,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GW,Guinea-Bissau,GNB,22.8877679697352,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GW,Guinea-Bissau,GNB,20.6896551724138,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GW,Guinea-Bissau,GNB,18.4603299293009,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GW,Guinea-Bissau,GNB,16.4035087719298,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GW,Guinea-Bissau,GNB,14.1453831041257,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GY,Guyana,GUY,14.3564356435644,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GY,Guyana,GUY,14.1041931385006,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GY,Guyana,GUY,14.0789473684211,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GY,Guyana,GUY,14.1129032258065,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GY,Guyana,GUY,14.2661179698217,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GY,Guyana,GUY,14.3250688705234,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HT,Haiti,HTI,28.4636423653683,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HT,Haiti,HTI,25.1086187733657,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HT,Haiti,HTI,20.9565968473332,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HT,Haiti,HTI,16.6103275440028,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HT,Haiti,HTI,14.7231436590967,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HT,Haiti,HTI,12.9676511954993,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HN,Honduras,HND,26.6381766381766,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HN,Honduras,HND,25.0754494160871,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HN,Honduras,HND,23.4125833574949,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HN,Honduras,HND,21.8890314304041,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HN,Honduras,HND,20.7476301198354,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HN,Honduras,HND,19.5758564437194,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HK,"Hong Kong SAR, China",HKG,46.8143286847142,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HK,"Hong Kong SAR, China",HKG,46.822695035461,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HK,"Hong Kong SAR, China",HKG,47.7018993765405,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HK,"Hong Kong SAR, China",HKG,48.6102984201287,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HK,"Hong Kong SAR, China",HKG,50.0325520833333,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HK,"Hong Kong SAR, China",HKG,50.8802209181912,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HU,Hungary,HUN,33.481331987891,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HU,Hungary,HUN,32.2848012782105,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HU,Hungary,HUN,31.1014263074485,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HU,Hungary,HUN,30.3012519561815,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HU,Hungary,HUN,30.7736887858592,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",HU,Hungary,HUN,31.3529128550794,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IS,Iceland,ISL,47.1810089020772,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IS,Iceland,ISL,46.8553459119497,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IS,Iceland,ISL,46.6216216216216,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IS,Iceland,ISL,46.0714285714286,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IS,Iceland,ISL,45.6928838951311,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IS,Iceland,ISL,45.0980392156863,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IN,India,IND,17.2502124938591,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IN,India,IND,16.3029134266459,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IN,India,IND,15.4163975499138,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IN,India,IND,14.598838486713,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IN,India,IND,14.0491146720457,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IN,India,IND,13.4994072897605,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ID,Indonesia,IDN,26.8085988369592,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ID,Indonesia,IDN,24.8092871744586,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ID,Indonesia,IDN,22.7907929847069,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ID,Indonesia,IDN,20.7768774618429,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ID,Indonesia,IDN,17.8448524563139,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ID,Indonesia,IDN,15.1192668767809,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,36.835814134907,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,35.6821508668735,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,34.7873189645342,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,32.772484524821,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,30.8009062494832,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,28.9184202121997,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IQ,Iraq,IRQ,35.1982329586758,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IQ,Iraq,IRQ,35.0074284606938,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IQ,Iraq,IRQ,34.9148951713054,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IQ,Iraq,IRQ,34.7548422335196,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IQ,Iraq,IRQ,34.9211805726072,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IQ,Iraq,IRQ,35.454960611942,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IE,Ireland,IRL,30.9921726253438,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IE,Ireland,IRL,30.2216252518469,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IE,Ireland,IRL,29.6848688958383,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IE,Ireland,IRL,28.7592008412198,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IE,Ireland,IRL,27.9778393351801,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IE,Ireland,IRL,27.5276125743415,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IL,Israel,ISR,45.5739361030433,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IL,Israel,ISR,45.2230157660693,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IL,Israel,ISR,45.0030284675954,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IL,Israel,ISR,44.7622214832059,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IL,Israel,ISR,44.6632901894579,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IL,Israel,ISR,44.8766392531674,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IT,Italy,ITA,33.1883157240522,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IT,Italy,ITA,32.7951213869011,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IT,Italy,ITA,32.5379646515433,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IT,Italy,ITA,32.1973818130769,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IT,Italy,ITA,32.0917006038478,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",IT,Italy,ITA,32.055884009009,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JM,Jamaica,JAM,26.2970859985785,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JM,Jamaica,JAM,25.7205399489237,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JM,Jamaica,JAM,25.3820350354081,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JM,Jamaica,JAM,24.864446165763,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JM,Jamaica,JAM,24.1267262388302,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JM,Jamaica,JAM,23.4573119188504,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JP,Japan,JPN,45.4687389113619,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JP,Japan,JPN,44.1167463663989,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JP,Japan,JPN,42.0077335622426,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JP,Japan,JPN,38.5713717535696,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JP,Japan,JPN,38.3522248017802,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JP,Japan,JPN,38.0423401609842,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JO,Jordan,JOR,42.6527958387516,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JO,Jordan,JOR,42.1313506815366,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JO,Jordan,JOR,41.6412213740458,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JO,Jordan,JOR,41.5355569540592,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JO,Jordan,JOR,41.1015968525804,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",JO,Jordan,JOR,38.4042869901756,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KZ,Kazakhstan,KAZ,24.757021048238,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KZ,Kazakhstan,KAZ,25.080082909365,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KZ,Kazakhstan,KAZ,25.4514073287307,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KZ,Kazakhstan,KAZ,25.9261800219539,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KZ,Kazakhstan,KAZ,26.443729903537,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KZ,Kazakhstan,KAZ,26.7128370022261,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KE,Kenya,KEN,13.0355729534322,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KE,Kenya,KEN,11.9680265956147,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KE,Kenya,KEN,10.979153859051,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KE,Kenya,KEN,10.0399552501199,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KE,Kenya,KEN,9.19468961995769,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KE,Kenya,KEN,8.42325244167697,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KI,Kiribati,KIR,21.6981132075472,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KI,Kiribati,KIR,21.4285714285714,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KI,Kiribati,KIR,21.1111111111111,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KI,Kiribati,KIR,20.7317073170732,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KI,Kiribati,KIR,18.1818181818182,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KI,Kiribati,KIR,16.9014084507042,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,30.0337904989068,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,29.7089914697359,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,29.5019317990929,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,29.2775831873905,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,29.0952534117539,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,28.6718827374468,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KR,"Korea, Rep.",KOR,41.0934673366834,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KR,"Korea, Rep.",KOR,40.8478319195922,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KR,"Korea, Rep.",KOR,40.6225416197138,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KR,"Korea, Rep.",KOR,40.0178350044588,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KR,"Korea, Rep.",KOR,39.2551619115869,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KR,"Korea, Rep.",KOR,36.9566229172484,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KW,Kuwait,KWT,58.7332589285714,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KW,Kuwait,KWT,58.7232620320856,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KW,Kuwait,KWT,58.4749455337691,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KW,Kuwait,KWT,57.8174186778594,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KW,Kuwait,KWT,58.0075662042875,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KW,Kuwait,KWT,52.2815533980583,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KG,Kyrgyz Republic,KGZ,16.8535388927821,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KG,Kyrgyz Republic,KGZ,16.8728908886389,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KG,Kyrgyz Republic,KGZ,16.8782229274098,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KG,Kyrgyz Republic,KGZ,16.8314833501514,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KG,Kyrgyz Republic,KGZ,17.4433797909408,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",KG,Kyrgyz Republic,KGZ,17.9481346678799,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LA,Lao PDR,LAO,19.4017094017094,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LA,Lao PDR,LAO,16.5728580362727,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LA,Lao PDR,LAO,13.6269430051813,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LA,Lao PDR,LAO,11.022453145296,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LA,Lao PDR,LAO,8.72331691297209,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LA,Lao PDR,LAO,7.77568331762488,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LV,Latvia,LVA,30.0344657804037,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LV,Latvia,LVA,30.0956937799043,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LV,Latvia,LVA,30.3859964093357,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LV,Latvia,LVA,30.746520455504,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LV,Latvia,LVA,31.3228789706474,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LV,Latvia,LVA,31.8813368381525,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LB,Lebanon,LBN,44.6071640609539,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LB,Lebanon,LBN,44.5161290322581,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LB,Lebanon,LBN,44.0682217205919,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LB,Lebanon,LBN,42.7202472952087,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LB,Lebanon,LBN,42.089650626236,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LB,Lebanon,LBN,41.0284868664447,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LS,Lesotho,LSO,12.8301886792453,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LS,Lesotho,LSO,11.5480338476854,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LS,Lesotho,LSO,10.2803738317757,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LS,Lesotho,LSO,8.94878706199461,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LS,Lesotho,LSO,7.87221905305191,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LS,Lesotho,LSO,6.38297872340426,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LR,Liberia,LBR,25.5163224516989,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LR,Liberia,LBR,24.4567963617989,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LR,Liberia,LBR,23.5168195718654,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LR,Liberia,LBR,22.5449515905947,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LR,Liberia,LBR,23.2692307692308,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LR,Liberia,LBR,27.7698525915359,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LY,Libya,LBY,39.0375178090866,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LY,Libya,LBY,39.6788611157093,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LY,Libya,LBY,39.6604110813226,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LY,Libya,LBY,39.6368553216148,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LY,Libya,LBY,39.7724878870866,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LY,Libya,LBY,39.8826291079812,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LT,Lithuania,LTU,30.110036678893,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LT,Lithuania,LTU,30.0749429781688,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LT,Lithuania,LTU,30.3832116788321,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LT,Lithuania,LTU,31.1231780508717,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LT,Lithuania,LTU,31.5600882028666,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LT,Lithuania,LTU,31.8366242899648,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LU,Luxembourg,LUX,44.6691176470588,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LU,Luxembourg,LUX,43.7869822485207,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LU,Luxembourg,LUX,42.5764192139738,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LU,Luxembourg,LUX,41.1899313501144,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LU,Luxembourg,LUX,40.5405405405405,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LU,Luxembourg,LUX,39.2670157068063,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MO,"Macao SAR, China",MAC,48.1164383561644,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MO,"Macao SAR, China",MAC,48.0373831775701,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MO,"Macao SAR, China",MAC,47.8632478632479,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MO,"Macao SAR, China",MAC,48.3796296296296,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MO,"Macao SAR, China",MAC,48.4924623115578,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MO,"Macao SAR, China",MAC,48.7465181058496,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MG,Madagascar,MDG,17.2099356329427,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MG,Madagascar,MDG,15.6411594477916,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MG,Madagascar,MDG,14.1115363586659,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MG,Madagascar,MDG,13.2804064782471,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MG,Madagascar,MDG,12.6375260184359,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MG,Madagascar,MDG,11.5624458686991,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MW,Malawi,MWI,8.52157836963429,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MW,Malawi,MWI,8.10576794991341,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MW,Malawi,MWI,7.84586815227484,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MW,Malawi,MWI,7.63999293411058,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MW,Malawi,MWI,7.11490215755143,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MW,Malawi,MWI,6.18185667407643,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MY,Malaysia,MYS,36.0999641121008,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MY,Malaysia,MYS,34.2316534040672,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MY,Malaysia,MYS,32.9283392663674,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MY,Malaysia,MYS,31.4133219470538,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MY,Malaysia,MYS,28.1640530759952,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MY,Malaysia,MYS,25.11119652957,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MV,Maldives,MDV,22.96918767507,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MV,Maldives,MDV,20,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MV,Maldives,MDV,16.8350168350168,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MV,Maldives,MDV,14.2857142857143,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MV,Maldives,MDV,13.8775510204082,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MV,Maldives,MDV,14.3518518518519,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ML,Mali,MLI,20.5240174672489,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ML,Mali,MLI,18.4983911333572,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ML,Mali,MLI,16.3484087102178,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ML,Mali,MLI,14.3664717348928,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ML,Mali,MLI,12.84903771276,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ML,Mali,MLI,11.6886377903327,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MT,Malta,MLT,47.5638051044084,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MT,Malta,MLT,47.4056603773585,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MT,Malta,MLT,46.6183574879227,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MT,Malta,MLT,45.945945945946,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MT,Malta,MLT,45.3164556962025,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MT,Malta,MLT,44.8,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MR,Mauritania,MRT,30.5147058823529,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MR,Mauritania,MRT,28.8642659279778,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MR,Mauritania,MRT,27.009850651414,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MR,Mauritania,MRT,25.1477104874446,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MR,Mauritania,MRT,23.0077120822622,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MR,Mauritania,MRT,20.998023715415,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MU,Mauritius,MUS,19.4577352472089,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MU,Mauritius,MUS,19.9837530463038,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MU,Mauritius,MUS,20.5276174773289,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MU,Mauritius,MUS,21.0970464135021,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MU,Mauritius,MUS,21.4159292035398,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MU,Mauritius,MUS,21.759697256386,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MX,Mexico,MEX,38.2501836532626,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MX,Mexico,MEX,37.4997879307127,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MX,Mexico,MEX,36.6307842358126,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MX,Mexico,MEX,35.9098523210813,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MX,Mexico,MEX,35.3520211338477,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MX,Mexico,MEX,35.1383064000837,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,11.4285714285714,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,11.6504854368932,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,11.214953271028,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,11.214953271028,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,13.0841121495327,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,13.4020618556701,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MD,Moldova,MDA,20.8672875436554,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MD,Moldova,MDA,20.8508256367198,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MD,Moldova,MDA,21.2314225053079,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MD,Moldova,MDA,22.078870496592,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MD,Moldova,MDA,22.2452743199631,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MD,Moldova,MDA,22.4564619615032,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MN,Mongolia,MNG,35.0205198358413,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MN,Mongolia,MNG,32.7681533357906,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MN,Mongolia,MNG,30.4829770387965,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MN,Mongolia,MNG,28.0650542118432,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MN,Mongolia,MNG,27.7318241184153,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MN,Mongolia,MNG,27.7472527472527,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ME,Montenegro,MNE,31.1897106109325,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ME,Montenegro,MNE,30.7568438003221,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ME,Montenegro,MNE,30.1948051948052,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ME,Montenegro,MNE,28.3142389525368,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ME,Montenegro,MNE,25.8536585365854,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ME,Montenegro,MNE,23.6156351791531,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MA,Morocco,MAR,29.6518819579431,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MA,Morocco,MAR,28.1894889865057,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MA,Morocco,MAR,27.050622406639,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MA,Morocco,MAR,26.4123998606757,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MA,Morocco,MAR,25.7369656765923,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MA,Morocco,MAR,24.1053698074975,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MZ,Mozambique,MOZ,16.1750608362215,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MZ,Mozambique,MOZ,15.4629281929319,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MZ,Mozambique,MOZ,14.9112369711104,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MZ,Mozambique,MOZ,14.4178157145984,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MZ,Mozambique,MOZ,13.5973969088292,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MZ,Mozambique,MOZ,12.610554245283,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MM,Myanmar,MMR,16.575585259582,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MM,Myanmar,MMR,15.2664111994762,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MM,Myanmar,MMR,14.1271422877641,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MM,Myanmar,MMR,13.2520174189421,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MM,Myanmar,MMR,12.5281270681668,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MM,Myanmar,MMR,12.0551717588966,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NA,Namibia,NAM,23.3277591973244,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NA,Namibia,NAM,20.6516750803121,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NA,Namibia,NAM,18.2938856015779,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NA,Namibia,NAM,16.288877174486,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NA,Namibia,NAM,15.0544135429262,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NA,Namibia,NAM,14.0636042402827,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NP,Nepal,NPL,9.44026439772168,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NP,Nepal,NPL,8.61208373686955,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NP,Nepal,NPL,7.83616020242755,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NP,Nepal,NPL,6.95277118826828,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NP,Nepal,NPL,5.87749550687327,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NP,Nepal,NPL,4.59363957597173,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NL,Netherlands,NLD,44.8560403680617,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NL,Netherlands,NLD,43.0368319691863,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NL,Netherlands,NLD,40.7777709623996,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NL,Netherlands,NLD,37.8397124661076,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NL,Netherlands,NLD,35.8194435436799,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NL,Netherlands,NLD,33.492276695769,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NC,New Caledonia,NCL,35.361216730038,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NC,New Caledonia,NCL,34.1463414634146,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NC,New Caledonia,NCL,32.0175438596491,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NC,New Caledonia,NCL,30.952380952381,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NC,New Caledonia,NCL,30.5263157894737,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NC,New Caledonia,NCL,30.3571428571429,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NZ,New Zealand,NZL,42.0800696257615,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NZ,New Zealand,NZL,42.0100732600733,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NZ,New Zealand,NZL,41.8379685610641,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NZ,New Zealand,NZL,41.6796267496112,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NZ,New Zealand,NZL,41.6326530612245,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NZ,New Zealand,NZL,41.2180052956752,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NI,Nicaragua,NIC,28.2448849104859,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NI,Nicaragua,NIC,27.5459385196634,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NI,Nicaragua,NIC,26.8695014662757,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NI,Nicaragua,NIC,26.4065869437365,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NI,Nicaragua,NIC,25.7510729613734,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NI,Nicaragua,NIC,25.0664732898235,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NE,Niger,NER,9.47586922677737,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NE,Niger,NER,8.85924620902284,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NE,Niger,NER,8.42688106796116,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NE,Niger,NER,8.1073703366697,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NE,Niger,NER,7.85425984509654,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NE,Niger,NER,7.63476915140573,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NG,Nigeria,NGA,24.9547743074475,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NG,Nigeria,NGA,22.6782628296641,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NG,Nigeria,NGA,20.3408651297408,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NG,Nigeria,NGA,18.091261993701,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NG,Nigeria,NGA,16.683421720083,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NG,Nigeria,NGA,15.3539642532186,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MK,North Macedonia,MKD,28.3681214421252,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MK,North Macedonia,MKD,28.3539486203616,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MK,North Macedonia,MKD,28.6124401913876,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MK,North Macedonia,MKD,29.2255236239649,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MK,North Macedonia,MKD,29.5882053889171,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",MK,North Macedonia,MKD,28.8203086112494,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NO,Norway,NOR,39.9183356017888,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NO,Norway,NOR,39.1331016152116,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NO,Norway,NOR,38.0056240536448,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NO,Norway,NOR,37.230015586729,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NO,Norway,NOR,35.9862385321101,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",NO,Norway,NOR,35.0624852629097,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OM,Oman,OMN,51.1784511784512,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OM,Oman,OMN,44.5791726105563,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OM,Oman,OMN,40.9270998415214,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OM,Oman,OMN,40.5836753305974,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OM,Oman,OMN,43.2683379758589,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",OM,Oman,OMN,37.4378796245168,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PK,Pakistan,PAK,20.0579340402349,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PK,Pakistan,PAK,18.9033722400938,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PK,Pakistan,PAK,17.9868456868666,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PK,Pakistan,PAK,17.3980755325658,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PK,Pakistan,PAK,17.0125267387066,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PK,Pakistan,PAK,16.1957314273884,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PA,Panama,PAN,33.02407221665,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PA,Panama,PAN,32.3273518216422,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PA,Panama,PAN,31.5210932857992,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PA,Panama,PAN,30.671031096563,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PA,Panama,PAN,28.5092491838955,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PA,Panama,PAN,26.1359067149176,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PG,Papua New Guinea,PNG,7.03524171361195,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PG,Papua New Guinea,PNG,7.02726344948243,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PG,Papua New Guinea,PNG,7.05380577427822,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PG,Papua New Guinea,PNG,7.10169176426845,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PG,Papua New Guinea,PNG,7.56997455470738,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PG,Papua New Guinea,PNG,8.05675805675806,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PY,Paraguay,PRY,29.0629887672402,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PY,Paraguay,PRY,28.5338287660629,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PY,Paraguay,PRY,27.9979674796748,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PY,Paraguay,PRY,26.9719626168224,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PY,Paraguay,PRY,25.3436068304873,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PY,Paraguay,PRY,23.6526241468581,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PE,Peru,PER,38.9525368248772,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PE,Peru,PER,38.1048387096774,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PE,Peru,PER,37.2348867407301,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PE,Peru,PER,36.3269230769231,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PE,Peru,PER,35.3398220477046,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PE,Peru,PER,34.3009369832813,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PH,Philippines,PHL,21.8323625040519,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PH,Philippines,PHL,22.299987158084,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PH,Philippines,PHL,23.0316589179804,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PH,Philippines,PHL,23.75727605213,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PH,Philippines,PHL,23.9663247421199,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PH,Philippines,PHL,24.1525150125912,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PL,Poland,POL,28.6484223745487,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PL,Poland,POL,28.8410691379355,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PL,Poland,POL,29.181280427158,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PL,Poland,POL,29.3935127242386,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PL,Poland,POL,29.3788981288981,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PL,Poland,POL,29.3963460983985,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PT,Portugal,PRT,30.5183788878417,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PT,Portugal,PRT,29.0584568892247,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PT,Portugal,PRT,27.5547098001903,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PT,Portugal,PRT,25.9945662720745,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PT,Portugal,PRT,24.3537684460731,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PT,Portugal,PRT,22.7676767676768,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PR,Puerto Rico,PRI,44.9306876868714,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PR,Puerto Rico,PRI,44.9865229110512,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PR,Puerto Rico,PRI,45.0558213716108,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PR,Puerto Rico,PRI,45.298920200158,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PR,Puerto Rico,PRI,45.0677506775068,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PR,Puerto Rico,PRI,44.842284739983,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",QA,Qatar,QAT,75.8723404255319,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",QA,Qatar,QAT,74.7001713306682,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",QA,Qatar,QAT,64.9208282582217,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",QA,Qatar,QAT,62.7318718381113,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",QA,Qatar,QAT,62.6746506986028,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",QA,Qatar,QAT,62.1338912133891,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RO,Romania,ROU,26.0484730525048,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RO,Romania,ROU,25.712455971822,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RO,Romania,ROU,25.4510921177588,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RO,Romania,ROU,25.5214614319532,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RO,Romania,ROU,26.0973697962028,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RO,Romania,ROU,26.0482628786582,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RU,Russian Federation,RUS,33.7182789342566,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RU,Russian Federation,RUS,33.6455040454539,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RU,Russian Federation,RUS,33.7490360098101,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RU,Russian Federation,RUS,34.0335504619662,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RU,Russian Federation,RUS,34.2182473990929,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RU,Russian Federation,RUS,34.2310781713005,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RW,Rwanda,RWA,15.7615254646392,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RW,Rwanda,RWA,13.0583241048357,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RW,Rwanda,RWA,10.4464948562944,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RW,Rwanda,RWA,8.02858844550328,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RW,Rwanda,RWA,5.33286244040261,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RW,Rwanda,RWA,2.95218295218295,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",WS,Samoa,WSM,9.79381443298969,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",WS,Samoa,WSM,10.2150537634409,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",WS,Samoa,WSM,11.1731843575419,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",WS,Samoa,WSM,11.4942528735632,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",WS,Samoa,WSM,11.1764705882353,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",WS,Samoa,WSM,11.0429447852761,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ST,Sao Tome and Principe,STP,31.5270935960591,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ST,Sao Tome and Principe,STP,30.1675977653631,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ST,Sao Tome and Principe,STP,27.9220779220779,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ST,Sao Tome and Principe,STP,25.7142857142857,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ST,Sao Tome and Principe,STP,23.6641221374046,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ST,Sao Tome and Principe,STP,21.3675213675214,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SA,Saudi Arabia,SAU,48.5550872968091,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SA,Saudi Arabia,SAU,46.4964414116956,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SA,Saudi Arabia,SAU,45.2814904819765,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SA,Saudi Arabia,SAU,43.0698967434472,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SA,Saudi Arabia,SAU,44.1266763612862,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SA,Saudi Arabia,SAU,43.0457855115389,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SN,Senegal,SEN,21.5192410475681,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SN,Senegal,SEN,20.7027027027027,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SN,Senegal,SEN,20.1756720787863,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SN,Senegal,SEN,19.9959440275806,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SN,Senegal,SEN,19.8232323232323,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SN,Senegal,SEN,19.5102475379292,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RS,Serbia,SRB,26.51740237691,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RS,Serbia,SRB,26.3812584223075,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RS,Serbia,SRB,26.1450381679389,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RS,Serbia,SRB,25.6302930010708,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RS,Serbia,SRB,25.0409638554217,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",RS,Serbia,SRB,24.3759630200308,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SC,Seychelles,SYC,27.3684210526316,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SC,Seychelles,SYC,27.1739130434783,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SC,Seychelles,SYC,25.2873563218391,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SC,Seychelles,SYC,25,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SC,Seychelles,SYC,25,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SC,Seychelles,SYC,25.7142857142857,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SL,Sierra Leone,SLE,20.3671467004273,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SL,Sierra Leone,SLE,19.4541029207232,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SL,Sierra Leone,SLE,18.65234375,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SL,Sierra Leone,SLE,17.9951690821256,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SL,Sierra Leone,SLE,17.3669467787115,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SL,Sierra Leone,SLE,16.7449913430621,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SG,Singapore,SGP,49.3860117458622,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SG,Singapore,SGP,49.340421342784,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SG,Singapore,SGP,49.6329254727475,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SG,Singapore,SGP,49.9489535477284,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SG,Singapore,SGP,50.3301751363767,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SG,Singapore,SGP,50.3148823334438,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SK,Slovak Republic,SVK,25.7237083180652,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SK,Slovak Republic,SVK,26.2654150561384,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SK,Slovak Republic,SVK,26.6740864403636,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SK,Slovak Republic,SVK,27.0230141054195,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SK,Slovak Republic,SVK,27.2371364653244,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SK,Slovak Republic,SVK,27.3071821110479,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SI,Slovenia,SVN,24.3269230769231,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SI,Slovenia,SVN,24.4888023369036,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SI,Slovenia,SVN,24.2,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SI,Slovenia,SVN,24.4343891402715,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SI,Slovenia,SVN,24.0963855421687,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SI,Slovenia,SVN,24.0518962075848,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SB,Solomon Islands,SLB,11.4529914529915,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SB,Solomon Islands,SLB,10.246679316888,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SB,Solomon Islands,SLB,9.14893617021277,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SB,Solomon Islands,SLB,8.23244552058111,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SB,Solomon Islands,SLB,7.54189944134078,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SB,Solomon Islands,SLB,7.05128205128205,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,19.877730828014,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,18.7214611872146,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,17.678318375059,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,16.7343623070674,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,15.7737157264419,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,14.9636191078773,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZA,South Africa,ZAF,32.0515217228744,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZA,South Africa,ZAF,30.7237813884786,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZA,South Africa,ZAF,29.550543162783,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZA,South Africa,ZAF,28.4054674783152,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZA,South Africa,ZAF,27.3089364167431,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZA,South Africa,ZAF,26.2196613486261,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SS,South Sudan,SSD,9.53673989961326,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SS,South Sudan,SSD,9.03329644904939,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SS,South Sudan,SSD,8.67023261599701,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SS,South Sudan,SSD,8.34210130768074,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SS,South Sudan,SSD,8.00515274199485,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SS,South Sudan,SSD,6.73026886383348,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ES,Spain,ESP,39.0656779661017,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ES,Spain,ESP,38.4543761638734,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ES,Spain,ESP,37.7569834977413,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ES,Spain,ESP,37.0503686418589,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ES,Spain,ESP,36.8534537429289,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ES,Spain,ESP,36.6329758506288,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LK,Sri Lanka,LKA,9.11530631130853,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LK,Sri Lanka,LKA,9.16754986029482,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LK,Sri Lanka,LKA,9.29777955992181,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LK,Sri Lanka,LKA,9.37549742664615,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LK,Sri Lanka,LKA,9.47264554325184,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LK,Sri Lanka,LKA,9.55377244126306,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LC,St. Lucia,LCA,9.13978494623656,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LC,St. Lucia,LCA,9.03954802259887,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LC,St. Lucia,LCA,10.9090909090909,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LC,St. Lucia,LCA,13.3757961783439,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LC,St. Lucia,LCA,14.1891891891892,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",LC,St. Lucia,LCA,14.3884892086331,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,24.7706422018349,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,24.5454545454545,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,22.9357798165138,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,22.2222222222222,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,21.2962962962963,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,20.3703703703704,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SD,Sudan,SDN,16.8046650174181,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SD,Sudan,SDN,16.4478851116347,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SD,Sudan,SDN,16.3015259925283,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SD,Sudan,SDN,16.2459430219978,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SD,Sudan,SDN,16.1726935464145,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SD,Sudan,SDN,14.34854315558,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SR,Suriname,SUR,32.7868852459016,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SR,Suriname,SUR,32.9523809523809,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SR,Suriname,SUR,33.2,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SR,Suriname,SUR,33.4047109207709,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SR,Suriname,SUR,33.256880733945,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SR,Suriname,SUR,33.1695331695332,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SE,Sweden,SWE,42.2942025995461,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SE,Sweden,SWE,41.852286049238,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SE,Sweden,SWE,41.2846068660022,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SE,Sweden,SWE,41.0392245266005,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SE,Sweden,SWE,40.9085759601223,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SE,Sweden,SWE,40.5187521906765,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CH,Switzerland,CHE,35.0042480883602,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CH,Switzerland,CHE,34.7765006385696,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CH,Switzerland,CHE,34.4627429805616,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CH,Switzerland,CHE,34.3335659455687,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CH,Switzerland,CHE,34.5019238991022,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",CH,Switzerland,CHE,35.396373445227,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SY,Syrian Arab Republic,SYR,29.4812485964518,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SY,Syrian Arab Republic,SYR,28.5296303176667,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SY,Syrian Arab Republic,SYR,27.6985743380855,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SY,Syrian Arab Republic,SYR,26.5591594893409,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SY,Syrian Arab Republic,SYR,25.666062212303,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",SY,Syrian Arab Republic,SYR,25.0823227050036,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TJ,Tajikistan,TJK,13.3898501916154,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TJ,Tajikistan,TJK,13.3455689564761,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TJ,Tajikistan,TJK,13.2823978842198,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TJ,Tajikistan,TJK,13.1749110895571,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TJ,Tajikistan,TJK,14.2980636237898,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TJ,Tajikistan,TJK,15.4964137410344,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TZ,Tanzania,TZA,15.7464955728519,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TZ,Tanzania,TZA,13.9925290167652,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TZ,Tanzania,TZA,12.3325777869359,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TZ,Tanzania,TZA,11.0373004908733,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TZ,Tanzania,TZA,10.1352479545834,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TZ,Tanzania,TZA,9.29995291163083,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TH,Thailand,THA,24.4362017804154,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TH,Thailand,THA,21.3623083642059,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TH,Thailand,THA,17.9438682123246,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TH,Thailand,THA,15.0874997994963,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TH,Thailand,THA,14.7107690221077,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TH,Thailand,THA,14.2374918261669,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TL,Timor-Leste,TLS,16.4535379369139,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TL,Timor-Leste,TLS,14.8285449490269,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TL,Timor-Leste,TLS,13.2530120481928,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TL,Timor-Leste,TLS,12.2950819672131,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TL,Timor-Leste,TLS,11.4186851211073,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TL,Timor-Leste,TLS,10.5193075898802,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TG,Togo,TGO,20.1338538761852,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TG,Togo,TGO,18.8362137307753,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TG,Togo,TGO,17.5961017866811,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TG,Togo,TGO,16.3617677286742,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TG,Togo,TGO,15.2427637721755,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TG,Togo,TGO,14.3347412882788,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TO,Tonga,TON,12.1495327102804,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TO,Tonga,TON,11.5384615384615,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TO,Tonga,TON,11.7647058823529,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TO,Tonga,TON,11.2244897959184,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TO,Tonga,TON,11.4583333333333,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TO,Tonga,TON,11.5789473684211,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TT,Trinidad and Tobago,TTO,4.08618127786033,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TT,Trinidad and Tobago,TTO,4.44277108433735,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TT,Trinidad and Tobago,TTO,4.78395061728395,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TT,Trinidad and Tobago,TTO,5.20915548539858,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TT,Trinidad and Tobago,TTO,4.70119521912351,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TT,Trinidad and Tobago,TTO,4.17007358953393,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TN,Tunisia,TUN,33.1998219848687,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TN,Tunisia,TUN,32.872460496614,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TN,Tunisia,TUN,32.5972346563215,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TN,Tunisia,TUN,31.9409547738693,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TN,Tunisia,TUN,31.062124248497,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TN,Tunisia,TUN,29.2317148125384,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TR,Turkiye,TUR,36.1828636997822,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TR,Turkiye,TUR,34.891458038759,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TR,Turkiye,TUR,33.484396681527,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TR,Turkiye,TUR,32.02057776019,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TR,Turkiye,TUR,30.7747513755511,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TR,Turkiye,TUR,29.4064265209742,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TM,Turkmenistan,TKM,24.5254931149981,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TM,Turkmenistan,TKM,23.8048006347947,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TM,Turkmenistan,TKM,23.1887110362258,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TM,Turkmenistan,TKM,22.6394134636747,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TM,Turkmenistan,TKM,22.1107927411652,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",TM,Turkmenistan,TKM,22.2131370945762,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UG,Uganda,UGA,8.06407413866122,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UG,Uganda,UGA,7.25298652386277,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UG,Uganda,UGA,6.51326324584,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UG,Uganda,UGA,6.02652825836217,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UG,Uganda,UGA,5.81002892960463,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UG,Uganda,UGA,5.51468491588252,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UA,Ukraine,UKR,31.9222326748197,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UA,Ukraine,UKR,31.4961997828447,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UA,Ukraine,UKR,31.2733367277665,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UA,Ukraine,UKR,31.263632101433,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UA,Ukraine,UKR,31.3501994212872,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UA,Ukraine,UKR,31.2278596178788,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AE,United Arab Emirates,ARE,59.6366673627062,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AE,United Arab Emirates,ARE,59.5001184553423,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AE,United Arab Emirates,ARE,56.1581103880453,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AE,United Arab Emirates,ARE,54.3952412425644,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AE,United Arab Emirates,ARE,52.3667377398721,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",AE,United Arab Emirates,ARE,52.1040974529347,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GB,United Kingdom,GBR,40.6240210513126,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GB,United Kingdom,GBR,39.8520953163517,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GB,United Kingdom,GBR,38.9826010515666,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GB,United Kingdom,GBR,38.1723804515615,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GB,United Kingdom,GBR,37.9398934427643,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",GB,United Kingdom,GBR,37.8229104764568,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",US,United States,USA,39.917632186807,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",US,United States,USA,39.4455013034595,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",US,United States,USA,39.0047825707827,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",US,United States,USA,38.5210562378116,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",US,United States,USA,37.4848436235025,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",US,United States,USA,36.3636363636364,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UY,Uruguay,URY,45.6851311953353,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UY,Uruguay,URY,45.1201423909819,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UY,Uruguay,URY,44.4812030075188,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UY,Uruguay,URY,43.8121047877145,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UY,Uruguay,URY,43.0387596899225,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UY,Uruguay,URY,42.1543408360129,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UZ,Uzbekistan,UZB,17.8868356390319,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UZ,Uzbekistan,UZB,17.8220317620368,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UZ,Uzbekistan,UZB,18.0840852370897,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UZ,Uzbekistan,UZB,18.4549701949412,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UZ,Uzbekistan,UZB,18.8915998605786,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",UZ,Uzbekistan,UZB,19.6730881494454,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VU,Vanuatu,VUT,13.6882129277567,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VU,Vanuatu,VUT,13.135593220339,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VU,Vanuatu,VUT,12.3809523809524,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VU,Vanuatu,VUT,11.4130434782609,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VU,Vanuatu,VUT,10.7142857142857,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VU,Vanuatu,VUT,9.58904109589041,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VE,"Venezuela, RB",VEN,44.1106921454592,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VE,"Venezuela, RB",VEN,44.0829115449506,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VE,"Venezuela, RB",VEN,44.0619621342513,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VE,"Venezuela, RB",VEN,43.7233693870862,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VE,"Venezuela, RB",VEN,42.9159876878508,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VE,"Venezuela, RB",VEN,41.9250253292806,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VN,Viet Nam,VNM,16.2529715374896,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VN,Viet Nam,VNM,14.6720271317394,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VN,Viet Nam,VNM,13.3469887460564,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VN,Viet Nam,VNM,11.9461477598655,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VN,Viet Nam,VNM,10.9536963956853,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VN,Viet Nam,VNM,10.0393272286639,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VI,Virgin Islands (U.S.),VIR,45.7943925233645,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VI,Virgin Islands (U.S.),VIR,44.8598130841121,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VI,Virgin Islands (U.S.),VIR,44.8598130841121,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VI,Virgin Islands (U.S.),VIR,44.0366972477064,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VI,Virgin Islands (U.S.),VIR,43.3962264150943,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",VI,Virgin Islands (U.S.),VIR,42.7184466019417,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PS,West Bank and Gaza,PSE,38.2061991646516,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PS,West Bank and Gaza,PSE,37.6277099426863,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PS,West Bank and Gaza,PSE,37.0786516853933,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PS,West Bank and Gaza,PSE,36.5168539325843,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PS,West Bank and Gaza,PSE,35.5906117737591,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",PS,West Bank and Gaza,PSE,34.2623738587218,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",YE,"Yemen, Rep.",YEM,18.817309575093,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",YE,"Yemen, Rep.",YEM,17.1718502899315,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",YE,"Yemen, Rep.",YEM,15.5908639523337,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",YE,"Yemen, Rep.",YEM,14.1185869999429,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",YE,"Yemen, Rep.",YEM,12.777999733653,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",YE,"Yemen, Rep.",YEM,11.0008481764207,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZM,Zambia,ZMB,20.6894329896907,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZM,Zambia,ZMB,19.5944923589045,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZM,Zambia,ZMB,18.5178727114211,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZM,Zambia,ZMB,17.5940594059406,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZM,Zambia,ZMB,18.8440221694378,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZM,Zambia,ZMB,20.1427842937277,NA,NA,0
+2015,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZW,Zimbabwe,ZWE,16.8749169214409,NA,NA,0
+2010,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZW,Zimbabwe,ZWE,17.0987229486885,NA,NA,0
+2005,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZW,Zimbabwe,ZWE,17.6382660687593,NA,NA,0
+2000,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZW,Zimbabwe,ZWE,17.530390275112,NA,NA,0
+1995,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZW,Zimbabwe,ZWE,16.4618953518344,NA,NA,0
+1990,SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)",ZW,Zimbabwe,ZWE,15.0735996941311,NA,NA,0

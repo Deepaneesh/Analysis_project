@@ -22,8 +22,14 @@ pacman::p_load(
   scales,
   worldbank,
   patchwork,
-  econoR
+  econoR,
+  data.table
 )
+
+
+# Functions ---------------------------------------------------------------
+
+source('scripts/00_functions.R')
 
 # Creating Project folders ------------------------------------------------
 
@@ -70,3 +76,6 @@ end_year   <- 2025
 predict_year <- 2027
 years <- start_year:predict_year
 y_years <- paste0("Y",years)
+
+# Avoiding countries
+avoiding_countries <- c("Hong Kong SAR, China","Macao SAR, China","Singapore")

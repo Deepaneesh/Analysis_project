@@ -1,0 +1,1441 @@
+date,indicator_id,indicator_name,country_id,country_name,country_code,value,unit,obs_status,decimal
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZH,Africa Eastern and Southern,AFE,16.3946841155716,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZH,Africa Eastern and Southern,AFE,15.3859896144561,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZH,Africa Eastern and Southern,AFE,14.5422415468505,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZH,Africa Eastern and Southern,AFE,13.8640312506205,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZH,Africa Eastern and Southern,AFE,13.3036039113206,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZH,Africa Eastern and Southern,AFE,12.3434974818166,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZI,Africa Western and Central,AFW,22.0144724769811,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZI,Africa Western and Central,AFW,20.4548603626285,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZI,Africa Western and Central,AFW,18.8034937361973,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZI,Africa Western and Central,AFW,17.2841516364835,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZI,Africa Western and Central,AFW,16.163883197107,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZI,Africa Western and Central,AFW,15.1248321158943,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1A,Arab World,ARB,27.205226595327,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1A,Arab World,ARB,26.600133890869,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1A,Arab World,ARB,26.1011308684458,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1A,Arab World,ARB,25.4961773565832,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1A,Arab World,ARB,24.7518078793767,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1A,Arab World,ARB,23.9517125297223,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S3,Caribbean small states,CSS,17.2789293575752,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S3,Caribbean small states,CSS,17.2625319670404,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S3,Caribbean small states,CSS,17.4289456564998,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S3,Caribbean small states,CSS,17.3045433316039,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S3,Caribbean small states,CSS,16.7272271897628,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S3,Caribbean small states,CSS,16.3487113942717,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",B8,Central Europe and the Baltics,CEB,32.7047027580498,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",B8,Central Europe and the Baltics,CEB,32.5716975531705,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",B8,Central Europe and the Baltics,CEB,32.4100022641096,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",B8,Central Europe and the Baltics,CEB,32.2067136397637,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",B8,Central Europe and the Baltics,CEB,32.1605027472662,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",B8,Central Europe and the Baltics,CEB,31.8932876471736,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V2,Early-demographic dividend,EAR,21.5950650223679,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V2,Early-demographic dividend,EAR,20.6221433630494,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V2,Early-demographic dividend,EAR,19.661272638602,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V2,Early-demographic dividend,EAR,18.7845853068619,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V2,Early-demographic dividend,EAR,17.9458364719492,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V2,Early-demographic dividend,EAR,17.0797850025171,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z4,East Asia & Pacific,EAS,27.9667537374415,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z4,East Asia & Pacific,EAS,25.660095156933,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z4,East Asia & Pacific,EAS,23.1742197072822,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z4,East Asia & Pacific,EAS,20.5749064336172,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z4,East Asia & Pacific,EAS,18.6972710098542,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z4,East Asia & Pacific,EAS,16.7433925262914,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,25.876174304219,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,23.3641824130439,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,20.7296401524873,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,18.067083935973,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,15.9465636181349,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,13.7446255738846,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,25.8136394719755,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,23.2726660566865,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,20.6050232209003,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,17.9079920032039,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,15.7595243516689,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,13.5312128662965,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XC,Euro area,EMU,39.0090350894237,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XC,Euro area,EMU,38.5096652963374,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XC,Euro area,EMU,37.9582298895035,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XC,Euro area,EMU,37.4596257389642,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XC,Euro area,EMU,37.1424010988318,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XC,Euro area,EMU,36.8074357104451,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z7,Europe & Central Asia,ECS,36.9342550181059,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z7,Europe & Central Asia,ECS,36.5210030121255,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z7,Europe & Central Asia,ECS,36.0709686876271,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z7,Europe & Central Asia,ECS,35.6366052319761,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z7,Europe & Central Asia,ECS,35.418317110234,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",Z7,Europe & Central Asia,ECS,35.206427512864,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,31.3517792865977,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,30.7796990800527,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,30.2654988894917,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,29.7473913395892,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,29.448507829802,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,29.1942707582207,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,34.2361312870978,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,33.8701543532668,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,33.5251849216818,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,33.1713902799505,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,32.9918667698672,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,32.8405195192825,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EU,European Union,EUU,38.0317662855962,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EU,European Union,EUU,37.5788184673572,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EU,European Union,EUU,37.0722069972065,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EU,European Union,EUU,36.6080227141159,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EU,European Union,EUU,36.3456428544586,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EU,European Union,EUU,36.0176933641513,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,17.2732618029087,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,16.1722476138726,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,15.1147460116738,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,14.230403619538,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,13.5433924511487,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,12.6228243942459,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XD,High income,NA,40.7084265719757,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XD,High income,NA,40.2649554849103,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XD,High income,NA,39.6690698535954,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XD,High income,NA,38.8830233419241,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XD,High income,NA,38.4037564846844,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XD,High income,NA,37.8954264228897,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XF,IBRD only,IBD,26.3544576949402,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XF,IBRD only,IBD,24.8504849255701,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XF,IBRD only,IBD,23.3039960580245,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XF,IBRD only,IBD,21.7727889448349,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XF,IBRD only,IBD,20.5179195673275,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XF,IBRD only,IBD,19.1784731948037,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZT,IDA & IBRD total,IBT,24.0892754500025,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZT,IDA & IBRD total,IBT,22.74831609099,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZT,IDA & IBRD total,IBT,21.3819208732203,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZT,IDA & IBRD total,IBT,20.0443416664061,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZT,IDA & IBRD total,IBT,18.9648655970477,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZT,IDA & IBRD total,IBT,17.8079013397806,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XH,IDA blend,IDB,20.0985153527011,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XH,IDA blend,IDB,18.7775189631824,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XH,IDA blend,IDB,17.5010486526948,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XH,IDA blend,IDB,16.3005150853208,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XH,IDA blend,IDB,15.3866662018634,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XH,IDA blend,IDB,14.6988599311591,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XI,IDA only,IDX,16.0370357811939,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XI,IDA only,IDX,14.8839125224637,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XI,IDA only,IDX,13.7040099672685,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XI,IDA only,IDX,12.7048479386448,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XI,IDA only,IDX,11.9732297041723,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XI,IDA only,IDX,11.1660116130103,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XG,IDA total,IDA,17.4752295767144,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XG,IDA total,IDA,16.2607378720132,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XG,IDA total,IDA,15.0343356158582,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XG,IDA total,IDA,13.9575260138178,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XG,IDA total,IDA,13.1556335714366,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XG,IDA total,IDA,12.381563923543,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V3,Late-demographic dividend,LTE,29.6360342255254,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V3,Late-demographic dividend,LTE,27.4329094949335,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V3,Late-demographic dividend,LTE,25.1498788231957,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V3,Late-demographic dividend,LTE,22.8568952569204,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V3,Late-demographic dividend,LTE,21.1617184627255,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V3,Late-demographic dividend,LTE,19.3989458672183,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZJ,Latin America & Caribbean,LCN,41.0154616168441,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZJ,Latin America & Caribbean,LCN,40.3044747409691,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZJ,Latin America & Caribbean,LCN,39.5304079873197,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZJ,Latin America & Caribbean,LCN,38.671903442743,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZJ,Latin America & Caribbean,LCN,37.4779213209041,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZJ,Latin America & Caribbean,LCN,36.0265203270597,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,40.9860789153789,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,40.2638179787049,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,39.4804792442507,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,38.6109804024679,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,37.3929841249437,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,35.8894502070016,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,41.0092125030162,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,40.2809127124387,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,39.4836377055306,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,38.602645079332,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,37.3846244171028,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,35.8953505701837,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XL,Least developed countries: UN classification,LDC,15.5568508186773,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XL,Least developed countries: UN classification,LDC,14.2776067500905,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XL,Least developed countries: UN classification,LDC,13.0683812313686,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XL,Least developed countries: UN classification,LDC,12.0275475407326,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XL,Least developed countries: UN classification,LDC,11.2608274700294,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XL,Least developed countries: UN classification,LDC,10.3997808852379,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XO,Low & middle income,LMY,23.5949402171957,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XO,Low & middle income,LMY,22.1868089302565,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XO,Low & middle income,LMY,20.7383932134907,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XO,Low & middle income,LMY,19.2984889066538,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XO,Low & middle income,LMY,18.1067004591746,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XO,Low & middle income,LMY,16.8184274129396,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XM,Low income,NA,15.4260217647588,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XM,Low income,NA,14.6620993207522,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XM,Low income,NA,13.8996221096898,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XM,Low income,NA,13.3416052745465,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XM,Low income,NA,12.8575617687501,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XM,Low income,NA,12.1092876441769,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XN,Lower middle income,NA,18.0720957099526,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XN,Lower middle income,NA,16.9626962472614,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XN,Lower middle income,NA,15.9048720883434,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XN,Lower middle income,NA,14.9449303048451,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XN,Lower middle income,NA,14.2670748028156,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XN,Lower middle income,NA,13.6508863418473,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,25.9559375987828,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,25.1272929057197,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,24.3459193689453,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,23.5920004103151,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,22.7376686540997,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,22.1442068275494,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,25.1721905776698,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,24.2868305513923,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,23.4313993936644,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,22.644159749828,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,21.8702431352791,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,21.2862666730509,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,25.0918819626938,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,24.2061745405847,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,23.3503036228225,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,22.5627848069433,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,21.7932308521946,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,21.2193283049543,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XP,Middle income,MIC,24.4648881906527,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XP,Middle income,MIC,22.9358151218589,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XP,Middle income,MIC,21.3661878994845,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XP,Middle income,MIC,19.8059154703966,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XP,Middle income,MIC,18.5267428140822,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XP,Middle income,MIC,17.1740994002973,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XU,North America,NAC,41.6875411706273,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XU,North America,NAC,41.3107035704131,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XU,North America,NAC,40.9111667345847,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XU,North America,NAC,40.5352444709913,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XU,North America,NAC,39.7626323278259,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XU,North America,NAC,38.9523157467322,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OE,OECD members,OED,41.0591351713217,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OE,OECD members,OED,40.4437931320724,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OE,OECD members,OED,39.7170906076596,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OE,OECD members,OED,38.8005074676842,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OE,OECD members,OED,38.2440059536019,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OE,OECD members,OED,37.5452458777878,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S4,Other small states,OSS,27.1521090874344,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S4,Other small states,OSS,26.782781458221,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S4,Other small states,OSS,26.5649251953705,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S4,Other small states,OSS,26.461456959342,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S4,Other small states,OSS,25.6323922661817,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S4,Other small states,OSS,25.3080221563353,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S2,Pacific island small states,PSS,17.6827804987326,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S2,Pacific island small states,PSS,17.3207464565428,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S2,Pacific island small states,PSS,16.8272532000661,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S2,Pacific island small states,PSS,16.2140405401253,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S2,Pacific island small states,PSS,15.5380791005955,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S2,Pacific island small states,PSS,14.8030691394021,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V4,Post-demographic dividend,PST,41.5712633744537,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V4,Post-demographic dividend,PST,40.9678093213971,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V4,Post-demographic dividend,PST,40.2277611917919,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V4,Post-demographic dividend,PST,39.2916250013759,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V4,Post-demographic dividend,PST,38.7811921565016,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V4,Post-demographic dividend,PST,38.1925769289132,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V1,Pre-demographic dividend,PRE,19.0285469388187,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V1,Pre-demographic dividend,PRE,17.732502943544,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V1,Pre-demographic dividend,PRE,16.5453594476271,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V1,Pre-demographic dividend,PRE,15.463927545095,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V1,Pre-demographic dividend,PRE,14.6095589767066,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",V1,Pre-demographic dividend,PRE,13.7104610235337,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S1,Small states,SST,23.6572760379849,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S1,Small states,SST,23.3544790879611,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S1,Small states,SST,23.1522480719988,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S1,Small states,SST,22.913437685846,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S1,Small states,SST,22.1917449814147,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",S1,Small states,SST,21.8078988237864,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",8S,South Asia,SAS,15.3838786081144,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",8S,South Asia,SAS,14.4098365659168,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",8S,South Asia,SAS,13.4883313561181,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",8S,South Asia,SAS,12.6499316012261,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",8S,South Asia,SAS,12.0829085205809,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",8S,South Asia,SAS,11.5316969021707,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,15.3838786081144,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,14.4098365659168,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,13.4883313561181,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,12.6499316012261,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,12.0829085205809,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,11.5316969021707,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZG,Sub-Saharan Africa,SSF,18.684678975705,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZG,Sub-Saharan Africa,SSF,17.448950329493,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZG,Sub-Saharan Africa,SSF,16.2711513909913,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZG,Sub-Saharan Africa,SSF,15.2436575767321,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZG,Sub-Saharan Africa,SSF,14.4528439672902,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZG,Sub-Saharan Africa,SSF,13.4606717984657,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,18.6839831779622,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,17.4481922435983,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,16.2701925718137,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,15.2424947206051,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,14.4516776062644,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,13.4592275118476,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,18.684678975705,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,17.448950329493,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,16.2711513909913,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,15.2436575767321,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,14.4528439672902,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,13.4606717984657,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XT,Upper middle income,NA,30.1101147567766,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XT,Upper middle income,NA,28.0285007084881,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XT,Upper middle income,NA,25.8182915662595,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XT,Upper middle income,NA,23.5773535110853,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XT,Upper middle income,NA,21.6805944730911,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",XT,Upper middle income,NA,19.6709583776475,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1W,World,WLD,26.7354965131113,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1W,World,WLD,25.6166534235726,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1W,World,WLD,24.4487145132093,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1W,World,WLD,23.2887224970326,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1W,World,WLD,22.4301742192078,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",1W,World,WLD,21.5200524594606,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AF,Afghanistan,AFG,13.1564970162777,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AF,Afghanistan,AFG,12.1350846920449,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AF,Afghanistan,AFG,11.1951405929442,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AF,Afghanistan,AFG,10.4200048555475,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AF,Afghanistan,AFG,9.63834868645514,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AF,Afghanistan,AFG,8.88169110126151,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AL,Albania,ALB,28.9111389236546,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AL,Albania,ALB,26.1904761904762,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AL,Albania,ALB,23.5294117647059,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AL,Albania,ALB,21.1195158850227,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AL,Albania,ALB,19.446098868374,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AL,Albania,ALB,17.9576443284015,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DZ,Algeria,DZA,35.0872443580341,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DZ,Algeria,DZA,33.4970185899684,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DZ,Algeria,DZA,31.6951797650246,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DZ,Algeria,DZA,29.6973518284994,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DZ,Algeria,DZA,27.7230086986185,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DZ,Algeria,DZA,25.8079268292683,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AO,Angola,AGO,21.6432953549518,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AO,Angola,AGO,19.7350248094532,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AO,Angola,AGO,17.6922147001934,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AO,Angola,AGO,15.8994614003591,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AO,Angola,AGO,14.1913100941682,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AO,Angola,AGO,12.5616955385658,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AG,Antigua and Barbuda,ATG,13.0434782608696,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AG,Antigua and Barbuda,ATG,13.7931034482759,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AG,Antigua and Barbuda,ATG,15.8536585365854,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AG,Antigua and Barbuda,ATG,17.9487179487179,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AG,Antigua and Barbuda,ATG,17.6470588235294,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AG,Antigua and Barbuda,ATG,19.3548387096774,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AR,Argentina,ARG,47.1972482505041,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AR,Argentina,ARG,46.8420270471095,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AR,Argentina,ARG,46.3502988589024,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AR,Argentina,ARG,45.9122564561147,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AR,Argentina,ARG,45.4626360060862,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AR,Argentina,ARG,44.9103448275862,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AM,Armenia,ARM,31.1705685618729,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AM,Armenia,ARM,31.4102564102564,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AM,Armenia,ARM,33.2338308457711,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AM,Armenia,ARM,34.8391290217745,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AM,Armenia,ARM,35.2776915916848,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AM,Armenia,ARM,35.2609308885755,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AW,Aruba,ABW,22.1153846153846,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AW,Aruba,ABW,22.7722772277228,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AW,Aruba,ABW,24,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AW,Aruba,ABW,24.1758241758242,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AW,Aruba,ABW,25,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AW,Aruba,ABW,25.8064516129032,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AU,Australia,AUS,45.1968898921495,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AU,Australia,AUS,44.6839850026781,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AU,Australia,AUS,44.5175438596491,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AU,Australia,AUS,44.2315680166147,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AU,Australia,AUS,43.6106819686603,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AU,Australia,AUS,43.1830145639586,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AT,Austria,AUT,34.1591679326867,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AT,Austria,AUT,34.2180433230183,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AT,Austria,AUT,34.2881417647773,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AT,Austria,AUT,34.426433915212,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AT,Austria,AUT,34.4978712747308,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AT,Austria,AUT,34.7718383311604,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AZ,Azerbaijan,AZE,27.6084468948299,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AZ,Azerbaijan,AZE,27.0837915108863,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AZ,Azerbaijan,AZE,26.7196076141539,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AZ,Azerbaijan,AZE,26.389059997536,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AZ,Azerbaijan,AZE,26.5637065637066,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AZ,Azerbaijan,AZE,27.3143015521064,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BS,"Bahamas, The",BHS,42.6356589147287,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BS,"Bahamas, The",BHS,42.382271468144,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BS,"Bahamas, The",BHS,42.5531914893617,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BS,"Bahamas, The",BHS,42.4242424242424,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BS,"Bahamas, The",BHS,41.4285714285714,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BS,"Bahamas, The",BHS,40.4669260700389,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BH,Bahrain,BHR,33.6764705882353,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BH,Bahrain,BHR,33.2268370607029,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BH,Bahrain,BHR,35.4948805460751,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BH,Bahrain,BHR,37.874251497006,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BH,Bahrain,BHR,37.4113475177305,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BH,Bahrain,BHR,37.1717171717172,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BD,Bangladesh,BGD,16.3094570163955,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BD,Bangladesh,BGD,14.4488704789381,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BD,Bangladesh,BGD,12.5777243701706,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BD,Bangladesh,BGD,10.9990633309161,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BD,Bangladesh,BGD,10.0900976057396,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BD,Bangladesh,BGD,9.19114223455571,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BB,Barbados,BRB,15.9722222222222,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BB,Barbados,BRB,16.3701067615658,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BB,Barbados,BRB,16.8498168498169,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BB,Barbados,BRB,17.5373134328358,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BB,Barbados,BRB,17.4904942965779,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BB,Barbados,BRB,17.3076923076923,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BY,Belarus,BLR,41.231101511879,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BY,Belarus,BLR,40.0695395637973,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BY,Belarus,BLR,38.6445938954992,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BY,Belarus,BLR,37.0767381286315,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BY,Belarus,BLR,35.8720188438512,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BY,Belarus,BLR,34.7012379374208,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BE,Belgium,BEL,49.8256281856389,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BE,Belgium,BEL,49.8034914541632,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BE,Belgium,BEL,49.7573508421353,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BE,Belgium,BEL,49.6688741721854,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BE,Belgium,BEL,49.4734770199784,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BE,Belgium,BEL,49.2933747619525,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BZ,Belize,BLZ,22.7011494252874,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BZ,Belize,BLZ,22.9773462783172,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BZ,Belize,BLZ,23.8970588235294,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BZ,Belize,BLZ,24.3697478991597,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BZ,Belize,BLZ,24.2718446601942,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BZ,Belize,BLZ,24.5989304812834,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BJ,Benin,BEN,21.7667064987591,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BJ,Benin,BEN,20.788643533123,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BJ,Benin,BEN,19.9804472687279,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BJ,Benin,BEN,19.4128651604547,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BJ,Benin,BEN,18.5933845639826,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BJ,Benin,BEN,17.6164767046591,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BT,Bhutan,BTN,17.3969072164948,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BT,Bhutan,BTN,15.7601115760112,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BT,Bhutan,BTN,14.1538461538462,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BT,Bhutan,BTN,12.212389380531,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BT,Bhutan,BTN,9.80392156862745,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BT,Bhutan,BTN,7.83582089552239,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BO,Bolivia,BOL,34.9297052154195,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BO,Bolivia,BOL,33.9667224574185,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BO,Bolivia,BOL,32.9948696023942,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BO,Bolivia,BOL,31.7796610169492,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BO,Bolivia,BOL,30.4911591355599,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BO,Bolivia,BOL,28.5251692670003,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BA,Bosnia and Herzegovina,BIH,20.5235602094241,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BA,Bosnia and Herzegovina,BIH,20.2340702210663,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BA,Bosnia and Herzegovina,BIH,20.2835051546392,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BA,Bosnia and Herzegovina,BIH,20.4432855280313,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BA,Bosnia and Herzegovina,BIH,20.5055381993752,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BA,Bosnia and Herzegovina,BIH,20.0220994475138,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BW,Botswana,BWA,28.2936315021877,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BW,Botswana,BWA,27.9187817258883,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BW,Botswana,BWA,27.5586353944563,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BW,Botswana,BWA,26.8223234624146,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BW,Botswana,BWA,24.8106060606061,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BW,Botswana,BWA,21.242774566474,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BR,Brazil,BRA,44.1195533688831,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BR,Brazil,BRA,43.376363915783,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BR,Brazil,BRA,42.5304337548753,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BR,Brazil,BRA,41.6165725910432,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BR,Brazil,BRA,39.7520553952968,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BR,Brazil,BRA,37.7652892120175,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BN,Brunei Darussalam,BRN,38.2284382284382,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BN,Brunei Darussalam,BRN,37.4064837905237,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BN,Brunei Darussalam,BRN,36.3143631436314,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BN,Brunei Darussalam,BRN,34.9397590361446,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BN,Brunei Darussalam,BRN,32.7702702702703,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BN,Brunei Darussalam,BRN,31.1284046692607,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BG,Bulgaria,BGR,38.282018838746,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BG,Bulgaria,BGR,37.3392881310055,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BG,Bulgaria,BGR,36.4440973578029,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BG,Bulgaria,BGR,35.5036240939765,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BG,Bulgaria,BGR,34.7092605886576,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BG,Bulgaria,BGR,33.680988550051,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BF,Burkina Faso,BFA,14.7027630477254,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BF,Burkina Faso,BFA,12.7027027027027,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BF,Burkina Faso,BFA,10.7137535389659,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BF,Burkina Faso,BFA,8.92411060384185,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BF,Burkina Faso,BFA,7.59167492566898,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BF,Burkina Faso,BFA,6.94586312563841,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BI,Burundi,BDI,5.45689974102849,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BI,Burundi,BDI,4.81966858009314,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BI,Burundi,BDI,4.25997425997426,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BI,Burundi,BDI,3.77584656877435,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BI,Burundi,BDI,3.34943639291465,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",BI,Burundi,BDI,2.90811775200714,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CV,Cabo Verde,CPV,32.4165029469548,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CV,Cabo Verde,CPV,30.8008213552361,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CV,Cabo Verde,CPV,29.0187891440501,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CV,Cabo Verde,CPV,27.3755656108597,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CV,Cabo Verde,CPV,25,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CV,Cabo Verde,CPV,22.7920227920228,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KH,Cambodia,KHM,10.7418511194744,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KH,Cambodia,KHM,10.302819352593101,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KH,Cambodia,KHM,9.93560946391135,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KH,Cambodia,KHM,9.52303035261392,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KH,Cambodia,KHM,8.81151346332405,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KH,Cambodia,KHM,7.95981452859351,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CM,Cameroon,CMR,26.8273916388818,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CM,Cameroon,CMR,25.3927463149728,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CM,Cameroon,CMR,23.3585092893765,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CM,Cameroon,CMR,21.9564261945125,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CM,Cameroon,CMR,20.5614186230167,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CM,Cameroon,CMR,19.1781956755861,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CA,Canada,CAN,41.5751324226373,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CA,Canada,CAN,41.1621637461173,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CA,Canada,CAN,40.7949401624605,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CA,Canada,CAN,40.5264529580401,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CA,Canada,CAN,39.6757125789384,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CA,Canada,CAN,39.0917636850098,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CF,Central African Republic,CAF,20.1332500520508,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CF,Central African Republic,CAF,19.5402298850575,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CF,Central African Republic,CAF,19.1870739712194,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CF,Central African Republic,CAF,18.9939527212754,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CF,Central African Republic,CAF,18.8091603053435,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CF,Central African Republic,CAF,18.6062478544456,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TD,Chad,TCD,10.9518559353179,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TD,Chad,TCD,10.7252559726962,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TD,Chad,TCD,10.5652087078091,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TD,Chad,TCD,10.5047584628358,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TD,Chad,TCD,10.4297994269341,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TD,Chad,TCD,10.1159468996807,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JG,Channel Islands,CHI,15.9509202453988,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JG,Channel Islands,CHI,15.7232704402516,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JG,Channel Islands,CHI,15.5844155844156,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JG,Channel Islands,CHI,15.4362416107383,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JG,Channel Islands,CHI,15.9722222222222,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JG,Channel Islands,CHI,16.4285714285714,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CL,Chile,CHL,45.6427136799821,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CL,Chile,CHL,45.1868695702874,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CL,Chile,CHL,44.6566287183254,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CL,Chile,CHL,44.0864389233954,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CL,Chile,CHL,43.4002770083102,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CL,Chile,CHL,42.9620099894052,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CN,China,CHN,26.7587384871578,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CN,China,CHN,23.7170011957447,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CN,China,CHN,20.5770545230269,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CN,China,CHN,17.428299421522,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CN,China,CHN,15.1289825232802,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CN,China,CHN,12.6389509785667,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CO,Colombia,COL,39.7423731551212,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CO,Colombia,COL,38.9953492377918,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CO,Colombia,COL,38.2734346054094,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CO,Colombia,COL,37.5231841195047,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CO,Colombia,COL,36.7382091592618,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CO,Colombia,COL,35.5570901011799,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KM,Comoros,COM,14.025974025974,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KM,Comoros,COM,13.782991202346,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KM,Comoros,COM,13.8103161397671,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KM,Comoros,COM,13.9886578449905,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KM,Comoros,COM,14.1630901287554,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KM,Comoros,COM,13.8014527845036,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CD,"Congo, Dem. Rep.",COD,20.6257193386295,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CD,"Congo, Dem. Rep.",COD,19.3870495730894,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CD,"Congo, Dem. Rep.",COD,18.1961205300955,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CD,"Congo, Dem. Rep.",COD,17.065326205031,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CD,"Congo, Dem. Rep.",COD,15.9668666095401,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CD,"Congo, Dem. Rep.",COD,14.9150697487898,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CG,"Congo, Rep.",COG,32.2843074288161,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CG,"Congo, Rep.",COG,31.2332765750426,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CG,"Congo, Rep.",COG,30.0395256916996,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CG,"Congo, Rep.",COG,28.9414774544292,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CG,"Congo, Rep.",COG,27.8308823529412,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CG,"Congo, Rep.",COG,26.8261964735516,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CR,Costa Rica,CRI,38.2970217869278,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CR,Costa Rica,CRI,35.832083958021,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CR,Costa Rica,CRI,32.7083333333333,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CR,Costa Rica,CRI,29.7201017811705,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CR,Costa Rica,CRI,27.5941362460477,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CR,Costa Rica,CRI,25.4385964912281,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CI,Cote d'Ivoire,CIV,26.3864756985208,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CI,Cote d'Ivoire,CIV,24.5099072512648,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CI,Cote d'Ivoire,CIV,22.4745587305238,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CI,Cote d'Ivoire,CIV,20.7413835854203,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CI,Cote d'Ivoire,CIV,19.5526797017865,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CI,Cote d'Ivoire,CIV,18.5869924067349,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HR,Croatia,HRV,30.8578143360752,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HR,Croatia,HRV,30.1521438450899,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HR,Croatia,HRV,29.6262534184139,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HR,Croatia,HRV,29.2001787310098,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HR,Croatia,HRV,28.7571946280111,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HR,Croatia,HRV,28.1602002503129,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CU,Cuba,CUB,38.9901324562183,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CU,Cuba,CUB,38.684513784239,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CU,Cuba,CUB,38.4874247254694,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CU,Cuba,CUB,38.1542328754825,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CU,Cuba,CUB,37.5777533845591,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CU,Cuba,CUB,37.122641509434,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CY,Cyprus,CYP,32.9896907216495,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CY,Cyprus,CYP,33.2728921124207,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CY,Cyprus,CYP,33.9787028073572,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CY,Cyprus,CYP,34.2523860021209,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CY,Cyprus,CYP,33.8785046728972,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CY,Cyprus,CYP,33.1592689295039,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CZ,Czechia,CZE,37.3608017817372,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CZ,Czechia,CZE,37.5497441728255,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CZ,Czechia,CZE,38.0119245430554,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CZ,Czechia,CZE,38.2206613988879,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CZ,Czechia,CZE,38.5627236676661,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CZ,Czechia,CZE,38.8921169862483,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DK,Denmark,DNK,44.3207913796149,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DK,Denmark,DNK,43.9019996397046,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DK,Denmark,DNK,43.5215946843854,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DK,Denmark,DNK,43.1809666541776,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DK,Denmark,DNK,43.1766055045872,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DK,Denmark,DNK,43.1628087920638,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DJ,Djibouti,DJI,38.4444444444444,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DJ,Djibouti,DJI,38.2494004796163,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DJ,Djibouti,DJI,38.1443298969072,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DJ,Djibouti,DJI,37.9834254143646,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DJ,Djibouti,DJI,37.8947368421053,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DJ,Djibouti,DJI,37.6271186440678,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DO,Dominican Republic,DOM,39.6545249718363,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DO,Dominican Republic,DOM,37.0170709793351,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DO,Dominican Republic,DOM,34.0147704163545,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DO,Dominican Republic,DOM,31.4440724922082,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DO,Dominican Republic,DOM,29.3181248433191,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DO,Dominican Republic,DOM,27.9602539332045,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EC,Ecuador,ECU,32.2507087390608,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EC,Ecuador,ECU,31.6845543630425,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EC,Ecuador,ECU,31.1824054583726,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EC,Ecuador,ECU,30.6790074204101,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EC,Ecuador,ECU,29.3655001767409,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EC,Ecuador,ECU,28.0027657052548,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,21.7670531013151,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,21.7185818945643,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,21.6643214400156,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,21.3602068433706,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,21.2758304996076,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,21.6198945630758,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SV,El Salvador,SLV,35.6053532524121,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SV,El Salvador,SLV,34.2071405596655,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SV,El Salvador,SLV,32.6691915033756,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SV,El Salvador,SLV,31.1126027857023,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SV,El Salvador,SLV,28.4794711203897,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SV,El Salvador,SLV,25.7623947614593,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GQ,Equatorial Guinea,GNQ,18.8986232790989,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GQ,Equatorial Guinea,GNQ,18.5344827586207,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GQ,Equatorial Guinea,GNQ,18.2119205298013,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GQ,Equatorial Guinea,GNQ,18.3397683397683,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GQ,Equatorial Guinea,GNQ,18.3257918552036,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GQ,Equatorial Guinea,GNQ,16.3101604278075,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ER,Eritrea,ERI,11.1737646535094,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ER,Eritrea,ERI,10.1898623933113,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ER,Eritrea,ERI,9.39431396786156,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ER,Eritrea,ERI,8.75634517766497,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ER,Eritrea,ERI,8.27707660698562,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ER,Eritrea,ERI,7.82157042468683,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EE,Estonia,EST,37.03125,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EE,Estonia,EST,37.3364126250962,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EE,Estonia,EST,37.7358490566038,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EE,Estonia,EST,38.0952380952381,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EE,Estonia,EST,38.2414515003489,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",EE,Estonia,EST,38.2747603833866,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SZ,Eswatini,SWZ,10.5754276827372,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SZ,Eswatini,SWZ,10.7202680067002,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SZ,Eswatini,SWZ,10.8597285067873,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SZ,Eswatini,SWZ,11.2781954887218,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SZ,Eswatini,SWZ,11.2033195020747,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SZ,Eswatini,SWZ,11.2529002320186,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ET,Ethiopia,ETH,9.82393725617028,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ET,Ethiopia,ETH,8.7352890521844,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ET,Ethiopia,ETH,7.91671042957672,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ET,Ethiopia,ETH,7.43809163195759,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ET,Ethiopia,ETH,7.19170875420875,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ET,Ethiopia,ETH,6.54843678448025,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FJ,Fiji,FJI,26.6816143497758,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FJ,Fiji,FJI,25.6976744186046,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FJ,Fiji,FJI,24.8175182481752,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FJ,Fiji,FJI,23.8916256157635,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FJ,Fiji,FJI,22.7096774193548,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FJ,Fiji,FJI,20.7417582417582,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FI,Finland,FIN,42.995788317158,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FI,Finland,FIN,42.7533532041729,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FI,Finland,FIN,42.5657643919177,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FI,Finland,FIN,42.3218079969094,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FI,Finland,FIN,41.8477197103151,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FI,Finland,FIN,41.1870864247042,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FR,France,FRA,41.3175956418701,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FR,France,FRA,40.8122598092708,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FR,France,FRA,40.2327284563431,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FR,France,FRA,39.5109264700915,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FR,France,FRA,38.9911736312233,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FR,France,FRA,38.4994282698566,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PF,French Polynesia,PYF,27.208480565371,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PF,French Polynesia,PYF,27.6119402985075,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PF,French Polynesia,PYF,27.4509803921569,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PF,French Polynesia,PYF,27.4261603375527,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PF,French Polynesia,PYF,27.3148148148148,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PF,French Polynesia,PYF,27.6381909547739,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GA,Gabon,GAB,43.1506849315069,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GA,Gabon,GAB,42.5176621708414,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GA,Gabon,GAB,41.5217391304348,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GA,Gabon,GAB,40.0816326530612,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GA,Gabon,GAB,37.9278445883441,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GA,Gabon,GAB,34.9524815205913,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GM,"Gambia, The",GMB,29.7613001523616,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GM,"Gambia, The",GMB,28.0190362879239,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GM,"Gambia, The",GMB,25.993031358885,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GM,"Gambia, The",GMB,23.4336859235151,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GM,"Gambia, The",GMB,21.0328638497653,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GM,"Gambia, The",GMB,18.4497816593886,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GE,Georgia,GEO,28.9895470383275,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GE,Georgia,GEO,28.5942128047391,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GE,Georgia,GEO,28.3798882681564,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GE,Georgia,GEO,28.1467425679949,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GE,Georgia,GEO,28.6362739293468,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GE,Georgia,GEO,29.2307692307692,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DE,Germany,DEU,38.809621859935604,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DE,Germany,DEU,38.4005685582471,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DE,Germany,DEU,37.997256515775,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DE,Germany,DEU,37.9011399559345,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DE,Germany,DEU,38.0807485537662,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",DE,Germany,DEU,38.2379982109134,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GH,Ghana,GHA,27.526403557532,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GH,Ghana,GHA,25.99950539939,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GH,Ghana,GHA,23.9337822671156,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GH,Ghana,GHA,21.9772630684233,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GH,Ghana,GHA,20.046536602828,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GH,Ghana,GHA,18.0805249846196,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GR,Greece,GRC,39.8256336509078,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GR,Greece,GRC,39.0404176793591,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GR,Greece,GRC,38.166832714428,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GR,Greece,GRC,37.2838157655197,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GR,Greece,GRC,36.9506138131384,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GR,Greece,GRC,36.6597775809468,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GD,Grenada,GRD,17.7570093457944,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GD,Grenada,GRD,18.2692307692308,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GD,Grenada,GRD,18.4466019417476,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GD,Grenada,GRD,18.4466019417476,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GD,Grenada,GRD,17.8217821782178,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GD,Grenada,GRD,17.5257731958763,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GU,Guam,GUM,46.4705882352941,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GU,Guam,GUM,46.25,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GU,Guam,GUM,45.9119496855346,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GU,Guam,GUM,45.8064516129032,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GU,Guam,GUM,43.8356164383562,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GU,Guam,GUM,42.3076923076923,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GT,Guatemala,GTM,26.7240848969548,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GT,Guatemala,GTM,25.5961511644122,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GT,Guatemala,GTM,24.4341036359334,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GT,Guatemala,GTM,23.2774009282399,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GT,Guatemala,GTM,22.0374636882701,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GT,Guatemala,GTM,20.8098987626547,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GN,Guinea,GIN,18.1972789115646,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GN,Guinea,GIN,17.1018756895918,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GN,Guinea,GIN,16.1219588597682,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GN,Guinea,GIN,15.3098559341413,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GN,Guinea,GIN,14.597422483093,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GN,Guinea,GIN,13.9036544850498,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GW,Guinea-Bissau,GNB,24.3288590604027,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GW,Guinea-Bissau,GNB,22.3203026481715,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GW,Guinea-Bissau,GNB,20.1970443349754,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GW,Guinea-Bissau,GNB,18.2246661429694,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GW,Guinea-Bissau,GNB,16.2280701754386,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GW,Guinea-Bissau,GNB,13.9489194499018,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GY,Guyana,GUY,14.2326732673267,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GY,Guyana,GUY,14.1041931385006,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GY,Guyana,GUY,14.2105263157895,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GY,Guyana,GUY,14.5161290322581,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GY,Guyana,GUY,14.9519890260631,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GY,Guyana,GUY,15.2892561983471,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HT,Haiti,HTI,30.1801376968782,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HT,Haiti,HTI,26.9071435788623,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HT,Haiti,HTI,23.1267544806737,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HT,Haiti,HTI,18.9882270660916,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HT,Haiti,HTI,17.8616994131156,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HT,Haiti,HTI,15.5414908579466,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HN,Honduras,HND,28.0864197530864,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HN,Honduras,HND,26.6238026505708,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HN,Honduras,HND,25.1087271672949,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HN,Honduras,HND,23.5728030788967,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HN,Honduras,HND,22.1963870506171,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HN,Honduras,HND,20.8809135399674,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HK,"Hong Kong SAR, China",HKG,53.1856713152858,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HK,"Hong Kong SAR, China",HKG,53.177304964539,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HK,"Hong Kong SAR, China",HKG,52.2981006234595,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HK,"Hong Kong SAR, China",HKG,51.3897015798713,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HK,"Hong Kong SAR, China",HKG,49.9674479166667,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HK,"Hong Kong SAR, China",HKG,48.6365205384881,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HU,Hungary,HUN,37.7497477295661,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HU,Hungary,HUN,36.5787896944278,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HU,Hungary,HUN,35.2515847860539,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HU,Hungary,HUN,34.2723004694836,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HU,Hungary,HUN,34.4344634405486,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",HU,Hungary,HUN,34.4824265767935,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IS,Iceland,ISL,46.8842729970326,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IS,Iceland,ISL,46.8553459119497,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IS,Iceland,ISL,46.6216216216216,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IS,Iceland,ISL,46.4285714285714,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IS,Iceland,ISL,46.0674157303371,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IS,Iceland,ISL,45.4901960784314,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IN,India,IND,15.4963778569702,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IN,India,IND,14.6272680145153,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IN,India,IND,13.8182876367172,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IN,India,IND,13.0684156847469,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IN,India,IND,12.5582232340522,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IN,India,IND,12.0480152838679,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ID,Indonesia,IDN,26.9329589494308,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ID,Indonesia,IDN,25.1142614967841,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ID,Indonesia,IDN,23.1458341685933,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ID,Indonesia,IDN,21.2253337098388,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ID,Indonesia,IDN,18.2307121661721,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ID,Indonesia,IDN,15.4652275895271,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,36.5388728814626,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,34.9435290009803,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,32.7702702702703,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,31.2689646801796,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,29.4349170649424,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,27.4120861573401,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IQ,Iraq,IRQ,34.2727730246603,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IQ,Iraq,IRQ,34.0255797429107,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IQ,Iraq,IRQ,33.8483453868069,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IQ,Iraq,IRQ,33.7422797361455,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IQ,Iraq,IRQ,33.8604331385356,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IQ,Iraq,IRQ,34.2504852152072,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IE,Ireland,IRL,32.2403215570129,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IE,Ireland,IRL,31.6319677635997,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IE,Ireland,IRL,30.7914361318258,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IE,Ireland,IRL,30.3890641430074,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IE,Ireland,IRL,29.9445983379501,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IE,Ireland,IRL,29.3967714528462,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IL,Israel,ISR,46.5715368102033,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IL,Israel,ISR,46.5974935992454,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IL,Israel,ISR,46.5172622652938,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IL,Israel,ISR,46.4416361822414,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IL,Israel,ISR,46.2014631401238,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IL,Israel,ISR,45.4767726161369,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IT,Italy,ITA,35.7757351738576,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IT,Italy,ITA,35.5319043448082,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IT,Italy,ITA,35.2001772535919,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IT,Italy,ITA,35.024391955919,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IT,Italy,ITA,34.8300800449375,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",IT,Italy,ITA,34.6706081081081,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JM,Jamaica,JAM,28.500355366027,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JM,Jamaica,JAM,28.018971178402,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JM,Jamaica,JAM,27.431979127842,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JM,Jamaica,JAM,26.9558481797057,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JM,Jamaica,JAM,26.4825345247766,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JM,Jamaica,JAM,25.9932375316991,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JP,Japan,JPN,48.0290808159661,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JP,Japan,JPN,46.4056598588176,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JP,Japan,JPN,43.9702627993605,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JP,Japan,JPN,40.0771586525077,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JP,Japan,JPN,39.6640505129214,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JP,Japan,JPN,39.2963484065179,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JO,Jordan,JOR,41.0273081924577,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JO,Jordan,JOR,40.3345724907063,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JO,Jordan,JOR,39.5229007633588,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JO,Jordan,JOR,38.2840360813929,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JO,Jordan,JOR,37.2598935431613,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",JO,Jordan,JOR,34.8913367073534,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KZ,Kazakhstan,KAZ,28.4896547611949,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KZ,Kazakhstan,KAZ,28.6539790214183,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KZ,Kazakhstan,KAZ,29.2684545937334,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KZ,Kazakhstan,KAZ,29.8024149286498,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KZ,Kazakhstan,KAZ,29.4790996784566,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KZ,Kazakhstan,KAZ,29.5510759337126,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KE,Kenya,KEN,12.5863654837537,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KE,Kenya,KEN,11.6013591141314,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KE,Kenya,KEN,10.6969205834684,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KE,Kenya,KEN,9.85456288956369,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KE,Kenya,KEN,9.06703625355606,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KE,Kenya,KEN,8.32515886893846,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KI,Kiribati,KIR,22.6415094339623,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KI,Kiribati,KIR,22.4489795918367,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KI,Kiribati,KIR,22.2222222222222,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KI,Kiribati,KIR,21.9512195121951,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KI,Kiribati,KIR,18.1818181818182,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KI,Kiribati,KIR,18.3098591549296,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,30.8407871198569,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,30.5007958858822,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,30.3040483789686,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,30.1357267950963,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,29.9223452648991,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,29.7117955828464,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KR,"Korea, Rep.",KOR,41.3809045226131,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KR,"Korea, Rep.",KOR,41.0893030359317,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KR,"Korea, Rep.",KOR,40.7224714562116,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KR,"Korea, Rep.",KOR,39.6024099006025,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KR,"Korea, Rep.",KOR,38.9841895462892,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KR,"Korea, Rep.",KOR,36.8868100158243,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KW,Kuwait,KWT,39.5926339285714,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KW,Kuwait,KWT,39.5387700534759,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KW,Kuwait,KWT,39.7385620915033,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KW,Kuwait,KWT,40.2938090241343,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KW,Kuwait,KWT,40.0378310214376,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KW,Kuwait,KWT,45.6796116504854,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KG,Kyrgyz Republic,KGZ,18.8507358093903,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KG,Kyrgyz Republic,KGZ,18.4289463817023,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KG,Kyrgyz Republic,KGZ,18.4252280840936,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KG,Kyrgyz Republic,KGZ,18.4661957618567,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KG,Kyrgyz Republic,KGZ,18.9024390243902,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",KG,Kyrgyz Republic,KGZ,19.8362147406733,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LA,Lao PDR,LAO,19.2165242165242,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LA,Lao PDR,LAO,16.5572232645403,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LA,Lao PDR,LAO,13.7651122625216,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LA,Lao PDR,LAO,10.9482278715903,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LA,Lao PDR,LAO,8.66174055829228,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LA,Lao PDR,LAO,7.65786993402451,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LV,Latvia,LVA,37.370753323486,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LV,Latvia,LVA,37.6076555023923,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LV,Latvia,LVA,37.6122082585278,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LV,Latvia,LVA,37.3260227752003,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LV,Latvia,LVA,37.4346602332127,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LV,Latvia,LVA,37.3638753285768,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LB,Lebanon,LBN,43.1822679596279,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LB,Lebanon,LBN,42.6728110599078,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LB,Lebanon,LBN,42.5131677953348,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LB,Lebanon,LBN,43.2766615146831,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LB,Lebanon,LBN,42.7158866183256,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LB,Lebanon,LBN,42.0643729189789,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LS,Lesotho,LSO,14.4811320754717,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LS,Lesotho,LSO,13.1906421105027,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LS,Lesotho,LSO,11.993769470405,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LS,Lesotho,LSO,10.5660377358491,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LS,Lesotho,LSO,9.07016543069025,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LS,Lesotho,LSO,7.57196495619524,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LR,Liberia,LBR,24.1838774150566,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LR,Liberia,LBR,23.3451237998989,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LR,Liberia,LBR,22.538226299694202,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LR,Liberia,LBR,21.7842323651452,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LR,Liberia,LBR,22.6923076923077,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LR,Liberia,LBR,27.6747503566334,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LY,Libya,LBY,39.5124267848662,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LY,Libya,LBY,37.9572918390995,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LY,Libya,LBY,37.2296693476318,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LY,Libya,LBY,36.7007919644582,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LY,Libya,LBY,36.2334105751001,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LY,Libya,LBY,35.8450704225352,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LT,Lithuania,LTU,36.378792930977,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LT,Lithuania,LTU,36.6894753991528,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LT,Lithuania,LTU,36.253041362530404,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LT,Lithuania,LTU,35.8673906830523,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LT,Lithuania,LTU,35.7221609702315,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LT,Lithuania,LTU,35.7587232891534,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LU,Luxembourg,LUX,45.4044117647059,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LU,Luxembourg,LUX,44.7731755424063,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LU,Luxembourg,LUX,44.1048034934498,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LU,Luxembourg,LUX,43.0205949656751,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LU,Luxembourg,LUX,42.5061425061425,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LU,Luxembourg,LUX,41.6230366492147,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MO,"Macao SAR, China",MAC,51.8835616438356,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MO,"Macao SAR, China",MAC,51.9626168224299,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MO,"Macao SAR, China",MAC,52.1367521367521,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MO,"Macao SAR, China",MAC,51.6203703703704,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MO,"Macao SAR, China",MAC,51.5075376884422,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MO,"Macao SAR, China",MAC,51.2534818941504,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MG,Madagascar,MDG,17.894867139792,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MG,Madagascar,MDG,16.2863513449405,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MG,Madagascar,MDG,14.702022963368,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MG,Madagascar,MDG,13.8393140679581,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MG,Madagascar,MDG,13.1578947368421,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MG,Madagascar,MDG,12.0041572839078,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MW,Malawi,MWI,7.74741463978277,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MW,Malawi,MWI,7.43306247502331,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MW,Malawi,MWI,7.20365212008666,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MW,Malawi,MWI,6.96873343932167,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MW,Malawi,MWI,6.15153035624686,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MW,Malawi,MWI,5.37736847676511,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MY,Malaysia,MYS,38.6055919872109,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MY,Malaysia,MYS,36.6825817860301,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MY,Malaysia,MYS,33.6673889490791,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MY,Malaysia,MYS,30.5636208368915,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MY,Malaysia,MYS,27.5223160434258,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MY,Malaysia,MYS,24.6828839712262,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MV,Maldives,MDV,22.6890756302521,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MV,Maldives,MDV,20,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MV,Maldives,MDV,16.8350168350168,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MV,Maldives,MDV,13.553113553113601,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MV,Maldives,MDV,11.8367346938776,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MV,Maldives,MDV,11.5740740740741,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ML,Mali,MLI,19.3923365520635,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ML,Mali,MLI,17.4973185555953,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ML,Mali,MLI,15.7118927973199,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ML,Mali,MLI,13.9863547758285,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ML,Mali,MLI,12.6710423851374,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ML,Mali,MLI,11.638418079096,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MT,Malta,MLT,47.7958236658933,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MT,Malta,MLT,47.4056603773585,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MT,Malta,MLT,47.1014492753623,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MT,Malta,MLT,46.4373464373464,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MT,Malta,MLT,45.5696202531646,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MT,Malta,MLT,45.6,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MR,Mauritania,MRT,29.3382352941176,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MR,Mauritania,MRT,27.8116343490305,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MR,Mauritania,MRT,26.1201143946616,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MR,Mauritania,MRT,24.1137370753323,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MR,Mauritania,MRT,22.2365038560411,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MR,Mauritania,MRT,20.3557312252964,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MU,Mauritius,MUS,20.2551834130782,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MU,Mauritius,MUS,20.6336311941511,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MU,Mauritius,MUS,21.1046990931575,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MU,Mauritius,MUS,21.6033755274262,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MU,Mauritius,MUS,21.858407079646,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MU,Mauritius,MUS,22.1381267738884,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MX,Mexico,MEX,40.9961991759558,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MX,Mexico,MEX,40.3253991143987,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MX,Mexico,MEX,39.6777805873641,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MX,Mexico,MEX,38.8124073396615,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MX,Mexico,MEX,38.0157665213016,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MX,Mexico,MEX,36.280307166839,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,10.4761904761905,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,10.6796116504854,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,11.214953271028,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,11.214953271028,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,12.1495327102804,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,12.3711340206186,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MD,Moldova,MDA,24.1268917345751,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MD,Moldova,MDA,24.0414217744193,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MD,Moldova,MDA,24.0711252653928,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MD,Moldova,MDA,23.7341772151899,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MD,Moldova,MDA,24.0433379437529,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MD,Moldova,MDA,24.3125572868928,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MN,Mongolia,MNG,37.0041039671683,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MN,Mongolia,MNG,34.7954294139329,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MN,Mongolia,MNG,32.0269200316706,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MN,Mongolia,MNG,29.0658882402002,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MN,Mongolia,MNG,29.0814105354811,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MN,Mongolia,MNG,29.2582417582418,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ME,Montenegro,MNE,32.7974276527331,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ME,Montenegro,MNE,32.3671497584541,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ME,Montenegro,MNE,31.9805194805195,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ME,Montenegro,MNE,30.278232405892,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ME,Montenegro,MNE,27.479674796748,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ME,Montenegro,MNE,24.4299674267101,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MA,Morocco,MAR,30.5442657713377,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MA,Morocco,MAR,29.4946749676074,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MA,Morocco,MAR,28.0763485477178,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MA,Morocco,MAR,26.924416579589,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MA,Morocco,MAR,25.9531174300302,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MA,Morocco,MAR,24.2877406281662,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MZ,Mozambique,MOZ,16.038640218273,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MZ,Mozambique,MOZ,15.4921350189844,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MZ,Mozambique,MOZ,15.0873352053686,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MZ,Mozambique,MOZ,14.6804552418472,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MZ,Mozambique,MOZ,13.8977535823791,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MZ,Mozambique,MOZ,12.389445754717,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MM,Myanmar,MMR,17.5227088102799,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MM,Myanmar,MMR,16.1387225356723,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MM,Myanmar,MMR,14.8027102431247,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MM,Myanmar,MMR,13.7163849503643,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MM,Myanmar,MMR,12.9980145598941,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MM,Myanmar,MMR,12.5157277496854,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NA,Namibia,NAM,23.3277591973244,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NA,Namibia,NAM,20.9270307480496,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NA,Namibia,NAM,18.3431952662722,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NA,Namibia,NAM,16.0780179230364,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NA,Namibia,NAM,14.7521160822249,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NA,Namibia,NAM,13.5689045936396,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NP,Nepal,NPL,9.17656986147247,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NP,Nepal,NPL,8.20978916784623,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NP,Nepal,NPL,7.34590598189222,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NP,Nepal,NPL,6.47832650420531,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NP,Nepal,NPL,5.01772963520668,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NP,Nepal,NPL,4.26236749116608,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NL,Netherlands,NLD,45.6396556841793,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NL,Netherlands,NLD,44.02383245065,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NL,Netherlands,NLD,41.8511930319573,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NL,Netherlands,NLD,38.9557979696072,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NL,Netherlands,NLD,36.9933199299565,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NL,Netherlands,NLD,35.191403626595,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NC,New Caledonia,NCL,34.9809885931559,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NC,New Caledonia,NCL,33.3333333333333,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NC,New Caledonia,NCL,32.0175438596491,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NC,New Caledonia,NCL,30.952380952381,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NC,New Caledonia,NCL,29.4736842105263,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NC,New Caledonia,NCL,29.1666666666667,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NZ,New Zealand,NZL,44.2123585726719,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NZ,New Zealand,NZL,44.1620879120879,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NZ,New Zealand,NZL,44.2079806529625,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NZ,New Zealand,NZL,44.0124416796268,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NZ,New Zealand,NZL,43.7006802721088,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NZ,New Zealand,NZL,43.5127978817299,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NI,Nicaragua,NIC,30.5306905370844,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NI,Nicaragua,NIC,29.7097715953976,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NI,Nicaragua,NIC,29.0689149560117,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NI,Nicaragua,NIC,28.3277788668888,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NI,Nicaragua,NIC,27.7896995708155,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NI,Nicaragua,NIC,27.2661348803481,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NE,Niger,NER,9.2579138557343,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NE,Niger,NER,8.69565217391304,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NE,Niger,NER,8.29793689320388,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NE,Niger,NER,8.08007279344859,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NE,Niger,NER,7.91971201047235,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NE,Niger,NER,7.7379417075058,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NG,Nigeria,NGA,22.8215383274122,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NG,Nigeria,NGA,20.8017131264558,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NG,Nigeria,NGA,18.7332540512659,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NG,Nigeria,NGA,16.748455772846,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NG,Nigeria,NGA,15.5222504035047,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NG,Nigeria,NGA,14.3259043893868,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MK,North Macedonia,MKD,28.7476280834915,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MK,North Macedonia,MKD,28.639391056137,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MK,North Macedonia,MKD,28.8995215311005,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MK,North Macedonia,MKD,29.3229420360448,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MK,North Macedonia,MKD,29.9949161159126,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",MK,North Macedonia,MKD,28.9696366351419,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NO,Norway,NOR,40.5599844448765,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NO,Norway,NOR,39.9713759967287,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NO,Norway,NOR,39.4981613670777,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NO,Norway,NOR,38.8554887552884,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NO,Norway,NOR,37.7752293577982,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",NO,Norway,NOR,36.9016741334591,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OM,Oman,OMN,26.4550264550265,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OM,Oman,OMN,30.5634807417974,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OM,Oman,OMN,31.4580031695721,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OM,Oman,OMN,30.9621523027816,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OM,Oman,OMN,28.4122562674095,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",OM,Oman,OMN,28.6581998895638,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PK,Pakistan,PAK,18.69993887693,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PK,Pakistan,PAK,17.6945867432096,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PK,Pakistan,PAK,16.7429464901786,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PK,Pakistan,PAK,15.7565771177485,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PK,Pakistan,PAK,14.8237021367285,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PK,Pakistan,PAK,14.3801027986065,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PA,Panama,PAN,33.5506519558676,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PA,Panama,PAN,32.78955954323,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PA,Panama,PAN,32.1449792038027,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PA,Panama,PAN,31.5220949263502,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PA,Panama,PAN,29.6336597751179,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PA,Panama,PAN,27.7442702050663,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PG,Papua New Guinea,PNG,5.9740600026202,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PG,Papua New Guinea,PNG,5.99212713223502,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PG,Papua New Guinea,PNG,6.05314960629921,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PG,Papua New Guinea,PNG,6.09778769287972,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PG,Papua New Guinea,PNG,6.509754028838,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PG,Papua New Guinea,PNG,6.9504569504569496,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PY,Paraguay,PRY,30.5986065690317,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PY,Paraguay,PRY,29.9581978634464,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PY,Paraguay,PRY,29.3529810298103,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PY,Paraguay,PRY,28.3551401869159,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PY,Paraguay,PRY,26.780508121616,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PY,Paraguay,PRY,25.0411861614498,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PE,Peru,PER,39.6553384037739,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PE,Peru,PER,38.8087752870421,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PE,Peru,PER,37.7975761073438,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PE,Peru,PER,36.7153846153846,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PE,Peru,PER,35.6113455031538,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PE,Peru,PER,34.5994855778064,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PH,Philippines,PHL,22.5405931062935,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PH,Philippines,PHL,22.9549248747913,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PH,Philippines,PHL,23.5711539133778,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PH,Philippines,PHL,24.1977025704425,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PH,Philippines,PHL,24.3240525242077,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PH,Philippines,PHL,24.4382385226319,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PL,Poland,POL,31.890010988436,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PL,Poland,POL,32.0505772402419,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PL,Poland,POL,32.2698005548867,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PL,Poland,POL,32.3216520650814,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PL,Poland,POL,32.1153846153846,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PL,Poland,POL,31.8733453906844,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PT,Portugal,PRT,32.9500471253534,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PT,Portugal,PRT,31.5138351119086,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PT,Portugal,PRT,29.9714557564225,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PT,Portugal,PRT,28.4009314962158,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PT,Portugal,PRT,26.7505199564227,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PT,Portugal,PRT,25.1515151515152,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PR,Puerto Rico,PRI,48.6817069855939,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PR,Puerto Rico,PRI,48.8409703504043,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PR,Puerto Rico,PRI,49.0430622009569,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PR,Puerto Rico,PRI,49.0913879378457,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PR,Puerto Rico,PRI,48.6449864498645,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PR,Puerto Rico,PRI,48.0818414322251,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",QA,Qatar,QAT,23.4042553191489,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",QA,Qatar,QAT,23.929183323815,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",QA,Qatar,QAT,32.5213154689403,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",QA,Qatar,QAT,33.5581787521079,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",QA,Qatar,QAT,32.3353293413174,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",QA,Qatar,QAT,30.5439330543933,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RO,Romania,ROU,28.5138328930905,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RO,Romania,ROU,28.1185673116509,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RO,Romania,ROU,27.7212499434722,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RO,Romania,ROU,27.4822457456787,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RO,Romania,ROU,27.6737502177321,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RO,Romania,ROU,27.1692623652233,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RU,Russian Federation,RUS,40.289799997185,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RU,Russian Federation,RUS,40.0416382347617,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RU,Russian Federation,RUS,39.7143115199433,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RU,Russian Federation,RUS,39.3161810798288,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RU,Russian Federation,RUS,39.1535780137549,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RU,Russian Federation,RUS,39.1625998150511,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RW,Rwanda,RWA,13.0501247083434,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RW,Rwanda,RWA,10.8896271686969,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RW,Rwanda,RWA,8.83444691907944,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RW,Rwanda,RWA,6.89696247766528,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RW,Rwanda,RWA,4.50291365000883,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RW,Rwanda,RWA,2.46708246708247,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",WS,Samoa,WSM,9.27835051546392,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",WS,Samoa,WSM,9.67741935483871,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",WS,Samoa,WSM,10.0558659217877,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",WS,Samoa,WSM,10.3448275862069,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",WS,Samoa,WSM,10.5882352941176,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",WS,Samoa,WSM,10.4294478527607,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ST,Sao Tome and Principe,STP,33.4975369458128,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ST,Sao Tome and Principe,STP,31.8435754189944,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ST,Sao Tome and Principe,STP,29.8701298701299,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ST,Sao Tome and Principe,STP,27.8571428571429,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ST,Sao Tome and Principe,STP,25.1908396946565,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ST,Sao Tome and Principe,STP,22.2222222222222,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SA,Saudi Arabia,SAU,34.5742190113051,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SA,Saudi Arabia,SAU,35.5895516912466,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SA,Saudi Arabia,SAU,35.6986634264885,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SA,Saudi Arabia,SAU,36.7801826846704,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SA,Saudi Arabia,SAU,34.5451607691065,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SA,Saudi Arabia,SAU,33.5369616191534,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SN,Senegal,SEN,22.2006948156066,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SN,Senegal,SEN,21.5289575289575,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SN,Senegal,SEN,20.938692218969,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SN,Senegal,SEN,20.350841614277,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SN,Senegal,SEN,19.8002754820937,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SN,Senegal,SEN,19.3904711205749,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RS,Serbia,SRB,29.0322580645161,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RS,Serbia,SRB,28.8276148025293,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RS,Serbia,SRB,28.3848935315388,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RS,Serbia,SRB,27.5576754599435,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RS,Serbia,SRB,26.8048192771084,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",RS,Serbia,SRB,26.0195172059579,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SC,Seychelles,SYC,26.3157894736842,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SC,Seychelles,SYC,25,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SC,Seychelles,SYC,25.2873563218391,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SC,Seychelles,SYC,25,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SC,Seychelles,SYC,23.6842105263158,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SC,Seychelles,SYC,24.2857142857143,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SL,Sierra Leone,SLE,19.5758822598512,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SL,Sierra Leone,SLE,18.7934631432545,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SL,Sierra Leone,SLE,18.18359375,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SL,Sierra Leone,SLE,17.6328502415459,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SL,Sierra Leone,SLE,17.0613700025465,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SL,Sierra Leone,SLE,16.4976502597081,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SG,Singapore,SGP,50.6139882541377,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SG,Singapore,SGP,50.659578657216,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SG,Singapore,SGP,50.3670745272525,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SG,Singapore,SGP,50.0510464522716,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SG,Singapore,SGP,49.6698248636233,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SG,Singapore,SGP,49.6851176665562,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SK,Slovak Republic,SVK,27.867350677904,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SK,Slovak Republic,SVK,28.4189214062212,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SK,Slovak Republic,SVK,28.9000185494342,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SK,Slovak Republic,SVK,29.2130660727543,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SK,Slovak Republic,SVK,29.3064876957494,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SK,Slovak Republic,SVK,29.1832480576085,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SI,Slovenia,SVN,25.3365384615385,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SI,Slovenia,SVN,25.5598831548199,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SI,Slovenia,SVN,26.3,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SI,Slovenia,SVN,26.3448969331322,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SI,Slovenia,SVN,26.5060240963855,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SI,Slovenia,SVN,26.3473053892216,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SB,Solomon Islands,SLB,10.9401709401709,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SB,Solomon Islands,SLB,9.86717267552182,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SB,Solomon Islands,SLB,8.72340425531915,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SB,Solomon Islands,SLB,7.74818401937046,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SB,Solomon Islands,SLB,6.98324022346369,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SB,Solomon Islands,SLB,6.73076923076923,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,19.670952081273,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,18.5346616853466,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,17.4775625885687,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,16.517736257785,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,15.6476520642925,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,14.6947168617526,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZA,South Africa,ZAF,32.748822253795,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZA,South Africa,ZAF,31.4934307704268,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZA,South Africa,ZAF,29.9859026453271,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZA,South Africa,ZAF,28.4857404062702,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZA,South Africa,ZAF,27.1761695553517,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZA,South Africa,ZAF,25.8174109205555,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SS,South Sudan,SSD,9.27343042870073,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SS,South Sudan,SSD,8.82205009556383,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SS,South Sudan,SSD,8.48364224406021,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SS,South Sudan,SSD,8.16173154967684,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SS,South Sudan,SSD,7.87633419212367,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SS,South Sudan,SSD,6.55680832610581,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ES,Spain,ESP,40.5127118644068,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ES,Spain,ESP,39.9874409943268,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ES,Spain,ESP,39.5063151101687,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ES,Spain,ESP,39.2125710597523,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ES,Spain,ESP,39.0020547423962,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ES,Spain,ESP,38.7187202633542,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LK,Sri Lanka,LKA,9.24023690542291,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LK,Sri Lanka,LKA,9.15309760092494,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LK,Sri Lanka,LKA,9.08225151621473,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LK,Sri Lanka,LKA,9.06775614156099,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LK,Sri Lanka,LKA,9.02861528341191,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LK,Sri Lanka,LKA,9.011141257288,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LC,St. Lucia,LCA,9.67741935483871,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LC,St. Lucia,LCA,9.6045197740113,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LC,St. Lucia,LCA,12.1212121212121,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LC,St. Lucia,LCA,14.0127388535032,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LC,St. Lucia,LCA,14.8648648648649,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",LC,St. Lucia,LCA,15.1079136690647,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,25.6880733944954,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,24.5454545454545,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,23.8532110091743,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,23.1481481481481,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,22.2222222222222,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,21.2962962962963,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SD,Sudan,SDN,17.0015651032463,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SD,Sudan,SDN,16.6330079658925,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SD,Sudan,SDN,16.4598239726461,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SD,Sudan,SDN,16.2495492246664,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SD,Sudan,SDN,16.0585429491622,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SD,Sudan,SDN,14.2585836373632,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SR,Suriname,SUR,33.1511839708561,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SR,Suriname,SUR,33.3333333333333,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SR,Suriname,SUR,33.4,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SR,Suriname,SUR,32.9764453961456,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SR,Suriname,SUR,32.7981651376147,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SR,Suriname,SUR,32.4324324324324,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SE,Sweden,SWE,43.52176604085,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SE,Sweden,SWE,43.2057977192795,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SE,Sweden,SWE,43.0343300110742,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SE,Sweden,SWE,42.9891794409378,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SE,Sweden,SWE,42.9137872436841,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SE,Sweden,SWE,42.5867507886435,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CH,Switzerland,CHE,38.9124893797791,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CH,Switzerland,CHE,38.8888888888889,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CH,Switzerland,CHE,39.011879049676,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CH,Switzerland,CHE,38.9951151430565,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CH,Switzerland,CHE,39.0765284309534,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",CH,Switzerland,CHE,37.7940956091713,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SY,Syrian Arab Republic,SYR,28.174264540759,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SY,Syrian Arab Republic,SYR,27.1456436931079,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SY,Syrian Arab Republic,SYR,26.0857598943139,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SY,Syrian Arab Republic,SYR,25.3863539185144,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SY,Syrian Arab Republic,SYR,24.4385548891059,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",SY,Syrian Arab Republic,SYR,23.8535057425106,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TJ,Tajikistan,TJK,13.3898501916154,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TJ,Tajikistan,TJK,13.1751442055585,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TJ,Tajikistan,TJK,13.1501616220981,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TJ,Tajikistan,TJK,13.3042353701908,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TJ,Tajikistan,TJK,14.5746887966805,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TJ,Tajikistan,TJK,16.157040392601,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TZ,Tanzania,TZA,15.8612380715611,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TZ,Tanzania,TZA,14.1214924178414,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TZ,Tanzania,TZA,12.5103029054193,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TZ,Tanzania,TZA,11.2724493695071,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TZ,Tanzania,TZA,10.4090833194189,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TZ,Tanzania,TZA,9.58248312666771,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TH,Thailand,THA,25.9376854599407,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TH,Thailand,THA,22.7176892262281,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TH,Thailand,THA,19.5774862721171,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TH,Thailand,THA,16.3033540253116,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TH,Thailand,THA,15.5669334056693,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TH,Thailand,THA,15.1865401268932,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TL,Timor-Leste,TLS,16.2830349531117,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TL,Timor-Leste,TLS,14.643188137164,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TL,Timor-Leste,TLS,13.0522088353414,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TL,Timor-Leste,TLS,11.943793911007,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TL,Timor-Leste,TLS,11.0726643598616,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TL,Timor-Leste,TLS,10.2529960053262,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TG,Togo,TGO,19.8271054099275,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TG,Togo,TGO,18.6935151419058,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TG,Togo,TGO,17.5961017866811,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TG,Togo,TGO,16.5467625899281,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TG,Togo,TGO,15.4761904761905,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TG,Togo,TGO,14.2555438225977,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TO,Tonga,TON,12.1495327102804,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TO,Tonga,TON,11.5384615384615,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TO,Tonga,TON,11.7647058823529,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TO,Tonga,TON,11.2244897959184,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TO,Tonga,TON,11.4583333333333,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TO,Tonga,TON,11.5789473684211,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TT,Trinidad and Tobago,TTO,4.30906389301634,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TT,Trinidad and Tobago,TTO,4.66867469879518,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TT,Trinidad and Tobago,TTO,5.09259259259259,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TT,Trinidad and Tobago,TTO,5.52486187845304,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TT,Trinidad and Tobago,TTO,4.9402390438247,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TT,Trinidad and Tobago,TTO,4.41537203597711,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TN,Tunisia,TUN,33.6448598130841,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TN,Tunisia,TUN,33.0605718585403,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TN,Tunisia,TUN,32.4977618621307,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TN,Tunisia,TUN,31.4907872696817,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TN,Tunisia,TUN,30.41638833222,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TN,Tunisia,TUN,28.7154271665642,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TR,Turkiye,TUR,37.2129715351215,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TR,Turkiye,TUR,35.8230059053481,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TR,Turkiye,TUR,34.2992530483304,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TR,Turkiye,TUR,32.7202216066482,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TR,Turkiye,TUR,31.3488944328629,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TR,Turkiye,TUR,29.7953514214279,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TM,Turkmenistan,TKM,25.5117231112765,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TM,Turkmenistan,TKM,24.5982939892878,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TM,Turkmenistan,TKM,23.8626790227464,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TM,Turkmenistan,TKM,23.2614974450122,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TM,Turkmenistan,TKM,22.683858643744,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",TM,Turkmenistan,TKM,22.8672662850913,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UG,Uganda,UGA,8.03667073565681,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UG,Uganda,UGA,7.23827458365209,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UG,Uganda,UGA,6.52022557961429,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UG,Uganda,UGA,6.05536332179931,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UG,Uganda,UGA,5.85342333654773,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UG,Uganda,UGA,5.56030795551754,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UA,Ukraine,UKR,37.7727008018636,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UA,Ukraine,UKR,37.1900108577633,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UA,Ukraine,UKR,36.5177359131025,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UA,Ukraine,UKR,35.8807101942638,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UA,Ukraine,UKR,35.6006099945257,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UA,Ukraine,UKR,35.5291430341277,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AE,United Arab Emirates,ARE,25.9031112967217,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AE,United Arab Emirates,ARE,24.5557924662402,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AE,United Arab Emirates,ARE,26.1026753434563,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AE,United Arab Emirates,ARE,25.8426966292135,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AE,United Arab Emirates,ARE,25.9701492537313,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",AE,United Arab Emirates,ARE,26.9656699889258,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GB,United Kingdom,GBR,41.9679218094104,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GB,United Kingdom,GBR,41.450368150547,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GB,United Kingdom,GBR,40.9331409331409,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GB,United Kingdom,GBR,40.4793811809808,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GB,United Kingdom,GBR,40.4124351259548,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",GB,United Kingdom,GBR,40.3170552661936,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",US,United States,USA,41.7000126104568,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",US,United States,USA,41.3270306104802,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",US,United States,USA,40.9238477894864,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",US,United States,USA,40.5362005657162,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",US,United States,USA,39.7721973294931,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",US,United States,USA,38.9368465307438,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UY,Uruguay,URY,49.6209912536443,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UY,Uruguay,URY,49.302877484426,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UY,Uruguay,URY,48.8421052631579,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UY,Uruguay,URY,48.2083709725986,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UY,Uruguay,URY,47.5038759689922,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UY,Uruguay,URY,46.8167202572347,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UZ,Uzbekistan,UZB,18.4792487125114,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UZ,Uzbekistan,UZB,18.3694047318953,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UZ,Uzbekistan,UZB,18.5909003647533,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UZ,Uzbekistan,UZB,18.9745448686966,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UZ,Uzbekistan,UZB,19.5494945974207,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",UZ,Uzbekistan,UZB,20.5000972951936,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VU,Vanuatu,VUT,12.1673003802281,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VU,Vanuatu,VUT,11.4406779661017,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VU,Vanuatu,VUT,10.952380952381,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VU,Vanuatu,VUT,10.3260869565217,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VU,Vanuatu,VUT,9.52380952380952,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VU,Vanuatu,VUT,8.9041095890411,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VE,"Venezuela, RB",VEN,44.8776123218508,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VE,"Venezuela, RB",VEN,44.6854663774403,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VE,"Venezuela, RB",VEN,44.5034797575395,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VE,"Venezuela, RB",VEN,44.2559816453622,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VE,"Venezuela, RB",VEN,43.3233749773674,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VE,"Venezuela, RB",VEN,42.3606889564336,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VN,Viet Nam,VNM,17.33985822286,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VN,Viet Nam,VNM,15.720911428796,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VN,Viet Nam,VNM,13.9344069312991,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VN,Viet Nam,VNM,12.427059638018,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VN,Viet Nam,VNM,11.2325703762168,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VN,Viet Nam,VNM,10.2149211278643,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VI,Virgin Islands (U.S.),VIR,49.5327102803738,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VI,Virgin Islands (U.S.),VIR,49.5327102803738,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VI,Virgin Islands (U.S.),VIR,49.5327102803738,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VI,Virgin Islands (U.S.),VIR,48.6238532110092,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VI,Virgin Islands (U.S.),VIR,47.1698113207547,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",VI,Virgin Islands (U.S.),VIR,45.6310679611651,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PS,West Bank and Gaza,PSE,37.0411079358101,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PS,West Bank and Gaza,PSE,36.5063543483678,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PS,West Bank and Gaza,PSE,35.9831460674157,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PS,West Bank and Gaza,PSE,35.4556803995006,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PS,West Bank and Gaza,PSE,34.6287033474413,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",PS,West Bank and Gaza,PSE,33.4454589139837,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",YE,"Yemen, Rep.",YEM,15.7900920305463,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",YE,"Yemen, Rep.",YEM,14.562467053242,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",YE,"Yemen, Rep.",YEM,13.3465739821251,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",YE,"Yemen, Rep.",YEM,12.1497460480511,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",YE,"Yemen, Rep.",YEM,10.9801571447596,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",YE,"Yemen, Rep.",YEM,9.93214588634436,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZM,Zambia,ZMB,20.2319587628866,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZM,Zambia,ZMB,19.1330004539265,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZM,Zambia,ZMB,18.0993897122929,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZM,Zambia,ZMB,17.2079207920792,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZM,Zambia,ZMB,18.2671643479244,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZM,Zambia,ZMB,19.2631310555839,NA,NA,0
+2015,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZW,Zimbabwe,ZWE,15.4991359829855,NA,NA,0
+2010,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZW,Zimbabwe,ZWE,16.0969641355051,NA,NA,0
+2005,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZW,Zimbabwe,ZWE,16.4739202265754,NA,NA,0
+2000,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZW,Zimbabwe,ZWE,16.2268074216251,NA,NA,0
+1995,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZW,Zimbabwe,ZWE,15.2676346765186,NA,NA,0
+1990,SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)",ZW,Zimbabwe,ZWE,13.9170330720703,NA,NA,0

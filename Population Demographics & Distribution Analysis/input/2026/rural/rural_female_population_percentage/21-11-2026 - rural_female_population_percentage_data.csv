@@ -1,0 +1,1441 @@
+date,indicator_id,indicator_name,country_id,country_name,country_code,value,unit,obs_status,decimal
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZH,Africa Eastern and Southern,AFE,33.8891009860521,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZH,Africa Eastern and Southern,AFE,34.9500413990302,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZH,Africa Eastern and Southern,AFE,35.8310721113732,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZH,Africa Eastern and Southern,AFE,36.5631717847971,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZH,Africa Eastern and Southern,AFE,37.1654792641049,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZH,Africa Eastern and Southern,AFE,38.116381420496,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZI,Africa Western and Central,AFW,27.5416941321416,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZI,Africa Western and Central,AFW,29.1830451831939,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZI,Africa Western and Central,AFW,30.8849444457044,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZI,Africa Western and Central,AFW,32.4521402847773,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZI,Africa Western and Central,AFW,33.6451557660515,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZI,Africa Western and Central,AFW,34.7252178280434,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1A,Arab World,ARB,21.1328555428617,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1A,Arab World,ARB,22.0414990699742,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1A,Arab World,ARB,22.7914010718265,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1A,Arab World,ARB,23.5930936552017,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1A,Arab World,ARB,24.2474675655242,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1A,Arab World,ARB,25.2455244251855,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S3,Caribbean small states,CSS,32.9631693505205,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S3,Caribbean small states,CSS,32.9011091602499,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S3,Caribbean small states,CSS,32.8916519723125,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S3,Caribbean small states,CSS,32.9766956610016,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S3,Caribbean small states,CSS,33.5006789680071,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S3,Caribbean small states,CSS,34.025069502288,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",B8,Central Europe and the Baltics,CEB,18.9870645028101,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",B8,Central Europe and the Baltics,CEB,19.1140579198186,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",B8,Central Europe and the Baltics,CEB,19.2935615703947,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",B8,Central Europe and the Baltics,CEB,19.4291908999487,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",B8,Central Europe and the Baltics,CEB,19.3413982121832,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",B8,Central Europe and the Baltics,CEB,19.4476179377351,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V2,Early-demographic dividend,EAR,27.6267757982108,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V2,Early-demographic dividend,EAR,28.5771004422719,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V2,Early-demographic dividend,EAR,29.4660310476457,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V2,Early-demographic dividend,EAR,30.3227063497283,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V2,Early-demographic dividend,EAR,31.0964002538745,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V2,Early-demographic dividend,EAR,31.9086267517968,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z4,East Asia & Pacific,EAS,21.1090412410837,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z4,East Asia & Pacific,EAS,23.4376561792946,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z4,East Asia & Pacific,EAS,25.936891604257,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z4,East Asia & Pacific,EAS,28.5440621353245,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z4,East Asia & Pacific,EAS,30.3891555408888,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z4,East Asia & Pacific,EAS,32.3602274103618,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,22.9789706023398,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,25.5193942752683,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,28.1817396280059,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,30.8705862807912,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,32.9661707497271,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",4E,East Asia & Pacific (excluding high income),EAP,35.1919833085512,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,23.0131891736126,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,25.5819131795964,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,28.2767187180945,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,30.9990522026016,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,33.1217787285558,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,35.3720551061703,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XC,Euro area,EMU,12.0932513924947,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XC,Euro area,EMU,12.6901566495784,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XC,Euro area,EMU,13.3088400564846,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XC,Euro area,EMU,13.8923365377065,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XC,Euro area,EMU,14.2350203826744,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XC,Euro area,EMU,14.6557976137434,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z7,Europe & Central Asia,ECS,14.7167113484887,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z7,Europe & Central Asia,ECS,15.1626274114728,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z7,Europe & Central Asia,ECS,15.6557340221832,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z7,Europe & Central Asia,ECS,16.1067213250764,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z7,Europe & Central Asia,ECS,16.3171009902484,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",Z7,Europe & Central Asia,ECS,16.5706248531157,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,20.1887238974972,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,20.7510494555805,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,21.3122374924891,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,21.88326803854,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,22.1799071237429,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",7E,Europe & Central Asia (excluding high income),ECA,22.4594616496297,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,18.0709193283919,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,18.3954415253402,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,18.7090537065422,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,18.9811832058658,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,19.1007498982057,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,19.2597588336629,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EU,European Union,EUU,13.1251584275992,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EU,European Union,EUU,13.6578304985932,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EU,European Union,EUU,14.2263483350016,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EU,European Union,EUU,14.747776629945,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EU,European Union,EUU,15.0058571017079,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EU,European Union,EUU,15.3747931563507,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,32.7866937197001,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,33.9312979019972,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,35.0207834271299,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,35.9655032415445,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,36.7184429842353,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,37.666877565738,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XD,High income,NA,10.0567155638341,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XD,High income,NA,10.6685017640789,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XD,High income,NA,11.3862419485821,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XD,High income,NA,12.2383483194371,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XD,High income,NA,12.7351679993826,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XD,High income,NA,13.3340483921129,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XF,IBRD only,IBD,22.968378649034,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XF,IBRD only,IBD,24.4654593737509,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XF,IBRD only,IBD,26.0028152946808,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XF,IBRD only,IBD,27.5381354055677,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XF,IBRD only,IBD,28.7779815743833,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XF,IBRD only,IBD,30.1068164351656,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZT,IDA & IBRD total,IBT,25.3471314897168,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZT,IDA & IBRD total,IBT,26.6770609085735,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZT,IDA & IBRD total,IBT,28.012430456227,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZT,IDA & IBRD total,IBT,29.3426292175656,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZT,IDA & IBRD total,IBT,30.3988227751958,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZT,IDA & IBRD total,IBT,31.5517797865483,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XH,IDA blend,IDB,29.0352640184938,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XH,IDA blend,IDB,30.3921802835468,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XH,IDA blend,IDB,31.6397016964275,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XH,IDA blend,IDB,32.8194374395348,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XH,IDA blend,IDB,33.750835391287,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XH,IDA blend,IDB,34.4161300107929,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XI,IDA only,IDX,34.0786991992158,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XI,IDA only,IDX,35.2038139279211,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XI,IDA only,IDX,36.2721224289125,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XI,IDA only,IDX,37.2358660532335,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XI,IDA only,IDX,37.8982745177187,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XI,IDA only,IDX,38.771050104224,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XG,IDA total,IDA,32.2927891491174,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XG,IDA total,IDA,33.5023632869322,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XG,IDA total,IDA,34.6491133879098,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XG,IDA total,IDA,35.6972466345642,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XG,IDA total,IDA,36.4616144053501,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XG,IDA total,IDA,37.2726463503574,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V3,Late-demographic dividend,LTE,19.6281905998185,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V3,Late-demographic dividend,LTE,21.8936605656349,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V3,Late-demographic dividend,LTE,24.2316173652758,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V3,Late-demographic dividend,LTE,26.5381932056652,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V3,Late-demographic dividend,LTE,28.2152197631839,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V3,Late-demographic dividend,LTE,30.0238379321036,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZJ,Latin America & Caribbean,LCN,9.79078998184255,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZJ,Latin America & Caribbean,LCN,10.4785287189485,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZJ,Latin America & Caribbean,LCN,11.2402482230945,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZJ,Latin America & Caribbean,LCN,11.9971066675618,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZJ,Latin America & Caribbean,LCN,13.0863670470333,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZJ,Latin America & Caribbean,LCN,14.259205345189,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,9.84043392939907,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,10.5369081885713,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,11.3058155069308,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,12.0673905821577,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,13.1738380097556,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,14.3773733587877,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,9.80963103151565,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,10.5148236531613,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,11.2994521201925,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,12.0763136840601,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,13.1910641202366,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,14.3962525675996,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XL,Least developed countries: UN classification,LDC,34.5578254642028,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XL,Least developed countries: UN classification,LDC,35.8174040545795,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XL,Least developed countries: UN classification,LDC,36.9368824906311,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XL,Least developed countries: UN classification,LDC,37.9505757542178,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XL,Least developed countries: UN classification,LDC,38.6539597424633,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XL,Least developed countries: UN classification,LDC,39.5959740964192,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XO,Low & middle income,LMY,25.7131811506161,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XO,Low & middle income,LMY,27.1055484140703,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XO,Low & middle income,LMY,28.5165843014756,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XO,Low & middle income,LMY,29.9458108670835,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XO,Low & middle income,LMY,31.1048635342732,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XO,Low & middle income,LMY,32.3755160278873,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XM,Low income,NA,34.6234849063643,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XM,Low income,NA,35.4182730564415,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XM,Low income,NA,36.2329711722174,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XM,Low income,NA,36.9079086714452,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XM,Low income,NA,37.4678042693511,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XM,Low income,NA,38.3258948347167,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XN,Lower middle income,NA,30.904867268414,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XN,Lower middle income,NA,31.9772306228606,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XN,Lower middle income,NA,32.9419011161232,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XN,Lower middle income,NA,33.8386538773146,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XN,Lower middle income,NA,34.4743196754484,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XN,Lower middle income,NA,35.0859114544626,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,22.5771187396062,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,23.5578551032554,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,24.3563813402571,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,25.2389214760079,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,26.0135965379392,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,26.629465987195,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,24.149454050625,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,24.9855920597875,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,25.6673354995362,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,26.4585379221449,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,27.195158657394,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,27.7442150580803,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,24.2303043284132,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,25.0662977961107,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,25.7473269188833,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,26.5387730546261,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,27.2705939157782,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,27.8091228704959,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XP,Middle income,MIC,24.7642794397797,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XP,Middle income,MIC,26.2781035624633,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XP,Middle income,MIC,27.8082250657305,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XP,Middle income,MIC,29.3527569174868,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XP,Middle income,MIC,30.5956934078722,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XP,Middle income,MIC,31.9260957176653,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XU,North America,NAC,9.03649922501744,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XU,North America,NAC,9.47753719538053,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XU,North America,NAC,9.9083826088089,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XU,North America,NAC,10.3444182806273,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XU,North America,NAC,11.265490496311,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XU,North America,NAC,12.2247210044133,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OE,OECD members,OED,9.90612510510865,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OE,OECD members,OED,10.5716675612251,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OE,OECD members,OED,11.3467563898017,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OE,OECD members,OED,12.2718129302061,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OE,OECD members,OED,12.850537935831,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OE,OECD members,OED,13.5194284922917,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S4,Other small states,OSS,22.9141056290352,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S4,Other small states,OSS,23.3594503536846,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S4,Other small states,OSS,23.792602764297,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S4,Other small states,OSS,24.1792149938611,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S4,Other small states,OSS,24.9433990857428,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S4,Other small states,OSS,25.2525714899756,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S2,Pacific island small states,PSS,31.4754883851802,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S2,Pacific island small states,PSS,31.7801178506744,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S2,Pacific island small states,PSS,32.214728961561804,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S2,Pacific island small states,PSS,32.7162602993995,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S2,Pacific island small states,PSS,33.3468364844451,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S2,Pacific island small states,PSS,34.1459457766755,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V4,Post-demographic dividend,PST,9.48051118555398,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V4,Post-demographic dividend,PST,10.137930174422,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V4,Post-demographic dividend,PST,10.916805168847,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V4,Post-demographic dividend,PST,11.8824594888292,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V4,Post-demographic dividend,PST,12.4411409349294,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V4,Post-demographic dividend,PST,13.1042419477594,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V1,Pre-demographic dividend,PRE,30.7777569462965,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V1,Pre-demographic dividend,PRE,32.1171172579864,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V1,Pre-demographic dividend,PRE,33.3614450990002,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V1,Pre-demographic dividend,PRE,34.5401263619441,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V1,Pre-demographic dividend,PRE,35.4784464392864,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",V1,Pre-demographic dividend,PRE,36.4227074673935,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S1,Small states,SST,26.332070880045,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S1,Small states,SST,26.6607061173138,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S1,Small states,SST,27.0303737393675,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S1,Small states,SST,27.4237670342409,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S1,Small states,SST,28.0911744498791,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",S1,Small states,SST,28.5128898521961,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",8S,South Asia,SAS,33.1513600135931,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",8S,South Asia,SAS,34.0489160690154,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",8S,South Asia,SAS,34.8507907395028,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",8S,South Asia,SAS,35.6177514306327,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",8S,South Asia,SAS,36.111012344038,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",8S,South Asia,SAS,36.665057396953,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,33.1513600135931,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,34.0489160690154,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,34.8507907395028,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,35.6177514306327,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,36.111012344038,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T5,South Asia (IDA & IBRD),TSA,36.665057396953,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZG,Sub-Saharan Africa,SSF,31.3026105106376,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZG,Sub-Saharan Africa,SSF,32.6029532154685,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZG,Sub-Saharan Africa,SSF,33.8242890270651,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZG,Sub-Saharan Africa,SSF,34.9048420639062,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZG,Sub-Saharan Africa,SSF,35.7510380960559,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZG,Sub-Saharan Africa,SSF,36.7542580633762,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,31.3033531384443,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,32.6038256369577,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,33.8251968785234,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,34.90602261967,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,35.7522302170914,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,36.7557310261241,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,31.3026105106376,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,32.6029532154685,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,33.8242890270651,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,34.9048420639063,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,35.7510380960559,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,36.7542580633762,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XT,Upper middle income,NA,19.341764999263,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XT,Upper middle income,NA,21.419023600019,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XT,Upper middle income,NA,23.6232156726896,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XT,Upper middle income,NA,25.8723343560688,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XT,Upper middle income,NA,27.7239644711767,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",XT,Upper middle income,NA,29.6867720780481,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1W,World,WLD,22.8400078794888,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1W,World,WLD,23.9870587078155,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1W,World,WLD,25.1591198372228,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1W,World,WLD,26.3380196228481,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1W,World,WLD,27.1919366287614,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",1W,World,WLD,28.1279549250656,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AF,Afghanistan,AFG,36.1577154997344,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AF,Afghanistan,AFG,37.1060323273585,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AF,Afghanistan,AFG,37.8253348887727,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AF,Afghanistan,AFG,38.6987132799223,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AF,Afghanistan,AFG,39.3096781530763,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AF,Afghanistan,AFG,39.7971360381862,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AL,Albania,ALB,21.0575719649562,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AL,Albania,ALB,23.5873015873016,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AL,Albania,ALB,26.3141426783479,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AL,Albania,ALB,28.9863842662632,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AL,Albania,ALB,29.988088147707,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AL,Albania,ALB,30.8093994778068,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DZ,Algeria,DZA,14.3725543277631,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DZ,Algeria,DZA,15.9323314356636,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DZ,Algeria,DZA,17.7733282294397,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DZ,Algeria,DZA,19.7698612862547,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DZ,Algeria,DZA,21.770424697254,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DZ,Algeria,DZA,23.6814024390244,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AO,Angola,AGO,28.7467134092901,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AO,Angola,AGO,30.7279144713285,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AO,Angola,AGO,32.8699226305609,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AO,Angola,AGO,34.786355475763,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AO,Angola,AGO,36.5934247480588,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AO,Angola,AGO,38.2076841188425,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AG,Antigua and Barbuda,ATG,39.1304347826087,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AG,Antigua and Barbuda,ATG,37.9310344827586,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AG,Antigua and Barbuda,ATG,36.5853658536585,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AG,Antigua and Barbuda,ATG,35.8974358974359,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AG,Antigua and Barbuda,ATG,33.8235294117647,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AG,Antigua and Barbuda,ATG,32.258064516129,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AR,Argentina,ARG,3.85244929427114,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AR,Argentina,ARG,4.23292217763907,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AR,Argentina,ARG,4.72481693275028,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AR,Argentina,ARG,5.11340541419397,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AR,Argentina,ARG,5.51201446903798,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AR,Argentina,ARG,6.02298850574713,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AM,Armenia,ARM,17.6588628762542,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AM,Armenia,ARM,17.1727395411606,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AM,Armenia,ARM,17.7114427860697,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AM,Armenia,ARM,18.1670458238544,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AM,Armenia,ARM,17.3130623642569,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AM,Armenia,ARM,16.2482369534556,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AW,Aruba,ABW,30.7692307692308,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AW,Aruba,ABW,29.7029702970297,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AW,Aruba,ABW,28,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AW,Aruba,ABW,27.4725274725275,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AW,Aruba,ABW,25,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AW,Aruba,ABW,24.1935483870968,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AU,Australia,AUS,5.05810550957278,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AU,Australia,AUS,5.54365291912159,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AU,Australia,AUS,5.82846003898636,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AU,Australia,AUS,6.14745586708204,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AU,Australia,AUS,6.63209004634738,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AU,Australia,AUS,6.94858747148623,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AT,Austria,AUT,16.9451910716373,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AT,Austria,AUT,17.0673649131159,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AT,Austria,AUT,17.1258647894162,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AT,Austria,AUT,17.2319201995012,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AT,Austria,AUT,17.2426746806912,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AT,Austria,AUT,17.4054758800522,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AZ,Azerbaijan,AZE,22.656818891085,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AZ,Azerbaijan,AZE,23.3340664174181,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AZ,Azerbaijan,AZE,24.0219549223403,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AZ,Azerbaijan,AZE,24.7505235924603,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AZ,Azerbaijan,AZE,24.4916344916345,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AZ,Azerbaijan,AZE,23.6973392461197,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BS,"Bahamas, The",BHS,8.52713178294574,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BS,"Bahamas, The",BHS,8.58725761772853,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BS,"Bahamas, The",BHS,8.81458966565349,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BS,"Bahamas, The",BHS,8.75420875420875,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BS,"Bahamas, The",BHS,9.28571428571429,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BS,"Bahamas, The",BHS,9.72762645914397,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BH,Bahrain,BHR,4.41176470588235,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BH,Bahrain,BHR,4.39297124600639,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BH,Bahrain,BHR,4.77815699658703,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BH,Bahrain,BHR,5.08982035928144,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BH,Bahrain,BHR,4.9645390070922,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BH,Bahrain,BHR,5.05050505050505,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BD,Bangladesh,BGD,33.1656380524905,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BD,Bangladesh,BGD,34.7756176964917,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BD,Bangladesh,BGD,36.1116156887951,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BD,Bangladesh,BGD,37.4138868745468,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BD,Bangladesh,BGD,38.1988821222992,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BD,Bangladesh,BGD,38.9520049168421,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BB,Barbados,BRB,34.0277777777778,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BB,Barbados,BRB,33.8078291814947,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BB,Barbados,BRB,33.3333333333333,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BB,Barbados,BRB,32.8358208955224,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BB,Barbados,BRB,33.4600760456274,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BB,Barbados,BRB,34.6153846153846,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BY,Belarus,BLR,12.4082073434125,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BY,Belarus,BLR,13.4337793699294,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BY,Belarus,BLR,14.7128815312985,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BY,Belarus,BLR,16.0188339010218,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BY,Belarus,BLR,17.2735302777505,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BY,Belarus,BLR,18.4325957695682,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BE,Belgium,BEL,1.06411517481892,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BE,Belgium,BEL,1.17905127502056,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BE,Belgium,BEL,1.3036444951946,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BE,Belgium,BEL,1.44137125048695,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BE,Belgium,BEL,1.6140143686645,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BE,Belgium,BEL,1.81417259697304,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BZ,Belize,BLZ,27.5862068965517,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BZ,Belize,BLZ,26.8608414239482,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BZ,Belize,BLZ,26.1029411764706,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BZ,Belize,BLZ,25.6302521008403,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BZ,Belize,BLZ,25.2427184466019,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BZ,Belize,BLZ,25.1336898395722,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BJ,Benin,BEN,28.357385789135,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BJ,Benin,BEN,29.4637223974763,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BJ,Benin,BEN,30.5511426127337,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BJ,Benin,BEN,31.5441070657649,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BJ,Benin,BEN,32.4924824590712,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BJ,Benin,BEN,34.0531893621276,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BT,Bhutan,BTN,28.8659793814433,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BT,Bhutan,BTN,30.5439330543933,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BT,Bhutan,BTN,32.6153846153846,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BT,Bhutan,BTN,36.283185840708,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BT,Bhutan,BTN,38.6274509803922,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BT,Bhutan,BTN,40.4850746268657,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BO,Bolivia,BOL,15.1020408163265,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BO,Bolivia,BOL,16.1366545239736,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BO,Bolivia,BOL,17.2295852928602,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BO,Bolivia,BOL,18.4439736346516,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BO,Bolivia,BOL,19.8166339227243,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BO,Bolivia,BOL,21.9163968207242,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BA,Bosnia and Herzegovina,BIH,30.6806282722513,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BA,Bosnia and Herzegovina,BIH,30.9232769830949,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BA,Bosnia and Herzegovina,BIH,31.0051546391753,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BA,Bosnia and Herzegovina,BIH,31.0821382007823,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BA,Bosnia and Herzegovina,BIH,31.0423175234308,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BA,Bosnia and Herzegovina,BIH,30.5414364640884,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BW,Botswana,BWA,21.2931453573165,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BW,Botswana,BWA,21.9796954314721,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BW,Botswana,BWA,22.6545842217484,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BW,Botswana,BWA,23.5763097949886,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BW,Botswana,BWA,25.6944444444444,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BW,Botswana,BWA,29.4075144508671,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BR,Brazil,BRA,6.74169440925473,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BR,Brazil,BRA,7.39408841760156,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BR,Brazil,BRA,8.13679878802205,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BR,Brazil,BRA,8.9412910804848,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BR,Brazil,BRA,10.6997918352472,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BR,Brazil,BRA,12.5581364268149,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BN,Brunei Darussalam,BRN,11.1888111888112,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BN,Brunei Darussalam,BRN,11.9700748129676,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BN,Brunei Darussalam,BRN,13.0081300813008,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BN,Brunei Darussalam,BRN,14.1566265060241,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BN,Brunei Darussalam,BRN,14.8648648648649,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BN,Brunei Darussalam,BRN,15.9533073929961,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BG,Bulgaria,BGR,13.1871221706734,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BG,Bulgaria,BGR,13.9802408986331,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BG,Bulgaria,BGR,14.8639854223611,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BG,Bulgaria,BGR,15.7710572356911,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BG,Bulgaria,BGR,16.3077291217995,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BG,Bulgaria,BGR,17.01621131391,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BF,Burkina Faso,BFA,35.5065587496511,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BF,Burkina Faso,BFA,37.7091377091377,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BF,Burkina Faso,BFA,39.9493369095515,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BF,Burkina Faso,BFA,41.9588250495305,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BF,Burkina Faso,BFA,43.4192269573836,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BF,Burkina Faso,BFA,44.1834071047554,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BI,Burundi,BDI,45.1350351461339,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BI,Burundi,BDI,45.79226686884,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BI,Burundi,BDI,46.2676962676963,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BI,Burundi,BDI,46.8834282289482,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BI,Burundi,BDI,47.6972624798712,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",BI,Burundi,BDI,48.0107047279215,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CV,Cabo Verde,CPV,17.6817288801572,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CV,Cabo Verde,CPV,19.7125256673511,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CV,Cabo Verde,CPV,21.9206680584551,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CV,Cabo Verde,CPV,24.2081447963801,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CV,Cabo Verde,CPV,26.75,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CV,Cabo Verde,CPV,29.3447293447293,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KH,Cambodia,KHM,40.4222746698986,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KH,Cambodia,KHM,40.9745910198399,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KH,Cambodia,KHM,41.5094339622642,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KH,Cambodia,KHM,41.9127873680766,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KH,Cambodia,KHM,42.6740947075209,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KH,Cambodia,KHM,43.7844998896004,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CM,Cameroon,CMR,23.1726083611182,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CM,Cameroon,CMR,24.6411947245927,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CM,Cameroon,CMR,26.7434808975136,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CM,Cameroon,CMR,28.235072518365,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CM,Cameroon,CMR,29.7006245961663,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CM,Cameroon,CMR,31.1490348769779,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CA,Canada,CAN,8.78449958182325,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CA,Canada,CAN,9.23928969114458,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CA,Canada,CAN,9.64841570037825,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CA,Canada,CAN,9.95895230648945,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CA,Canada,CAN,10.8346134152586,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CA,Canada,CAN,11.3348759852484,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CF,Central African Republic,CAF,30.6475119716844,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CF,Central African Republic,CAF,31.264367816092,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CF,Central African Republic,CAF,31.6839182024741,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CF,Central African Republic,CAF,31.9406267179769,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CF,Central African Republic,CAF,32.1832061068702,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CF,Central African Republic,CAF,32.3377960865088,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TD,Chad,TCD,38.9489158397648,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TD,Chad,TCD,39.240614334471,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TD,Chad,TCD,39.4947074096265,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TD,Chad,TCD,39.6699192868329,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TD,Chad,TCD,39.8280802292264,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TD,Chad,TCD,40.245336918165,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JG,Channel Islands,CHI,34.3558282208589,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JG,Channel Islands,CHI,34.5911949685535,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JG,Channel Islands,CHI,35.0649350649351,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JG,Channel Islands,CHI,35.5704697986577,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JG,Channel Islands,CHI,35.4166666666667,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JG,Channel Islands,CHI,35,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CL,Chile,CHL,4.89846016514171,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CL,Chile,CHL,5.35245758264824,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CL,Chile,CHL,5.86975149957155,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CL,Chile,CHL,6.44409937888199,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CL,Chile,CHL,7.14681440443213,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CL,Chile,CHL,7.63584077493567,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CN,China,CHN,21.3909660977164,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CN,China,CHN,24.4980593048208,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CN,China,CHN,27.7081909333875,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CN,China,CHN,30.9196370903814,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CN,China,CHN,33.2339688993901,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CN,China,CHN,35.7651131042732,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CO,Colombia,COL,11.1147004785075,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CO,Colombia,COL,11.7991559727844,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CO,Colombia,COL,12.4583178955169,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CO,Colombia,COL,13.1410095744148,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CO,Colombia,COL,13.8318523581681,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CO,Colombia,COL,14.8347194283484,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KM,Comoros,COM,35.5844155844156,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KM,Comoros,COM,35.9237536656891,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KM,Comoros,COM,35.9400998336107,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KM,Comoros,COM,35.9168241965974,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KM,Comoros,COM,35.8369098712446,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KM,Comoros,COM,36.0774818401937,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CD,"Congo, Dem. Rep.",COD,29.6999129775707,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CD,"Congo, Dem. Rep.",COD,30.9433840909456,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CD,"Congo, Dem. Rep.",COD,32.1573998667358,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CD,"Congo, Dem. Rep.",COD,33.3638629150781,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CD,"Congo, Dem. Rep.",COD,34.5520327525469,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CD,"Congo, Dem. Rep.",COD,35.7394517487325,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CG,"Congo, Rep.",COG,17.7263969171484,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CG,"Congo, Rep.",COG,18.7788859158356,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CG,"Congo, Rep.",COG,20.016939582157,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CG,"Congo, Rep.",COG,21.1704509114167,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CG,"Congo, Rep.",COG,22.3161764705882,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CG,"Congo, Rep.",COG,23.3417296389589,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CR,Costa Rica,CRI,10.9334399360384,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CR,Costa Rica,CRI,13.3647461983294,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CR,Costa Rica,CRI,16.4583333333333,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CR,Costa Rica,CRI,19.440203562341,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CR,Costa Rica,CRI,21.5579189422248,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CR,Costa Rica,CRI,23.6842105263158,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CI,Cote d'Ivoire,CIV,22.7236440478986,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CI,Cote d'Ivoire,CIV,24.3887015177066,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CI,Cote d'Ivoire,CIV,26.1656988443627,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CI,Cote d'Ivoire,CIV,27.5601289362757,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CI,Cote d'Ivoire,CIV,28.5834857223238,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CI,Cote d'Ivoire,CIV,29.3826345328491,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HR,Croatia,HRV,20.8930669800235,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HR,Croatia,HRV,21.5998155832181,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HR,Croatia,HRV,22.1969006381039,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HR,Croatia,HRV,22.6318141197498,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HR,Croatia,HRV,23.001492219143,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HR,Croatia,HRV,23.3625365039633,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CU,Cuba,CUB,10.756511689928,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CU,Cuba,CUB,11.0362556510948,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CU,Cuba,CUB,11.2291888062345,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CU,Cuba,CUB,11.6078642607056,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CU,Cuba,CUB,12.0837907061837,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CU,Cuba,CUB,12.4905660377358,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CY,Cyprus,CYP,15.979381443299,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CY,Cyprus,CYP,15.6844968268359,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CY,Cyprus,CYP,15.4888673765731,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CY,Cyprus,CYP,15.3764581124072,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CY,Cyprus,CYP,15.6542056074766,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CY,Cyprus,CYP,16.1879895561358,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CZ,Czechia,CZE,13.3723088344469,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CZ,Czechia,CZE,13.3409133977639,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CZ,Czechia,CZE,13.2538363796305,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CZ,Czechia,CZE,13.1109160081943,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CZ,Czechia,CZE,12.8445691072638,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CZ,Czechia,CZE,12.5702111175673,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DK,Denmark,DNK,6.04133545310016,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DK,Denmark,DNK,6.4853179607278,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DK,Denmark,DNK,6.97674418604651,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DK,Denmark,DNK,7.36230798051705,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DK,Denmark,DNK,7.43501529051988,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DK,Denmark,DNK,7.52771834273488,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DJ,Djibouti,DJI,11.3333333333333,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DJ,Djibouti,DJI,11.5107913669065,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DJ,Djibouti,DJI,11.5979381443299,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DJ,Djibouti,DJI,11.7403314917127,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DJ,Djibouti,DJI,11.8796992481203,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DJ,Djibouti,DJI,12.0338983050847,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DO,Dominican Republic,DOM,10.3548629365377,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DO,Dominican Republic,DOM,12.9080563042827,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DO,Dominican Republic,DOM,15.808626779407,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DO,Dominican Republic,DOM,18.2731155488861,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DO,Dominican Republic,DOM,20.2933065931311,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DO,Dominican Republic,DOM,21.5567209494894,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EC,Ecuador,ECU,17.7739430543572,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EC,Ecuador,ECU,18.2854476368242,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EC,Ecuador,ECU,18.7196051389998,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EC,Ecuador,ECU,19.1574243995851,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EC,Ecuador,ECU,20.4224107458466,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EC,Ecuador,ECU,21.750296325563,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,28.0169055320756,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,28.0649623443824,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,28.0674867993926,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,28.335122548649,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,28.4838477635365,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EG,"Egypt, Arab Rep.",EGY,28.144913644674,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SV,El Salvador,SLV,17.0868347338936,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SV,El Salvador,SLV,18.2695400450306,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SV,El Salvador,SLV,19.5125967396674,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SV,El Salvador,SLV,20.6746098338647,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SV,El Salvador,SLV,23.1036882393876,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SV,El Salvador,SLV,25.5940130963517,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GQ,Equatorial Guinea,GNQ,29.9123904881101,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GQ,Equatorial Guinea,GNQ,30.1724137931034,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GQ,Equatorial Guinea,GNQ,30.4635761589404,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GQ,Equatorial Guinea,GNQ,30.5019305019305,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GQ,Equatorial Guinea,GNQ,30.5429864253394,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GQ,Equatorial Guinea,GNQ,32.620320855615,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ER,Eritrea,ERI,38.8781718355839,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ER,Eritrea,ERI,39.9930325727225,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ER,Eritrea,ERI,40.9353110836424,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ER,Eritrea,ERI,41.6751269035533,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ER,Eritrea,ERI,42.3246257704726,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ER,Eritrea,ERI,42.5908952031775,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EE,Estonia,EST,16.5625,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EE,Estonia,EST,16.320246343341,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EE,Estonia,EST,16.0754716981132,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EE,Estonia,EST,15.8241758241758,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EE,Estonia,EST,15.4919748778786,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",EE,Estonia,EST,14.9520766773163,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SZ,Eswatini,SWZ,39.9688958009331,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SZ,Eswatini,SWZ,40.1172529313233,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SZ,Eswatini,SWZ,40.2714932126697,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SZ,Eswatini,SWZ,40.3195488721804,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SZ,Eswatini,SWZ,40.7676348547718,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SZ,Eswatini,SWZ,41.5313225058005,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ET,Ethiopia,ETH,40.1528168017626,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ET,Ethiopia,ETH,41.2446179459211,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ET,Ethiopia,ETH,42.0977313307426,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ET,Ethiopia,ETH,42.6323362362741,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ET,Ethiopia,ETH,42.924031986532,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ET,Ethiopia,ETH,43.5764539361392,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FJ,Fiji,FJI,22.4215246636771,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FJ,Fiji,FJI,23.2558139534884,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FJ,Fiji,FJI,24.2092457420925,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FJ,Fiji,FJI,25.2463054187192,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FJ,Fiji,FJI,26.4516129032258,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FJ,Fiji,FJI,28.4340659340659,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FI,Finland,FIN,7.83739241897088,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FI,Finland,FIN,8.17809239940387,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FI,Finland,FIN,8.50171559283263,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FI,Finland,FIN,8.86613869036121,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FI,Finland,FIN,9.47347817576825,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FI,Finland,FIN,10.2867455383998,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FR,France,FRA,10.2228309377982,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FR,France,FRA,10.8332937957647,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FR,France,FRA,11.4574009276589,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FR,France,FRA,12.0748471645219,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FR,France,FRA,12.5672321059164,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FR,France,FRA,13.016096402498,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PF,French Polynesia,PYF,21.5547703180212,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PF,French Polynesia,PYF,21.2686567164179,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PF,French Polynesia,PYF,21.1764705882353,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PF,French Polynesia,PYF,21.0970464135021,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PF,French Polynesia,PYF,20.8333333333333,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PF,French Polynesia,PYF,20.1005025125628,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GA,Gabon,GAB,6.56392694063927,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GA,Gabon,GAB,7.32177263969171,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GA,Gabon,GAB,8.55072463768116,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GA,Gabon,GAB,10.2857142857143,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GA,Gabon,GAB,12.8584643848289,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GA,Gabon,GAB,16.0506863780359,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GM,"Gambia, The",GMB,20.7719654647029,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GM,"Gambia, The",GMB,22.4866151100535,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GM,"Gambia, The",GMB,24.4599303135889,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GM,"Gambia, The",GMB,26.9324654190399,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GM,"Gambia, The",GMB,28.9201877934272,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GM,"Gambia, The",GMB,31.2227074235808,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GE,Georgia,GEO,23.855981416957,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GE,Georgia,GEO,24.2652084757348,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GE,Georgia,GEO,24.4469273743017,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GE,Georgia,GEO,24.5203457727177,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GE,Georgia,GEO,23.8800078942175,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GE,Georgia,GEO,23.2417582417582,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DE,Germany,DEU,12.0600276156101,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DE,Germany,DEU,12.6034426683691,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DE,Germany,DEU,13.1150474145643,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DE,Germany,DEU,13.3250311332503,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DE,Germany,DEU,13.2957292506044,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",DE,Germany,DEU,13.5833913129908,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GH,Ghana,GHA,22.7830276079303,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GH,Ghana,GHA,24.5157035693677,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GH,Ghana,GHA,26.1083052749719,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GH,Ghana,GHA,27.5233744156396,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GH,Ghana,GHA,29.3896545552175,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GH,Ghana,GHA,31.1026044158863,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GR,Greece,GRC,10.8035232788064,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GR,Greece,GRC,11.6392114501755,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GR,Greece,GRC,12.5350964586541,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GR,Greece,GRC,13.3624613144001,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GR,Greece,GRC,13.7006840970856,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GR,Greece,GRC,14.0635764196437,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GD,Grenada,GRD,31.7757009345794,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GD,Grenada,GRD,31.7307692307692,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GD,Grenada,GRD,32.0388349514563,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GD,Grenada,GRD,32.0388349514563,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GD,Grenada,GRD,32.6732673267327,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GD,Grenada,GRD,32.9896907216495,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GU,Guam,GUM,2.94117647058824,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GU,Guam,GUM,3.125,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GU,Guam,GUM,3.14465408805031,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GU,Guam,GUM,3.2258064516129,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GU,Guam,GUM,4.10958904109589,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GU,Guam,GUM,4.61538461538462,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GT,Guatemala,GTM,24.4663180559828,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GT,Guatemala,GTM,25.6728489750383,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GT,Guatemala,GTM,26.7765596655888,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GT,Guatemala,GTM,27.6151374509104,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GT,Guatemala,GTM,28.2480216367825,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GT,Guatemala,GTM,28.7739032620922,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GN,Guinea,GIN,31.6974408811144,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GN,Guinea,GIN,32.8429569694741,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GN,Guinea,GIN,33.8937036650308,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GN,Guinea,GIN,34.895952435399,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GN,Guinea,GIN,35.8045170345796,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GN,Guinea,GIN,36.6445182724252,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GW,Guinea-Bissau,GNB,25.9507829977629,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GW,Guinea-Bissau,GNB,27.9949558638083,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GW,Guinea-Bissau,GNB,30.1196340605208,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GW,Guinea-Bissau,GNB,32.2859387274156,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GW,Guinea-Bissau,GNB,34.2982456140351,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GW,Guinea-Bissau,GNB,36.5422396856582,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GY,Guyana,GUY,35.0247524752475,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GY,Guyana,GUY,35.1969504447268,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GY,Guyana,GUY,35.5263157894737,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GY,Guyana,GUY,35.4838709677419,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GY,Guyana,GUY,35.3909465020576,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GY,Guyana,GUY,35.5371900826446,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HT,Haiti,HTI,20.4093181175139,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HT,Haiti,HTI,23.6738405577448,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HT,Haiti,HTI,27.4238825307709,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HT,Haiti,HTI,31.5654505187085,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HT,Haiti,HTI,32.7507017096198,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HT,Haiti,HTI,35.1336146272855,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HN,Honduras,HND,21.8660968660969,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HN,Honduras,HND,23.3827581682194,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HN,Honduras,HND,25.0072484778197,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HN,Honduras,HND,26.4753046824888,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HN,Honduras,HND,27.7410123412627,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HN,Honduras,HND,28.9967373572594,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HK,"Hong Kong SAR, China",HKG,0,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HK,"Hong Kong SAR, China",HKG,0,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HK,"Hong Kong SAR, China",HKG,0,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HK,"Hong Kong SAR, China",HKG,0,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HK,"Hong Kong SAR, China",HKG,0,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HK,"Hong Kong SAR, China",HKG,0.224370037970314,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HU,Hungary,HUN,14.7124117053481,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HU,Hungary,HUN,15.9277012182944,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HU,Hungary,HUN,17.2741679873217,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HU,Hungary,HUN,18.1435837245696,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HU,Hungary,HUN,17.7822853279243,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",HU,Hungary,HUN,17.4867597496389,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IS,Iceland,ISL,2.67062314540059,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IS,Iceland,ISL,2.83018867924528,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IS,Iceland,ISL,3.04054054054054,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IS,Iceland,ISL,3.57142857142857,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IS,Iceland,ISL,3.74531835205993,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IS,Iceland,ISL,4.31372549019608,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IN,India,IND,32.8166158500924,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IN,India,IND,33.6365785381026,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IN,India,IND,34.3917015039782,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IN,India,IND,35.1023400088845,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IN,India,IND,35.5967332214554,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IN,India,IND,36.0937517982714,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ID,Indonesia,IDN,22.7751076418898,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ID,Indonesia,IDN,24.5745317356114,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ID,Indonesia,IDN,26.6521442794713,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ID,Indonesia,IDN,28.7667692484409,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ID,Indonesia,IDN,31.7491963402572,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ID,Indonesia,IDN,34.5154590697128,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,13.2377920656291,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,14.4850462645878,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,16.0309043220436,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,17.8981065663309,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,19.7010038201392,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IR,"Iran, Islamic Rep.",IRN,21.4772364358965,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IQ,Iraq,IRQ,15.195996197506,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IQ,Iraq,IRQ,15.3866029326271,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IQ,Iraq,IRQ,15.512455256045,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IQ,Iraq,IRQ,15.7010209655057,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IQ,Iraq,IRQ,15.6656681235574,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IQ,Iraq,IRQ,15.3613426190204,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IE,Ireland,IRL,18.0452718426063,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IE,Ireland,IRL,18.7597940452205,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IE,Ireland,IRL,19.2927592013471,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IE,Ireland,IRL,19.9001051524711,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IE,Ireland,IRL,20.415512465374,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IE,Ireland,IRL,20.8439535542339,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IL,Israel,ISR,3.83886854400808,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IL,Israel,ISR,4.01563131653416,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IL,Israel,ISR,4.14900060569352,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IL,Israel,ISR,4.27336215497173,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IL,Israel,ISR,4.40817857812793,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IL,Israel,ISR,4.62324961102467,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IT,Italy,ITA,15.5883026397566,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IT,Italy,ITA,15.9480407873209,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IT,Italy,ITA,16.2527908918924,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IT,Italy,ITA,16.579510757028,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IT,Italy,ITA,16.7304451621963,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",IT,Italy,ITA,16.8162302927928,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JM,Jamaica,JAM,22.2459132906894,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JM,Jamaica,JAM,22.7654140824517,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JM,Jamaica,JAM,23.3693626537458,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JM,Jamaica,JAM,23.5476374903176,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JM,Jamaica,JAM,24.2079610073111,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JM,Jamaica,JAM,24.8520710059172,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JP,Japan,JPN,3.36148368935254,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JP,Japan,JPN,4.8832771901722,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JP,Japan,JPN,7.23820474251648,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JP,Japan,JPN,11.0098238078193,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JP,Japan,JPN,11.3252411975932,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JP,Japan,JPN,11.6697205680257,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JO,Jordan,JOR,7.98439531859558,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JO,Jordan,JOR,8.55018587360595,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JO,Jordan,JOR,9.1412213740458,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JO,Jordan,JOR,9.62869729389553,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JO,Jordan,JOR,10.2059708400833,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",JO,Jordan,JOR,12.5632628758559,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KZ,Kazakhstan,KAZ,23.4213821477551,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KZ,Kazakhstan,KAZ,23.1455310596068,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KZ,Kazakhstan,KAZ,22.6633032395114,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KZ,Kazakhstan,KAZ,22.2351811196487,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KZ,Kazakhstan,KAZ,22.1993569131833,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KZ,Kazakhstan,KAZ,22.0380905268365,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KE,Kenya,KEN,37.5323536332328,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KE,Kenya,KEN,38.4903077562395,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KE,Kenya,KEN,39.3897054714134,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KE,Kenya,KEN,40.3132491609397,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KE,Kenya,KEN,41.1262674155664,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KE,Kenya,KEN,41.8646308696208,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KI,Kiribati,KIR,27.3584905660377,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KI,Kiribati,KIR,27.5510204081633,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KI,Kiribati,KIR,27.7777777777778,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KI,Kiribati,KIR,28.0487804878049,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KI,Kiribati,KIR,31.1688311688312,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KI,Kiribati,KIR,32.3943661971831,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,20.2623732856291,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,20.6440553446798,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,20.884428019486,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,21.1252189141856,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,21.3389698111474,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KP,"Korea, Dem. People's Rep.",PRK,21.7193225710607,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KR,"Korea, Rep.",KOR,8.91055276381909,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KR,"Korea, Rep.",KOR,9.15732771964584,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KR,"Korea, Rep.",KOR,9.39553079752514,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KR,"Korea, Rep.",KOR,10.2333775583444,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KR,"Korea, Rep.",KOR,10.9396694585032,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KR,"Korea, Rep.",KOR,13.0270874057526,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KW,Kuwait,KWT,0.697544642857143,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KW,Kuwait,KWT,0.701871657754011,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KW,Kuwait,KWT,0.740740740740741,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KW,Kuwait,KWT,0.786988457502623,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KW,Kuwait,KWT,0.819672131147541,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KW,Kuwait,KWT,0.970873786407767,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KG,Kyrgyz Republic,KGZ,31.8325157673441,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KG,Kyrgyz Republic,KGZ,32.2459692538433,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KG,Kyrgyz Republic,KGZ,32.130107100357,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KG,Kyrgyz Republic,KGZ,32.2098890010091,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KG,Kyrgyz Republic,KGZ,31.8815331010453,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",KG,Kyrgyz Republic,KGZ,31.2556869881711,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LA,Lao PDR,LAO,30.954415954416,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LA,Lao PDR,LAO,33.7711069418386,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LA,Lao PDR,LAO,36.7530224525043,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LA,Lao PDR,LAO,39.1909445166079,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LA,Lao PDR,LAO,41.4614121510673,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LA,Lao PDR,LAO,42.3185673892554,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LV,Latvia,LVA,16.8882323978336,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LV,Latvia,LVA,16.6985645933014,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LV,Latvia,LVA,16.5619389587074,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LV,Latvia,LVA,16.6596372838465,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LV,Latvia,LVA,16.4455166867712,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LV,Latvia,LVA,16.1472024033045,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LB,Lebanon,LBN,6.09538887789432,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LB,Lebanon,LBN,6.35944700460829,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LB,Lebanon,LBN,6.67168296965137,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LB,Lebanon,LBN,7.1097372488408,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LB,Lebanon,LBN,7.71259063941991,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LB,Lebanon,LBN,8.62005179430263,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LS,Lesotho,LSO,36.0377358490566,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LS,Lesotho,LSO,37.6804380288701,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LS,Lesotho,LSO,39.2523364485981,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LS,Lesotho,LSO,40.9703504043127,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LS,Lesotho,LSO,41.9281232173417,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LS,Lesotho,LSO,43.8673341677096,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LR,Liberia,LBR,25.405285365312,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LR,Liberia,LBR,26.3769580596261,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LR,Liberia,LBR,27.3088685015291,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LR,Liberia,LBR,28.2503457814661,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LR,Liberia,LBR,27.5480769230769,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LR,Liberia,LBR,22.5392296718973,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LY,Libya,LBY,10.9703973405097,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LY,Libya,LBY,11.1074325442807,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LY,Libya,LBY,11.331546023235,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LY,Libya,LBY,11.357929302685,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LY,Libya,LBY,11.3334737729092,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LY,Libya,LBY,11.3615023474178,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LT,Lithuania,LTU,17.6058686228743,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LT,Lithuania,LTU,17.1717171717172,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LT,Lithuania,LTU,17.2445255474453,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LT,Lithuania,LTU,17.3192340668762,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LT,Lithuania,LTU,17.1719955898567,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LT,Lithuania,LTU,16.9326480930484,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LU,Luxembourg,LUX,4.77941176470588,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LU,Luxembourg,LUX,5.52268244575937,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LU,Luxembourg,LUX,6.55021834061135,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LU,Luxembourg,LUX,7.78032036613272,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LU,Luxembourg,LUX,8.35380835380835,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LU,Luxembourg,LUX,9.42408376963351,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MG,Madagascar,MDG,32.2495461297244,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MG,Madagascar,MDG,33.9010389487167,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MG,Madagascar,MDG,35.5057408419902,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MG,Madagascar,MDG,36.3734518894887,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MG,Madagascar,MDG,37.0056497175141,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MG,Madagascar,MDG,38.0651307812229,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MW,Malawi,MWI,42.076376451557,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MW,Malawi,MWI,42.5336352737445,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MW,Malawi,MWI,42.951098731043,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MW,Malawi,MWI,43.3933933933934,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MW,Malawi,MWI,44.4355243351731,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MW,Malawi,MWI,45.4535831480893,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MY,Malaysia,MYS,12.8054549606864,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MY,Malaysia,MYS,14.7338638373121,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MY,Malaysia,MYS,16.7272867977093,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MY,Malaysia,MYS,18.5866780529462,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MY,Malaysia,MYS,21.6694813027744,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MY,Malaysia,MYS,24.5565866783812,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MV,Maldives,MDV,26.890756302521,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MV,Maldives,MDV,29.5384615384615,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MV,Maldives,MDV,32.6599326599327,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MV,Maldives,MDV,35.5311355311355,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MV,Maldives,MDV,37.1428571428571,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MV,Maldives,MDV,36.5740740740741,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ML,Mali,MLI,30.1802078848638,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ML,Mali,MLI,32.1558813013944,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ML,Mali,MLI,34.1624790619765,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ML,Mali,MLI,36.140350877193,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ML,Mali,MLI,37.7127600400489,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ML,Mali,MLI,38.9579409918393,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MT,Malta,MLT,2.32018561484919,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MT,Malta,MLT,2.59433962264151,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MT,Malta,MLT,3.14009661835749,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MT,Malta,MLT,3.93120393120393,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MT,Malta,MLT,4.81012658227848,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MT,Malta,MLT,5.06666666666667,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MR,Mauritania,MRT,20.2941176470588,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MR,Mauritania,MRT,21.8559556786704,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MR,Mauritania,MRT,23.6415633937083,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MR,Mauritania,MRT,25.8124076809453,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MR,Mauritania,MRT,27.8491859468723,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MR,Mauritania,MRT,29.7924901185771,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MU,Mauritius,MUS,30.4625199362041,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MU,Mauritius,MUS,29.8943948009748,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MU,Mauritius,MUS,29.3487221764221,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MU,Mauritius,MUS,28.7763713080169,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MU,Mauritius,MUS,28.3185840707965,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MU,Mauritius,MUS,28.003784295175,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MX,Mexico,MEX,10.5321153661886,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MX,Mexico,MEX,11.2863274689106,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MX,Mexico,MEX,12.1419282592205,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MX,Mexico,MEX,12.8299670754953,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MX,Mexico,MEX,13.4319439785307,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MX,Mexico,MEX,14.0920338766453,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,38.0952380952381,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,37.8640776699029,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,38.3177570093458,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,38.3177570093458,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,36.4485981308411,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",FM,"Micronesia, Fed. Sts.",FSM,36.0824742268041,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MD,Moldova,MDA,28.5215366705472,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MD,Moldova,MDA,28.5194514413658,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MD,Moldova,MDA,28.3970276008493,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MD,Moldova,MDA,28.5296981499513,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MD,Moldova,MDA,28.1927155371139,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MD,Moldova,MDA,28.0247479376719,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MN,Mongolia,MNG,13.5088919288646,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MN,Mongolia,MNG,15.591596019167,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MN,Mongolia,MNG,18.2106096595408,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MN,Mongolia,MNG,21.0592160133445,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MN,Mongolia,MNG,21.3757074444928,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MN,Mongolia,MNG,21.3827838827839,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ME,Montenegro,MNE,17.8456591639871,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ME,Montenegro,MNE,18.1964573268921,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ME,Montenegro,MNE,18.8311688311688,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ME,Montenegro,MNE,20.6219312602291,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ME,Montenegro,MNE,23.0894308943089,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ME,Montenegro,MNE,25.8957654723127,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MA,Morocco,MAR,19.915179360311,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MA,Morocco,MAR,21.3475334197137,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MA,Morocco,MAR,22.5726141078838,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MA,Morocco,MAR,23.4238941135493,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MA,Morocco,MAR,24.2276301568964,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MA,Morocco,MAR,25.8156028368794,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MZ,Mozambique,MOZ,34.9679227195635,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MZ,Mozambique,MOZ,35.7825343180206,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MZ,Mozambique,MOZ,36.499928608824,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MZ,Mozambique,MOZ,37.24009630116,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MZ,Mozambique,MOZ,38.3768224766911,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MZ,Mozambique,MOZ,39.8142688679245,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MM,Myanmar,MMR,33.9136695960417,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MM,Myanmar,MMR,35.3334231961641,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MM,Myanmar,MMR,36.4846552411319,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MM,Myanmar,MMR,37.2959362681361,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MM,Myanmar,MMR,38.0697110081624,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MM,Myanmar,MMR,38.5608812287824,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NA,Namibia,NAM,28.0518394648829,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NA,Namibia,NAM,30.5644791188619,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NA,Namibia,NAM,32.8402366863905,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NA,Namibia,NAM,34.7917764891935,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NA,Namibia,NAM,36.2756952841596,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NA,Namibia,NAM,37.5971731448763,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NP,Nepal,NPL,42.5954574221222,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NP,Nepal,NPL,43.0119943380764,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NP,Nepal,NPL,43.1740007116594,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NP,Nepal,NPL,43.6877291352167,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NP,Nepal,NPL,43.0708699664837,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NP,Nepal,NPL,45.5719964664311,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NL,Netherlands,NLD,4.7373107747106,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NL,Netherlands,NLD,6.46364949446317,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NL,Netherlands,NLD,8.67938416242409,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NL,Netherlands,NLD,11.5833280786935,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NL,Netherlands,NLD,13.5547052338025,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NL,Netherlands,NLD,15.3995970449966,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NC,New Caledonia,NCL,14.4486692015209,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NC,New Caledonia,NCL,15.8536585365854,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NC,New Caledonia,NCL,17.5438596491228,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NC,New Caledonia,NCL,18.5714285714286,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NC,New Caledonia,NCL,19.4736842105263,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NC,New Caledonia,NCL,19.6428571428571,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NZ,New Zealand,NZL,6.67972149695387,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NZ,New Zealand,NZL,6.73076923076923,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NZ,New Zealand,NZL,6.7956469165659,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NZ,New Zealand,NZL,6.89476412649041,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NZ,New Zealand,NZL,6.99319727891156,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NZ,New Zealand,NZL,7.23742277140335,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NI,Nicaragua,NIC,20.0287723785166,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NI,Nicaragua,NIC,20.7968401167783,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NI,Nicaragua,NIC,21.2609970674487,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NI,Nicaragua,NIC,21.8976671240933,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NI,Nicaragua,NIC,22.4034334763948,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NI,Nicaragua,NIC,22.8426395939086,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NE,Niger,NER,40.3061754021796,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NE,Niger,NER,40.9865978732775,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NE,Niger,NER,41.5427791262136,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NE,Niger,NER,41.9563239308462,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NE,Niger,NER,42.6093596596487,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NE,Niger,NER,43.1390250193449,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NG,Nigeria,NGA,26.2499727556069,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NG,Nigeria,NGA,28.3580033561249,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NG,Nigeria,NGA,30.5317152149929,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NG,Nigeria,NGA,32.6236805911603,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NG,Nigeria,NGA,33.9423564676043,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NG,Nigeria,NGA,35.1851658177939,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MK,North Macedonia,MKD,21.2049335863378,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MK,North Macedonia,MKD,21.2178877259753,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MK,North Macedonia,MKD,20.9569377990431,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MK,North Macedonia,MKD,20.3604481246956,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MK,North Macedonia,MKD,19.9288256227758,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",MK,North Macedonia,MKD,20.7068193130911,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NO,Norway,NOR,9.35251798561151,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NO,Norway,NOR,10.0592925782049,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NO,Norway,NOR,10.9236426562838,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NO,Norway,NOR,11.6455132487197,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NO,Norway,NOR,12.7981651376147,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",NO,Norway,NOR,13.6760198066494,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OM,Oman,OMN,8.24915824915825,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OM,Oman,OMN,10.734664764622,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OM,Oman,OMN,12.6386687797147,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OM,Oman,OMN,13.0414956680347,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OM,Oman,OMN,12.1634168987929,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",OM,Oman,OMN,15.681943677526201,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PK,Pakistan,PAK,29.9035318504345,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PK,Pakistan,PAK,30.9473343767507,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PK,Pakistan,PAK,31.7646909875863,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PK,Pakistan,PAK,32.6213916235608,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PK,Pakistan,PAK,33.4859380056674,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PK,Pakistan,PAK,33.7957170247815,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PA,Panama,PAN,15.9729187562688,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PA,Panama,PAN,16.6938553561718,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PA,Panama,PAN,17.2905525846702,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PA,Panama,PAN,17.9050736497545,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PA,Panama,PAN,19.7678636198767,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PA,Panama,PAN,21.7129071170084,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PG,Papua New Guinea,PNG,43.0106118171099,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PG,Papua New Guinea,PNG,42.9946056276425,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PG,Papua New Guinea,PNG,42.9625984251969,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PG,Papua New Guinea,PNG,42.9076036438,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PG,Papua New Guinea,PNG,42.4724342663274,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PG,Papua New Guinea,PNG,41.9191919191919,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PY,Paraguay,PRY,19.0388170055453,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PY,Paraguay,PRY,19.5850750890231,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PY,Paraguay,PRY,20.0880758807588,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PY,Paraguay,PRY,21.0467289719626,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PY,Paraguay,PRY,22.6572261557684,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PY,Paraguay,PRY,24.4292774770534,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PE,Peru,PER,10.2307371393729,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PE,Peru,PER,11.0750410060142,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PE,Peru,PER,12.0545375847641,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PE,Peru,PER,13.1115384615385,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PE,Peru,PER,14.1985880780317,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PE,Peru,PER,15.2076060995774,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PH,Philippines,PHL,27.3891732070764,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PH,Philippines,PHL,26.9134454860665,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PH,Philippines,PHL,26.1695855326785,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PH,Philippines,PHL,25.4378509246381,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PH,Philippines,PHL,25.2334568859006,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PH,Philippines,PHL,25.0468134564473,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PL,Poland,POL,19.8472084140024,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PL,Poland,POL,19.6497290504987,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PL,Poland,POL,19.3582159870177,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PL,Poland,POL,19.1958698372966,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PL,Poland,POL,19.2827442827443,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PL,Poland,POL,19.4018505412702,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PT,Portugal,PRT,18.5768143261074,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PT,Portugal,PRT,20.0774388516385,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PT,Portugal,PRT,21.6555661274976,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PT,Portugal,PRT,23.3456239084029,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PT,Portugal,PRT,25.0569476082005,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PT,Portugal,PRT,26.6969696969697,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PR,Puerto Rico,PRI,3.20739331340038,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PR,Puerto Rico,PRI,3.09973045822102,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PR,Puerto Rico,PRI,2.95055821371611,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PR,Puerto Rico,PRI,2.7916776402423,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PR,Puerto Rico,PRI,3.11653116531165,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PR,Puerto Rico,PRI,3.49531116794544,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",QA,Qatar,QAT,0.170212765957447,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",QA,Qatar,QAT,0.342661336379212,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",QA,Qatar,QAT,0.852618757612667,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",QA,Qatar,QAT,1.34907251264755,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",QA,Qatar,QAT,1.79640718562874,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",QA,Qatar,QAT,2.51046025104603,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RO,Romania,ROU,22.7999443903795,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RO,Romania,ROU,23.1416678102557,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RO,Romania,ROU,23.4974901641568,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RO,Romania,ROU,23.6946714904641,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RO,Romania,ROU,23.2668524647274,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RO,Romania,ROU,23.5837754578128,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RU,Russian Federation,RUS,13.6222888429112,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RU,Russian Federation,RUS,13.755935885474,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RU,Russian Federation,RUS,13.9071651393357,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RU,Russian Federation,RUS,13.9816303725709,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RU,Russian Federation,RUS,14.0334584998856,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RU,Russian Federation,RUS,14.0851440104219,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RW,Rwanda,RWA,38.0883417813179,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RW,Rwanda,RWA,40.3377630121816,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RW,Rwanda,RWA,42.5071587655107,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RW,Rwanda,RWA,44.5622394282311,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RW,Rwanda,RWA,46.9362528695038,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RW,Rwanda,RWA,48.3021483021483,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",WS,Samoa,WSM,39.1752577319588,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",WS,Samoa,WSM,38.7096774193548,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",WS,Samoa,WSM,37.9888268156425,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",WS,Samoa,WSM,37.3563218390805,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",WS,Samoa,WSM,37.6470588235294,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",WS,Samoa,WSM,37.4233128834356,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ST,Sao Tome and Principe,STP,17.2413793103448,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ST,Sao Tome and Principe,STP,18.9944134078212,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ST,Sao Tome and Principe,STP,20.7792207792208,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ST,Sao Tome and Principe,STP,22.8571428571429,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ST,Sao Tome and Principe,STP,25.1908396946565,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ST,Sao Tome and Principe,STP,28.2051282051282,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SA,Saudi Arabia,SAU,7.20115057863402,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SA,Saudi Arabia,SAU,7.94262234940201,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SA,Saudi Arabia,SAU,8.56217091940057,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SA,Saudi Arabia,SAU,9.43705321683876,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SA,Saudi Arabia,SAU,9.57074379275058,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SA,Saudi Arabia,SAU,10.4776008885598,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SN,Senegal,SEN,28.6811865312667,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SN,Senegal,SEN,29.5057915057915,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SN,Senegal,SEN,30.0150829562594,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SN,Senegal,SEN,30.4400730075036,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SN,Senegal,SEN,30.5555555555556,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SN,Senegal,SEN,30.8357732233165,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RS,Serbia,SRB,22.1137521222411,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RS,Serbia,SRB,22.2867212604955,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RS,Serbia,SRB,22.6898352752109,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RS,Serbia,SRB,23.3135403484863,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RS,Serbia,SRB,23.9228915662651,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",RS,Serbia,SRB,24.5814072932717,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SC,Seychelles,SYC,23.1578947368421,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SC,Seychelles,SYC,23.9130434782609,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SC,Seychelles,SYC,25.2873563218391,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SC,Seychelles,SYC,25,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SC,Seychelles,SYC,26.3157894736842,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SC,Seychelles,SYC,25.7142857142857,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SL,Sierra Leone,SLE,30.7327108719734,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SL,Sierra Leone,SLE,31.6237830319889,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SL,Sierra Leone,SLE,32.3828125,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SL,Sierra Leone,SLE,32.9951690821256,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SL,Sierra Leone,SLE,33.5625159154571,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SL,Sierra Leone,SLE,34.108335394509,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SG,Singapore,SGP,0,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SG,Singapore,SGP,0,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SG,Singapore,SGP,0,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SG,Singapore,SGP,0,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SG,Singapore,SGP,0,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SG,Singapore,SGP,0,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SK,Slovak Republic,SVK,23.5067790399414,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SK,Slovak Republic,SVK,22.9707344008835,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SK,Slovak Republic,SVK,22.5746614728251,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SK,Slovak Republic,SVK,22.2160356347439,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SK,Slovak Republic,SVK,21.9985085756898,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SK,Slovak Republic,SVK,21.9821868485882,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SI,Slovenia,SVN,24.9519230769231,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SI,Slovenia,SVN,24.8296007789679,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SI,Slovenia,SVN,24.8,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SI,Slovenia,SVN,24.7863247863248,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SI,Slovenia,SVN,25.0502008032129,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SI,Slovenia,SVN,25.1497005988024,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SB,Solomon Islands,SLB,38.2905982905983,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SB,Solomon Islands,SLB,39.4686907020873,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SB,Solomon Islands,SLB,40.2127659574468,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SB,Solomon Islands,SLB,40.9200968523002,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SB,Solomon Islands,SLB,41.6201117318436,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SB,Solomon Islands,SLB,41.9871794871795,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,30.5672929964938,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,31.7559153175592,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,32.8649031648559,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,33.8748984565394,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,34.8093287109991,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SO,"Somalia, Fed. Rep.",SOM,35.7798165137615,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZA,South Africa,ZAF,18.6532565617289,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZA,South Africa,ZAF,20.0089403716085,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZA,South Africa,ZAF,21.2994443983747,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZA,South Africa,ZAF,22.5076370771735,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZA,South Africa,ZAF,23.5576690967026,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZA,South Africa,ZAF,24.705786426766,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SS,South Sudan,SSD,40.6730848350202,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SS,South Sudan,SSD,41.2030982798511,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SS,South Sudan,SSD,41.6345316581664,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SS,South Sudan,SSD,42.0411844280776,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SS,South Sudan,SSD,42.381302907618696,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SS,South Sudan,SSD,43.7294015611448,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ES,Spain,ESP,10.0593220338983,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ES,Spain,ESP,10.6405092893335,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ES,Spain,ESP,11.2634829906887,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ES,Spain,ESP,11.8362584713154,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ES,Spain,ESP,12.0595621622993,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ES,Spain,ESP,12.3190083069722,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LK,Sri Lanka,LKA,41.9905607995558,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LK,Sri Lanka,LKA,41.7670295789575,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LK,Sri Lanka,LKA,41.3212370307253,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LK,Sri Lanka,LKA,41.067543906192,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LK,Sri Lanka,LKA,40.7466286591383,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LK,Sri Lanka,LKA,40.5010679443514,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LC,St. Lucia,LCA,41.3978494623656,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LC,St. Lucia,LCA,41.2429378531073,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LC,St. Lucia,LCA,39.3939393939394,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LC,St. Lucia,LCA,36.9426751592357,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LC,St. Lucia,LCA,35.8108108108108,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",LC,St. Lucia,LCA,35.9712230215827,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,23.8532110091743,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,24.5454545454545,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,25.6880733944954,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,26.8518518518519,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,27.7777777777778,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VC,St. Vincent and the Grenadines,VCT,28.7037037037037,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SD,Sudan,SDN,32.8368758519715,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SD,Sudan,SDN,33.1930887467744,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SD,Sudan,SDN,33.3660482492243,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SD,Sudan,SDN,33.5593220338983,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SD,Sudan,SDN,33.7315014880346,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SD,Sudan,SDN,35.5290119446249,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SR,Suriname,SUR,16.7577413479053,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SR,Suriname,SUR,16.5714285714286,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SR,Suriname,SUR,16.4,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SR,Suriname,SUR,16.4882226980728,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SR,Suriname,SUR,16.5137614678899,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SR,Suriname,SUR,16.7076167076167,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SE,Sweden,SWE,6.6329688467093,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SE,Sweden,SWE,7.00202493871896,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SE,Sweden,SWE,7.39756367663344,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SE,Sweden,SWE,7.56311992786294,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SE,Sweden,SWE,7.68097881499943,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SE,Sweden,SWE,8.01495501810959,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CH,Switzerland,CHE,11.7611360602015,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CH,Switzerland,CHE,11.8773946360153,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CH,Switzerland,CHE,12.0410367170626,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CH,Switzerland,CHE,12.142358688067,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CH,Switzerland,CHE,12.0849365825852,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",CH,Switzerland,CHE,13.3972725910385,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SY,Syrian Arab Republic,SYR,20.9297103076578,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SY,Syrian Arab Republic,SYR,21.8465539661899,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SY,Syrian Arab Republic,SYR,22.6619695051467,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SY,Syrian Arab Republic,SYR,23.7920713456722,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SY,Syrian Arab Republic,SYR,24.7384572464779,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",SY,Syrian Arab Republic,SYR,25.3393301742832,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TJ,Tajikistan,TJK,36.4998258042039,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TJ,Tajikistan,TJK,36.5233350812795,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TJ,Tajikistan,TJK,36.5853658536585,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TJ,Tajikistan,TJK,36.5826058842548,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TJ,Tajikistan,TJK,35.4080221300138,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TJ,Tajikistan,TJK,34.1638354095885,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TZ,Tanzania,TZA,34.1186819911648,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TZ,Tanzania,TZA,35.9029661582248,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TZ,Tanzania,TZA,37.6184834123223,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TZ,Tanzania,TZA,39.0053202433791,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TZ,Tanzania,TZA,39.9966605443313,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TZ,Tanzania,TZA,40.8962486265892,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TH,Thailand,THA,25.1290801186944,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TH,Thailand,THA,28.2581849944279,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TH,Thailand,THA,31.3697376449054,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TH,Thailand,THA,34.630993054553,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TH,Thailand,THA,34.7789230977892,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TH,Thailand,THA,35.2791474471131,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TL,Timor-Leste,TLS,32.9070758738278,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TL,Timor-Leste,TLS,34.5690454124189,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TL,Timor-Leste,TLS,36.0441767068273,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TL,Timor-Leste,TLS,37.0023419203747,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TL,Timor-Leste,TLS,37.8316032295271,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TL,Timor-Leste,TLS,38.4820239680426,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TG,Togo,TGO,30.8142777467931,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TG,Togo,TGO,32.0754716981132,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TG,Togo,TGO,33.3333333333333,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TG,Togo,TGO,34.5734840698869,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TG,Togo,TGO,35.6909430438842,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TG,Togo,TGO,36.4308342133052,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TO,Tonga,TON,37.3831775700935,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TO,Tonga,TON,38.4615384615385,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TO,Tonga,TON,38.2352941176471,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TO,Tonga,TON,37.7551020408163,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TO,Tonga,TON,37.5,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TO,Tonga,TON,37.8947368421053,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TT,Trinidad and Tobago,TTO,46.2852897473997,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TT,Trinidad and Tobago,TTO,45.8584337349398,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TT,Trinidad and Tobago,TTO,45.3703703703704,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TT,Trinidad and Tobago,TTO,44.7513812154696,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TT,Trinidad and Tobago,TTO,45.2589641434263,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TT,Trinidad and Tobago,TTO,45.7890433360589,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TN,Tunisia,TUN,16.849132176235,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TN,Tunisia,TUN,17.2592174567344,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TN,Tunisia,TUN,17.6066845717696,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TN,Tunisia,TUN,18.3312395309883,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TN,Tunisia,TUN,19.227343576041,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TN,Tunisia,TUN,20.9219422249539,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TR,Turkiye,TUR,13.6886988042926,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TR,Turkiye,TUR,15.0530926834678,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TR,Turkiye,TUR,16.5377461545275,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TR,Turkiye,TUR,18.0815195884448,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TR,Turkiye,TUR,19.4046683298589,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TR,Turkiye,TUR,20.8723029910177,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TM,Turkmenistan,TKM,25.3442500930406,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TM,Turkmenistan,TKM,26.1654433644118,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TM,Turkmenistan,TKM,26.8112889637742,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TM,Turkmenistan,TKM,27.3716951788491,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TM,Turkmenistan,TKM,27.9369627507163,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",TM,Turkmenistan,TKM,27.827745979831,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UG,Uganda,UGA,41.8275578585486,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UG,Uganda,UGA,42.6381451185782,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UG,Uganda,UGA,43.4345192508529,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UG,Uganda,UGA,44.0187839841819,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UG,Uganda,UGA,44.3346190935391,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UG,Uganda,UGA,44.6763615625891,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UA,Ukraine,UKR,16.1806208842897,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UA,Ukraine,UKR,16.6731813246471,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UA,Ukraine,UKR,17.2055329260014,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UA,Ukraine,UKR,17.6998185783884,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UA,Ukraine,UKR,17.9224994134668,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UA,Ukraine,UKR,18.1304322576899,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AE,United Arab Emirates,ARE,4.56253915222385,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AE,United Arab Emirates,ARE,4.84482350153992,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AE,United Arab Emirates,ARE,5.85683297180043,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AE,United Arab Emirates,ARE,6.6424322538004,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AE,United Arab Emirates,ARE,7.50533049040512,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",AE,United Arab Emirates,ARE,7.41971207087486,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GB,United Kingdom,GBR,8.69776329803897,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GB,United Kingdom,GBR,9.37213011745372,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GB,United Kingdom,GBR,10.112620457448,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GB,United Kingdom,GBR,10.8038879747587,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GB,United Kingdom,GBR,10.9816024966809,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",GB,United Kingdom,GBR,11.0881951969798,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",US,United States,USA,9.06445788876347,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",US,United States,USA,9.50372462737713,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",US,United States,USA,9.93674664448663,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",US,United States,USA,10.3863384809993,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",US,United States,USA,11.3129059577151,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",US,United States,USA,12.3234331472219,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UY,Uruguay,URY,2.04081632653061,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UY,Uruguay,URY,2.43251260753486,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UY,Uruguay,URY,2.88721804511278,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UY,Uruguay,URY,3.40258958145137,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UY,Uruguay,URY,4.06201550387597,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UY,Uruguay,URY,4.69453376205788,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UZ,Uzbekistan,UZB,31.791712948938,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UZ,Uzbekistan,UZB,31.8844754942562,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UZ,Uzbekistan,UZB,31.6452294106354,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UZ,Uzbekistan,UZB,31.2671177702594,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UZ,Uzbekistan,UZB,30.794701986755,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",UZ,Uzbekistan,UZB,30.0204319906597,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VU,Vanuatu,VUT,37.2623574144487,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VU,Vanuatu,VUT,37.7118644067797,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VU,Vanuatu,VUT,38.0952380952381,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VU,Vanuatu,VUT,38.5869565217391,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VU,Vanuatu,VUT,39.2857142857143,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VU,Vanuatu,VUT,39.7260273972603,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VE,"Venezuela, RB",VEN,5.01374065316035,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VE,"Venezuela, RB",VEN,5.13032400234136,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VE,"Venezuela, RB",VEN,5.23834468308015,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VE,"Venezuela, RB",VEN,5.41625696492953,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VE,"Venezuela, RB",VEN,6.28734383487235,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VE,"Venezuela, RB",VEN,7.193515704154,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VN,Viet Nam,VNM,33.2330327886407,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VN,Viet Nam,VNM,34.9006704324682,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VN,Viet Nam,VNM,36.8225267222301,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VN,Viet Nam,VNM,38.3344871921669,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VN,Viet Nam,VNM,39.5224940805051,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VN,Viet Nam,VNM,40.6013728250301,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VI,Virgin Islands (U.S.),VIR,2.80373831775701,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VI,Virgin Islands (U.S.),VIR,2.80373831775701,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VI,Virgin Islands (U.S.),VIR,2.80373831775701,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VI,Virgin Islands (U.S.),VIR,3.6697247706422,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VI,Virgin Islands (U.S.),VIR,4.71698113207547,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",VI,Virgin Islands (U.S.),VIR,5.8252427184466,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PS,West Bank and Gaza,PSE,12.2004836227742,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PS,West Bank and Gaza,PSE,12.7585347620234,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PS,West Bank and Gaza,PSE,13.2865168539326,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PS,West Bank and Gaza,PSE,13.8264669163546,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PS,West Bank and Gaza,PSE,14.6979607541362,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",PS,West Bank and Gaza,PSE,15.9538683325324,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",YE,"Yemen, Rep.",YEM,33.8084981398081,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",YE,"Yemen, Rep.",YEM,35.0026357406431,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",YE,"Yemen, Rep.",YEM,36.1668321747766,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",YE,"Yemen, Rep.",YEM,37.2824288078525,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",YE,"Yemen, Rep.",YEM,38.3273405247037,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",YE,"Yemen, Rep.",YEM,40.5767599660729,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZM,Zambia,ZMB,29.9162371134021,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZM,Zambia,ZMB,30.9653502799213,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZM,Zambia,ZMB,32.048823016565,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZM,Zambia,ZMB,32.990099009901,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZM,Zambia,ZMB,32.032575500509,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZM,Zambia,ZMB,31.1193268740439,NA,NA,0
+2015,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZW,Zimbabwe,ZWE,35.0259205104347,NA,NA,0
+2010,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZW,Zimbabwe,ZWE,34.6486197140017,NA,NA,0
+2005,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZW,Zimbabwe,ZWE,34.0571158838801,NA,NA,0
+2000,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZW,Zimbabwe,ZWE,34.1250799744082,NA,NA,0
+1995,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZW,Zimbabwe,ZWE,35.0803333619727,NA,NA,0
+1990,SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)",ZW,Zimbabwe,ZWE,36.3028101701396,NA,NA,0

@@ -1,0 +1,1441 @@
+date,indicator_id,indicator_name,country_id,country_name,country_code,value,unit,obs_status,decimal
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZH,Africa Eastern and Southern,AFE,33.0781966604174,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZH,Africa Eastern and Southern,AFE,34.1051850127781,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZH,Africa Eastern and Southern,AFE,34.9143598040587,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZH,Africa Eastern and Southern,AFE,35.5371398871244,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZH,Africa Eastern and Southern,AFE,36.1142405364748,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZH,Africa Eastern and Southern,AFE,37.019684769191,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZI,Africa Western and Central,AFW,27.221878081598,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZI,Africa Western and Central,AFW,28.8692561207889,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZI,Africa Western and Central,AFW,30.4966950341897,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZI,Africa Western and Central,AFW,32.0856188945397,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZI,Africa Western and Central,AFW,33.2321463569602,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZI,Africa Western and Central,AFW,34.3049881733959,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1A,Arab World,ARB,21.626799909755,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1A,Arab World,ARB,22.5227388966328,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1A,Arab World,ARB,23.2871305469237,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1A,Arab World,ARB,23.956559530592,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1A,Arab World,ARB,24.5906484038859,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1A,Arab World,ARB,25.4714464504125,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S3,Caribbean small states,CSS,33.0294822266335,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S3,Caribbean small states,CSS,33.0988296130494,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S3,Caribbean small states,CSS,32.9511934588786,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S3,Caribbean small states,CSS,33.087926098634,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S3,Caribbean small states,CSS,33.6354240223834,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S3,Caribbean small states,CSS,33.9399940602803,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",B8,Central Europe and the Baltics,CEB,18.6799760152451,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",B8,Central Europe and the Baltics,CEB,18.8201403996601,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",B8,Central Europe and the Baltics,CEB,18.940462897632,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",B8,Central Europe and the Baltics,CEB,19.0059716916136,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",B8,Central Europe and the Baltics,CEB,18.9394914741362,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",B8,Central Europe and the Baltics,CEB,19.0305919322658,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V2,Early-demographic dividend,EAR,28.3847371338148,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V2,Early-demographic dividend,EAR,29.4725879262524,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V2,Early-demographic dividend,EAR,30.5071702988879,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V2,Early-demographic dividend,EAR,31.4411001053496,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V2,Early-demographic dividend,EAR,32.3023830106824,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V2,Early-demographic dividend,EAR,33.1999434739552,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z4,East Asia & Pacific,EAS,22.087723020333,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z4,East Asia & Pacific,EAS,24.5361433842659,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z4,East Asia & Pacific,EAS,27.1870350384826,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z4,East Asia & Pacific,EAS,29.9027828448997,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z4,East Asia & Pacific,EAS,31.9516494977427,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z4,East Asia & Pacific,EAS,33.5823137701582,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,24.0888919834872,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,26.7723976883,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,29.6103754137322,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,32.4344917735721,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,34.7627235329341,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",4E,East Asia & Pacific (excluding high income),EAP,36.6041777178279,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,24.154717299672,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,26.870192774965,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,29.7444465767968,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,32.6055054456456,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,34.9650665117039,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T4,East Asia & Pacific (IDA & IBRD),TEA,36.8274811724252,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XC,Euro area,EMU,12.2194012730924,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XC,Euro area,EMU,12.7685518960842,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XC,Euro area,EMU,13.3393698864126,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XC,Euro area,EMU,13.8299552209566,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XC,Euro area,EMU,14.1142150068533,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XC,Euro area,EMU,14.4399633493727,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z7,Europe & Central Asia,ECS,14.3991182000019,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z7,Europe & Central Asia,ECS,14.8247261161879,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z7,Europe & Central Asia,ECS,15.2367356086769,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z7,Europe & Central Asia,ECS,15.5753345952712,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z7,Europe & Central Asia,ECS,15.7050241562461,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",Z7,Europe & Central Asia,ECS,15.8599807050807,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,19.4688865930042,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,19.9993467598618,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,20.4338538848966,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,20.8003455145951,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,20.9632012169286,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",7E,Europe & Central Asia (excluding high income),ECA,21.1658845143556,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,17.2517554813739,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,17.584916452503,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,17.8069988471493,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,17.9564710184294,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,17.9776629247594,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T7,Europe & Central Asia (IDA & IBRD),TEC,18.0542533746519,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EU,European Union,EUU,13.212428153843,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EU,European Union,EUU,13.7060711836243,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EU,European Union,EUU,14.2246898891437,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EU,European Union,EUU,14.663383356732,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EU,European Union,EUU,14.8827003011734,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EU,European Union,EUU,15.1704545180654,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,32.4363823605938,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,33.5598340747624,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,34.5728355695551,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,35.4215684788433,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,36.1273226944375,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XE,Heavily indebted poor countries (HIPC),HPC,36.9928744166024,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XD,High income,NA,10.1537657251453,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XD,High income,NA,10.7083928094619,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XD,High income,NA,11.3601700703446,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XD,High income,NA,12.1343861167111,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XD,High income,NA,12.5934694728753,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XD,High income,NA,13.1199863965347,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XF,IBRD only,IBD,23.9262758417546,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XF,IBRD only,IBD,25.5435349366284,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XF,IBRD only,IBD,27.1934534558575,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XF,IBRD only,IBD,28.8103051348864,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XF,IBRD only,IBD,30.1594433240996,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XF,IBRD only,IBD,31.3284569231046,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZT,IDA & IBRD total,IBT,25.9816100143859,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZT,IDA & IBRD total,IBT,27.4393776581565,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZT,IDA & IBRD total,IBT,28.9143858029278,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZT,IDA & IBRD total,IBT,30.3336473629028,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZT,IDA & IBRD total,IBT,31.5021567102562,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZT,IDA & IBRD total,IBT,32.5441407283067,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XH,IDA blend,IDB,29.3743040600868,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XH,IDA blend,IDB,30.8193581050315,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XH,IDA blend,IDB,32.1476192311603,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XH,IDA blend,IDB,33.3093373406653,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XH,IDA blend,IDB,34.0798249334371,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XH,IDA blend,IDB,35.0050601770347,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XI,IDA only,IDX,33.4130805325732,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XI,IDA only,IDX,34.641902452258996,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XI,IDA only,IDX,35.9190617765012,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XI,IDA only,IDX,36.9753661119771,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XI,IDA only,IDX,37.8202911898489,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XI,IDA only,IDX,38.5911043201066,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XG,IDA total,IDA,31.9829260378976,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XG,IDA total,IDA,33.2902055005588,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XG,IDA total,IDA,34.5977039590245,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XG,IDA total,IDA,35.69817507136,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XG,IDA total,IDA,36.5246052235377,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XG,IDA total,IDA,37.3572488439486,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V3,Late-demographic dividend,LTE,20.6017226010901,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V3,Late-demographic dividend,LTE,22.9708314704671,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V3,Late-demographic dividend,LTE,25.4671515231259,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V3,Late-demographic dividend,LTE,27.8987335931196,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V3,Late-demographic dividend,LTE,29.767403694317,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V3,Late-demographic dividend,LTE,31.2137143896775,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZJ,Latin America & Caribbean,LCN,10.3968343116255,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZJ,Latin America & Caribbean,LCN,11.0947615651148,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZJ,Latin America & Caribbean,LCN,11.855528445898,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZJ,Latin America & Caribbean,LCN,12.7524934575793,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZJ,Latin America & Caribbean,LCN,13.9492678015133,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZJ,Latin America & Caribbean,LCN,15.2807474863785,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,10.4410157361884,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,11.1443168606654,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,11.9080443574389,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,12.8030858329362,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,14.015948191045,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XJ,Latin America & Caribbean (excluding high income),LAC,15.3748681945502,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,10.4055771669541,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,11.1219458604089,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,11.9033393268539,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,12.8223815989803,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,14.044585787965,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T2,Latin America & Caribbean (IDA & IBRD),TLA,15.410179899049,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XL,Least developed countries: UN classification,LDC,33.7948711523626,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XL,Least developed countries: UN classification,LDC,35.1533878611457,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XL,Least developed countries: UN classification,LDC,36.4593535346451,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XL,Least developed countries: UN classification,LDC,37.5580144081791,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XL,Least developed countries: UN classification,LDC,38.4467016711799,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XL,Least developed countries: UN classification,LDC,39.2600471840942,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XO,Low & middle income,LMY,26.3945040636201,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XO,Low & middle income,LMY,27.919615334055,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XO,Low & middle income,LMY,29.4820531275975,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XO,Low & middle income,LMY,31.0113182094371,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XO,Low & middle income,LMY,32.2989610774918,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XO,Low & middle income,LMY,33.4660481550243,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XM,Low income,NA,34.024222739542,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XM,Low income,NA,34.8234798796999,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XM,Low income,NA,35.5955852223986,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XM,Low income,NA,36.1193135197116,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XM,Low income,NA,36.6295365957793,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XM,Low income,NA,37.3121407180383,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XN,Lower middle income,NA,31.7156351939896,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XN,Lower middle income,NA,32.9428241717933,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XN,Lower middle income,NA,34.1106614091165,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XN,Lower middle income,NA,35.1365470987478,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XN,Lower middle income,NA,35.8401735612848,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XN,Lower middle income,NA,36.5333817209283,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,23.3714808512415,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,24.4068219048658,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,25.2988529399183,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,26.0303399282592,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,26.7007336908451,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZQ,"Middle East, North Africa, Afghanistan & Pakistan",MEA,27.5034059008493,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,24.7808592043098,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,25.718265712033,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,26.5313774814606,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,27.1913092210797,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,27.7872149551225,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,28.5441622231202,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,24.8636018765414,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,25.8015048023354,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,26.6145920798147,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,27.2738197833633,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,27.8639014696399,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,28.6113575232865,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XP,Middle income,MIC,25.5819781045458,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XP,Middle income,MIC,27.2324077793421,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XP,Middle income,MIC,28.9208349052717,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XP,Middle income,MIC,30.5762026913268,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XP,Middle income,MIC,31.9524232460329,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XP,Middle income,MIC,33.1755604114829,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XU,North America,NAC,9.32476586193902,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XU,North America,NAC,9.73351583677442,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XU,North America,NAC,10.14413235282,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XU,North America,NAC,10.5569178945536,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XU,North America,NAC,11.4359974403439,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XU,North America,NAC,12.3468484049982,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OE,OECD members,OED,10.0033050080457,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OE,OECD members,OED,10.6250083952659,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OE,OECD members,OED,11.3495748230596,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OE,OECD members,OED,12.2447782268666,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OE,OECD members,OED,12.8085159400802,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OE,OECD members,OED,13.4835668724098,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S4,Other small states,OSS,23.2167660566961,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S4,Other small states,OSS,23.6010416688887,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S4,Other small states,OSS,23.8608866347048,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S4,Other small states,OSS,23.9445549285227,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S4,Other small states,OSS,24.6355254394185,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S4,Other small states,OSS,24.8891855510989,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S2,Pacific island small states,PSS,32.6758512075176,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S2,Pacific island small states,PSS,33.0658177664129,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S2,Pacific island small states,PSS,33.7355749703812,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S2,Pacific island small states,PSS,34.538089390879,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S2,Pacific island small states,PSS,35.1792463197835,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S2,Pacific island small states,PSS,36.0027309040152,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V4,Post-demographic dividend,PST,9.53075077583763,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V4,Post-demographic dividend,PST,10.1387418261876,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V4,Post-demographic dividend,PST,10.8543099376947,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V4,Post-demographic dividend,PST,11.7245986767904,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V4,Post-demographic dividend,PST,12.2176217861619,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V4,Post-demographic dividend,PST,12.8059571925666,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V1,Pre-demographic dividend,PRE,30.3190735560574,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V1,Pre-demographic dividend,PRE,31.6653751666959,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V1,Pre-demographic dividend,PRE,32.8404637734984,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V1,Pre-demographic dividend,PRE,33.9222412930696,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V1,Pre-demographic dividend,PRE,34.7458611981339,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",V1,Pre-demographic dividend,PRE,35.6253174344212,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S1,Small states,SST,26.6963666680915,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S1,Small states,SST,27.0244340730639,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S1,Small states,SST,27.2799462835206,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S1,Small states,SST,27.5326742960229,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S1,Small states,SST,28.1545762530739,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",S1,Small states,SST,28.4851100338474,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",8S,South Asia,SAS,34.389010654742,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",8S,South Asia,SAS,35.5152028851126,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",8S,South Asia,SAS,36.6107206394383,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",8S,South Asia,SAS,37.5856553233866,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",8S,South Asia,SAS,38.2588185270522,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",8S,South Asia,SAS,38.8589413104166,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,34.389010654742,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,35.5152028851126,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,36.6107206394383,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,37.5856553233866,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,38.2588185270522,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T5,South Asia (IDA & IBRD),TSA,38.8589413104166,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZG,Sub-Saharan Africa,SSF,30.6918186364882,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZG,Sub-Saharan Africa,SSF,31.9742339296804,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZG,Sub-Saharan Africa,SSF,33.1219889775127,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZG,Sub-Saharan Africa,SSF,34.1448470174993,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZG,Sub-Saharan Africa,SSF,34.9562354099703,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZG,Sub-Saharan Africa,SSF,35.9292768487781,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,30.6925055728451,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,31.9750432310414,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,33.1229443780514,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,34.1459369896346,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,34.957493356437,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZF,Sub-Saharan Africa (excluding high income),SSA,35.9308303430593,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,30.6918186364882,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,31.9742339296804,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,33.1219889775127,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,34.1448470174993,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,34.9562354099703,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",T6,Sub-Saharan Africa (IDA & IBRD),TSS,35.9292768487781,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XT,Upper middle income,NA,20.1655839304258,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XT,Upper middle income,NA,22.3637025240079,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XT,Upper middle income,NA,24.6900512614183,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XT,Upper middle income,NA,27.0380194237303,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XT,Upper middle income,NA,29.0739388784393,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",XT,Upper middle income,NA,30.7959125895272,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1W,World,WLD,23.4141088371986,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1W,World,WLD,24.6542464744349,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1W,World,WLD,25.9302514684909,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1W,World,WLD,27.1652544304563,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1W,World,WLD,28.1014963922667,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",1W,World,WLD,28.9274725486669,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AF,Afghanistan,AFG,37.138750898241,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AF,Afghanistan,AFG,38.2047399373173,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AF,Afghanistan,AFG,39.281547930327,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AF,Afghanistan,AFG,40.0194221898519,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AF,Afghanistan,AFG,40.9359717957466,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AF,Afghanistan,AFG,41.8854415274463,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AL,Albania,ALB,21.5269086357947,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AL,Albania,ALB,24.2539682539683,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AL,Albania,ALB,26.9712140175219,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AL,Albania,ALB,29.2889561270802,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AL,Albania,ALB,31.0899344848124,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AL,Albania,ALB,32.7531186539019,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DZ,Algeria,DZA,14.899219845938,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DZ,Algeria,DZA,16.5421039851064,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DZ,Algeria,DZA,18.397573687465002,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DZ,Algeria,DZA,20.31210592686,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DZ,Algeria,DZA,22.2309397919154,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DZ,Algeria,DZA,24.233993902439,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AO,Angola,AGO,27.2042068361087,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AO,Angola,AGO,29.1728477159957,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AO,Angola,AGO,30.9598646034816,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AO,Angola,AGO,32.7899461400359,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AO,Angola,AGO,34.5283330579878,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AO,Angola,AGO,36.2140714216588,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AG,Antigua and Barbuda,ATG,36.9565217391304,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AG,Antigua and Barbuda,ATG,35.632183908046,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AG,Antigua and Barbuda,ATG,34.1463414634146,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AG,Antigua and Barbuda,ATG,32.0512820512821,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AG,Antigua and Barbuda,ATG,32.3529411764706,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AG,Antigua and Barbuda,ATG,32.258064516129,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AR,Argentina,ARG,4.39568259992883,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AR,Argentina,ARG,4.8025957299252,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AR,Argentina,ARG,5.19057106631821,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AR,Argentina,ARG,5.74479039644473,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AR,Argentina,ARG,6.32446243504722,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AR,Argentina,ARG,6.99463601532567,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AM,Armenia,ARM,19.6655518394649,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AM,Armenia,ARM,19.2645074224022,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AM,Armenia,ARM,18.1094527363184,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AM,Armenia,ARM,17.1595710107247,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AM,Armenia,ARM,16.6304685076016,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AM,Armenia,ARM,16.3328631875882,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AW,Aruba,ABW,27.8846153846154,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AW,Aruba,ABW,27.7227722772277,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AW,Aruba,ABW,27,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AW,Aruba,ABW,26.3736263736264,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AW,Aruba,ABW,26.25,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AW,Aruba,ABW,25.8064516129032,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AU,Australia,AUS,5.5179332831703,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AU,Australia,AUS,5.72219246563114,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AU,Australia,AUS,6.16959064327485,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AU,Australia,AUS,6.68743509865005,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AU,Australia,AUS,7.26109026704922,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AU,Australia,AUS,7.65046499385857,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AT,Austria,AUT,17.0854271356784,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AT,Austria,AUT,17.0792668412283,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AT,Austria,AUT,17.0530404175264,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AT,Austria,AUT,16.9700748129676,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AT,Austria,AUT,16.9546706736789,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AT,Austria,AUT,16.8318122555411,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AZ,Azerbaijan,AZE,22.7296369499636,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AZ,Azerbaijan,AZE,23.2680888497911,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AZ,Azerbaijan,AZE,23.5898633656429,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AZ,Azerbaijan,AZE,23.8634963656523,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AZ,Azerbaijan,AZE,23.3075933075933,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AZ,Azerbaijan,AZE,22.5471175166297,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BS,"Bahamas, The",BHS,8.52713178294574,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BS,"Bahamas, The",BHS,8.86426592797784,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BS,"Bahamas, The",BHS,8.81458966565349,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BS,"Bahamas, The",BHS,9.09090909090909,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BS,"Bahamas, The",BHS,9.64285714285714,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BS,"Bahamas, The",BHS,10.5058365758755,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BH,Bahrain,BHR,6.83823529411765,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BH,Bahrain,BHR,7.02875399361022,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BH,Bahrain,BHR,6.8259385665529,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BH,Bahrain,BHR,6.58682634730539,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BH,Bahrain,BHR,6.56028368794326,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BH,Bahrain,BHR,6.66666666666667,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BD,Bangladesh,BGD,32.5578205847516,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BD,Bangladesh,BGD,34.7623837063113,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BD,Bangladesh,BGD,37.0792404320427,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BD,Bangladesh,BGD,38.9956490210297,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BD,Bangladesh,BGD,40.1076165846334,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BD,Bangladesh,BGD,41.2362877842549,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BB,Barbados,BRB,34.375,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BB,Barbados,BRB,34.1637010676157,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BB,Barbados,BRB,33.6996336996337,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BB,Barbados,BRB,33.2089552238806,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BB,Barbados,BRB,33.0798479087452,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BB,Barbados,BRB,32.6923076923077,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BY,Belarus,BLR,10.928725701943801,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BY,Belarus,BLR,11.9481614160784,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BY,Belarus,BLR,12.9332643559234,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BY,Belarus,BLR,14.0052093768784,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BY,Belarus,BLR,14.8002748061635,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BY,Belarus,BLR,15.5863144556,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BE,Belgium,BEL,1.07305731914513,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BE,Belgium,BEL,1.17905127502056,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BE,Belgium,BEL,1.3036444951946,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BE,Belgium,BEL,1.43163225555123,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BE,Belgium,BEL,1.60417281763606,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BE,Belgium,BEL,1.80414954395109,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BZ,Belize,BLZ,28.448275862069,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BZ,Belize,BLZ,28.1553398058252,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BZ,Belize,BLZ,27.5735294117647,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BZ,Belize,BLZ,26.890756302521,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BZ,Belize,BLZ,27.1844660194175,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BZ,Belize,BLZ,27.2727272727273,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BJ,Benin,BEN,27.6955602536998,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BJ,Benin,BEN,28.6855941114616,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BJ,Benin,BEN,29.4635219357204,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BJ,Benin,BEN,30.11944164628,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BJ,Benin,BEN,30.7550952221851,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BJ,Benin,BEN,31.4737052589482,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BT,Bhutan,BTN,32.4742268041237,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BT,Bhutan,BTN,34.5885634588563,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BT,Bhutan,BTN,36.4615384615385,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BT,Bhutan,BTN,38.2300884955752,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BT,Bhutan,BTN,40.7843137254902,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BT,Bhutan,BTN,43.0970149253731,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BO,Bolivia,BOL,16.390022675737,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BO,Bolivia,BOL,17.4362508614748,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BO,Bolivia,BOL,18.5763146643865,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BO,Bolivia,BOL,19.7269303201507,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BO,Bolivia,BOL,20.7858546168959,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BO,Bolivia,BOL,22.5051516043568,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BA,Bosnia and Herzegovina,BIH,29.5549738219895,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BA,Bosnia and Herzegovina,BIH,29.8569570871261,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BA,Bosnia and Herzegovina,BIH,29.7938144329897,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BA,Bosnia and Herzegovina,BIH,29.6219035202086,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BA,Bosnia and Herzegovina,BIH,29.53706333428,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BA,Bosnia and Herzegovina,BIH,30.2099447513812,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BW,Botswana,BWA,21.2445308701993,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BW,Botswana,BWA,21.7766497461929,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BW,Botswana,BWA,22.2814498933902,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BW,Botswana,BWA,23.1776765375854,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BW,Botswana,BWA,25.3156565656566,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BW,Botswana,BWA,28.6849710982659,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BR,Brazil,BRA,7.5710259356372,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BR,Brazil,BRA,8.27058040059423,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BR,Brazil,BRA,9.02859107563043,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BR,Brazil,BRA,9.86676599524369,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BR,Brazil,BRA,11.6905819347586,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BR,Brazil,BRA,13.5197262910296,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BN,Brunei Darussalam,BRN,11.6550116550117,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BN,Brunei Darussalam,BRN,12.4688279301746,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BN,Brunei Darussalam,BRN,13.550135501355,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BN,Brunei Darussalam,BRN,14.7590361445783,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BN,Brunei Darussalam,BRN,16.5540540540541,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BN,Brunei Darussalam,BRN,18.2879377431907,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BG,Bulgaria,BGR,12.8637705609447,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BG,Bulgaria,BGR,13.723101908242,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BG,Bulgaria,BGR,14.5516074450085,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BG,Bulgaria,BGR,15.3336665833542,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BG,Bulgaria,BGR,15.9128978224456,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BG,Bulgaria,BGR,16.6080943203718,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BF,Burkina Faso,BFA,34.6357800725649,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BF,Burkina Faso,BFA,36.6280566280566,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BF,Burkina Faso,BFA,38.5113991953509,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BF,Burkina Faso,BFA,40.1929537427858,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BF,Burkina Faso,BFA,41.4469772051536,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BF,Burkina Faso,BFA,42.0043127908296,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BI,Burundi,BDI,42.8135405105438,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BI,Burundi,BDI,43.5611393913138,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BI,Burundi,BDI,44.3629343629344,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BI,Burundi,BDI,44.8756367995205,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BI,Burundi,BDI,45.0885668276973,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",BI,Burundi,BDI,45.7270294380018,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CV,Cabo Verde,CPV,16.6994106090373,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CV,Cabo Verde,CPV,18.4804928131417,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CV,Cabo Verde,CPV,20.4592901878914,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CV,Cabo Verde,CPV,22.3981900452489,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CV,Cabo Verde,CPV,24.5,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CV,Cabo Verde,CPV,26.4957264957265,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KH,Cambodia,KHM,38.8594756649869,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KH,Cambodia,KHM,39.2133658197007,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KH,Cambodia,KHM,39.3156633722671,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KH,Cambodia,KHM,39.4993045897079,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KH,Cambodia,KHM,40.0092850510678,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KH,Cambodia,KHM,40.6712298520645,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CM,Cameroon,CMR,22.4459263058904,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CM,Cameroon,CMR,23.8411559348332,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CM,Cameroon,CMR,24.7147031258614,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CM,Cameroon,CMR,26.2259056947322,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CM,Cameroon,CMR,27.726326369445,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CM,Cameroon,CMR,29.1939358793803,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CA,Canada,CAN,9.38667410091999,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CA,Canada,CAN,9.82242278614546,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CA,Canada,CAN,10.2312891424319,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CA,Canada,CAN,10.5616366953349,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CA,Canada,CAN,11.4900153609831,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CA,Canada,CAN,12.0833032034131,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CF,Central African Republic,CAF,29.3150114511764,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CF,Central African Republic,CAF,29.9080459770115,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CF,Central African Republic,CAF,30.2448876546327,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CF,Central African Republic,CAF,30.4288070368334,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CF,Central African Republic,CAF,30.5954198473282,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CF,Central African Republic,CAF,30.8273257809818,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TD,Chad,TCD,38.5814038956266,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TD,Chad,TCD,38.7798634812287,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TD,Chad,TCD,38.7058118633913,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TD,Chad,TCD,38.6941332369594,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TD,Chad,TCD,38.6962750716332,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TD,Chad,TCD,38.9514367333221,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JG,Channel Islands,CHI,34.3558282208589,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JG,Channel Islands,CHI,34.5911949685535,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JG,Channel Islands,CHI,34.4155844155844,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JG,Channel Islands,CHI,34.2281879194631,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JG,Channel Islands,CHI,34.0277777777778,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JG,Channel Islands,CHI,33.5714285714286,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CL,Chile,CHL,5.56795358178978,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CL,Chile,CHL,6.0637863681418,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CL,Chile,CHL,6.68992532745746,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CL,Chile,CHL,7.48576604554865,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CL,Chile,CHL,8.31024930747923,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CL,Chile,CHL,9.09641289541396,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CN,China,CHN,22.9950049479626,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CN,China,CHN,26.2759390567295,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CN,China,CHN,29.7695984681875,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CN,China,CHN,33.2030905266907,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CN,China,CHN,35.8047307059535,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CN,China,CHN,37.7925210373176,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CO,Colombia,COL,12.4492721435926,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CO,Colombia,COL,13.1642408061321,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CO,Colombia,COL,13.9611893293813,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CO,Colombia,COL,14.7852022657777,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CO,Colombia,COL,15.6527682843472,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CO,Colombia,COL,16.8883417900141,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KM,Comoros,COM,36.1038961038961,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KM,Comoros,COM,36.217008797654,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KM,Comoros,COM,36.1064891846922,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KM,Comoros,COM,35.9168241965974,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KM,Comoros,COM,35.8369098712446,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KM,Comoros,COM,36.0774818401937,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CD,"Congo, Dem. Rep.",COD,27.8064733458721,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CD,"Congo, Dem. Rep.",COD,29.1199691273657,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CD,"Congo, Dem. Rep.",COD,30.3638853927593,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CD,"Congo, Dem. Rep.",COD,31.5150482438391,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CD,"Congo, Dem. Rep.",COD,32.6097305531753,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CD,"Congo, Dem. Rep.",COD,33.6283692818882,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CG,"Congo, Rep.",COG,16.8914579319204,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CG,"Congo, Rep.",COG,18.0004864996351,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CG,"Congo, Rep.",COG,19.0005646527386,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CG,"Congo, Rep.",COG,20.1471058522546,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CG,"Congo, Rep.",COG,21.2867647058824,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CG,"Congo, Rep.",COG,22.3341729638959,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CR,Costa Rica,CRI,12.2526484109534,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CR,Costa Rica,CRI,14.9068322981366,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CR,Costa Rica,CRI,17.8703703703704,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CR,Costa Rica,CRI,21.5267175572519,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CR,Costa Rica,CRI,23.8861741879851,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CR,Costa Rica,CRI,26.3157894736842,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CI,Cote d'Ivoire,CIV,23.0946231509744,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CI,Cote d'Ivoire,CIV,25.0526981450253,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CI,Cote d'Ivoire,CIV,26.9993675616627,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CI,Cote d'Ivoire,CIV,28.8990825688073,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CI,Cote d'Ivoire,CIV,30.2081868054579,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CI,Cote d'Ivoire,CIV,31.2726972598217,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HR,Croatia,HRV,20.1410105757932,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HR,Croatia,HRV,20.8621484555095,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HR,Croatia,HRV,21.3992707383774,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HR,Croatia,HRV,21.7828418230563,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HR,Croatia,HRV,22.1061607333191,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HR,Croatia,HRV,22.5907384230288,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CU,Cuba,CUB,12.169970664059,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CU,Cuba,CUB,12.3659250066483,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CU,Cuba,CUB,12.6372653205809,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CU,Cuba,CUB,13.0711913098124,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CU,Cuba,CUB,13.6388583973655,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CU,Cuba,CUB,14.1415094339623,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CY,Cyprus,CYP,17.0962199312715,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CY,Cyprus,CYP,16.7724388032638,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CY,Cyprus,CYP,16.2633107454017,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CY,Cyprus,CYP,16.0127253446448,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CY,Cyprus,CYP,16.3551401869159,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CY,Cyprus,CYP,16.971279373368102,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CZ,Czechia,CZE,13.6321455085375,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CZ,Czechia,CZE,13.4072389615312,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CZ,Czechia,CZE,13.1463200078194,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CZ,Czechia,CZE,12.9060579455663,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CZ,Czechia,CZE,12.5157171873489,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CZ,Czechia,CZE,12.2118923106721,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DK,Denmark,DNK,6.27097685921215,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DK,Denmark,DNK,6.71950999819852,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DK,Denmark,DNK,7.16131413805832,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DK,Denmark,DNK,7.53091045335332,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DK,Denmark,DNK,7.58792048929664,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DK,Denmark,DNK,7.64442715425015,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DJ,Djibouti,DJI,11.3333333333333,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DJ,Djibouti,DJI,11.5107913669065,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DJ,Djibouti,DJI,11.5979381443299,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DJ,Djibouti,DJI,11.7403314917127,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DJ,Djibouti,DJI,11.8796992481203,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DJ,Djibouti,DJI,12.0338983050847,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DO,Dominican Republic,DOM,10.6646639128802,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DO,Dominican Republic,DOM,13.3373265448737,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DO,Dominican Republic,DOM,16.8254308038103,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DO,Dominican Republic,DOM,19.9815306475817,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DO,Dominican Republic,DOM,22.1108047129606,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DO,Dominican Republic,DOM,23.2128070659674,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EC,Ecuador,ECU,18.4826821151239,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EC,Ecuador,ECU,19.0253983067795,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EC,Ecuador,ECU,19.5688466284387,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EC,Ecuador,ECU,20.5457591957233,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EC,Ecuador,ECU,21.8098267939201,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EC,Ecuador,ECU,23.1529039905176,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,28.8480154888674,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,28.9154157487576,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,28.9061955779707,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,28.8688631174683,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,28.7029165576772,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EG,"Egypt, Arab Rep.",EGY,28.3774428883327,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SV,El Salvador,SLV,16.1842514783691,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SV,El Salvador,SLV,17.4332582824059,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SV,El Salvador,SLV,18.8374773588013,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SV,El Salvador,SLV,20.4228897466018,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SV,El Salvador,SLV,22.9297146833681,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SV,El Salvador,SLV,25.1637043966324,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GQ,Equatorial Guinea,GNQ,30.162703379224,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GQ,Equatorial Guinea,GNQ,30.6034482758621,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GQ,Equatorial Guinea,GNQ,30.6291390728477,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GQ,Equatorial Guinea,GNQ,30.6949806949807,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GQ,Equatorial Guinea,GNQ,30.5429864253394,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GQ,Equatorial Guinea,GNQ,32.620320855615,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ER,Eritrea,ERI,38.477518919721,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ER,Eritrea,ERI,39.4356383905243,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ER,Eritrea,ERI,40.1730531520396,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ER,Eritrea,ERI,40.761421319797,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ER,Eritrea,ERI,41.150572351042,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ER,Eritrea,ERI,41.6131989000917,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EE,Estonia,EST,15.9375,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EE,Estonia,EST,15.5504234026174,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EE,Estonia,EST,15.2452830188679,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EE,Estonia,EST,14.7985347985348,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EE,Estonia,EST,14.2358688066992,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",EE,Estonia,EST,13.8019169329073,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SZ,Eswatini,SWZ,38.7247278382582,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SZ,Eswatini,SWZ,38.358458961474,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SZ,Eswatini,SWZ,37.6470588235294,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SZ,Eswatini,SWZ,36.9360902255639,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SZ,Eswatini,SWZ,36.2033195020747,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SZ,Eswatini,SWZ,35.614849187935,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ET,Ethiopia,ETH,40.3751692910998,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ET,Ethiopia,ETH,41.4363625925713,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ET,Ethiopia,ETH,42.2014494275811,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ET,Ethiopia,ETH,42.6277925028398,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ET,Ethiopia,ETH,43.2484567901235,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ET,Ethiopia,ETH,43.8033387452646,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FJ,Fiji,FJI,23.8789237668161,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FJ,Fiji,FJI,24.8837209302326,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FJ,Fiji,FJI,25.9124087591241,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FJ,Fiji,FJI,26.8472906403941,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FJ,Fiji,FJI,28,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FJ,Fiji,FJI,29.9450549450549,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FI,Finland,FIN,7.94726240615272,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FI,Finland,FIN,8.27123695976155,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FI,Finland,FIN,8.59702630575677,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FI,Finland,FIN,8.96271972184663,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FI,Finland,FIN,9.5713446858485,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FI,Finland,FIN,10.3469019450571,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FR,France,FRA,10.2566864670216,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FR,France,FRA,10.8222232765574,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FR,France,FRA,11.4118317194239,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FR,France,FRA,12.0545816867633,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FR,France,FRA,12.5206868018204,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FR,France,FRA,12.9281379189023,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PF,French Polynesia,PYF,22.6148409893993,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PF,French Polynesia,PYF,22.3880597014925,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PF,French Polynesia,PYF,22.3529411764706,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PF,French Polynesia,PYF,22.7848101265823,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PF,French Polynesia,PYF,22.6851851851852,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PF,French Polynesia,PYF,22.1105527638191,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GA,Gabon,GAB,6.27853881278539,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GA,Gabon,GAB,7.00064226075787,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GA,Gabon,GAB,8.04347826086956,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GA,Gabon,GAB,9.63265306122449,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GA,Gabon,GAB,11.840888066605,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GA,Gabon,GAB,14.7835269271383,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GM,"Gambia, The",GMB,19.6038598273235,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GM,"Gambia, The",GMB,21.2373587150506,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GM,"Gambia, The",GMB,23.205574912892,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GM,"Gambia, The",GMB,25.2237591537836,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GM,"Gambia, The",GMB,27.6995305164319,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GM,"Gambia, The",GMB,30.4585152838428,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GE,Georgia,GEO,22.5087108013937,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GE,Georgia,GEO,22.8753702437913,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GE,Georgia,GEO,23.0837988826816,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GE,Georgia,GEO,22.8336495888678,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GE,Georgia,GEO,22.2814288533649,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GE,Georgia,GEO,21.7216117216117,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DE,Germany,DEU,12.6389864586614,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DE,Germany,DEU,13.1045448522592,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DE,Germany,DEU,13.5301485059939,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DE,Germany,DEU,13.6076252514609,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DE,Germany,DEU,13.4184035503386,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",DE,Germany,DEU,13.2988768512076,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GH,Ghana,GHA,23.1758384287567,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GH,Ghana,GHA,24.7712472178716,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GH,Ghana,GHA,26.5806210250655,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GH,Ghana,GHA,28.5486612834679,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GH,Ghana,GHA,30.4695423900722,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GH,Ghana,GHA,32.4560803882699,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GR,Greece,GRC,11.1900053927737,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GR,Greece,GRC,12.0622918354487,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GR,Greece,GRC,13.0151254415361,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GR,Greece,GRC,13.9177134534863,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GR,Greece,GRC,14.1786149376816,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GR,Greece,GRC,14.4670800118099,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GD,Grenada,GRD,32.7102803738318,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GD,Grenada,GRD,32.6923076923077,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GD,Grenada,GRD,32.0388349514563,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GD,Grenada,GRD,32.0388349514563,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GD,Grenada,GRD,32.6732673267327,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GD,Grenada,GRD,32.9896907216495,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GU,Guam,GUM,2.94117647058824,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GU,Guam,GUM,3.125,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GU,Guam,GUM,3.14465408805031,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GU,Guam,GUM,3.2258064516129,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GU,Guam,GUM,4.10958904109589,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GU,Guam,GUM,4.61538461538462,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GT,Guatemala,GTM,23.96185788988,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GT,Guatemala,GTM,25.0034862641194,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GT,Guatemala,GTM,26.0509503904093,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GT,Guatemala,GTM,27.2581220992503,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GT,Guatemala,GTM,28.6386857658019,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GT,Guatemala,GTM,30.1124859392576,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GN,Guinea,GIN,31.1386459345643,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GN,Guinea,GIN,32.3004781169548,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GN,Guinea,GIN,33.2985277226689,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GN,Guinea,GIN,34.0841527555454,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GN,Guinea,GIN,34.719918336098,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GN,Guinea,GIN,35.3322259136213,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GW,Guinea-Bissau,GNB,24.7203579418345,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GW,Guinea-Bissau,GNB,26.796973518285,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GW,Guinea-Bissau,GNB,28.9936664320901,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GW,Guinea-Bissau,GNB,31.0290652003142,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GW,Guinea-Bissau,GNB,33.0701754385965,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GW,Guinea-Bissau,GNB,35.3634577603143,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GY,Guyana,GUY,36.3861386138614,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GY,Guyana,GUY,36.5946632782719,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GY,Guyana,GUY,36.1842105263158,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GY,Guyana,GUY,35.8870967741936,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GY,Guyana,GUY,35.3909465020576,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GY,Guyana,GUY,34.8484848484849,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HT,Haiti,HTI,20.9469018202396,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HT,Haiti,HTI,24.3103970900273,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HT,Haiti,HTI,28.4927661412222,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HT,Haiti,HTI,32.8359948711971,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HT,Haiti,HTI,34.6644552181679,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HT,Haiti,HTI,36.3572433192686,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HN,Honduras,HND,23.4093067426401,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HN,Honduras,HND,24.9179897651227,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HN,Honduras,HND,26.4714409973905,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HN,Honduras,HND,28.0628608082104,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HN,Honduras,HND,29.3149704882847,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HN,Honduras,HND,30.5464926590538,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HK,"Hong Kong SAR, China",HKG,0,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HK,"Hong Kong SAR, China",HKG,0,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HK,"Hong Kong SAR, China",HKG,0,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HK,"Hong Kong SAR, China",HKG,0,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HK,"Hong Kong SAR, China",HKG,0,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HK,"Hong Kong SAR, China",HKG,0.258888505350362,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HU,Hungary,HUN,14.0565085771948,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HU,Hungary,HUN,15.2087078090673,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HU,Hungary,HUN,16.3728209191759,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HU,Hungary,HUN,17.2828638497653,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HU,Hungary,HUN,17.0095624456679,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",HU,Hungary,HUN,16.6779008184882,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IS,Iceland,ISL,3.26409495548961,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IS,Iceland,ISL,3.45911949685535,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IS,Iceland,ISL,3.71621621621622,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IS,Iceland,ISL,3.92857142857143,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IS,Iceland,ISL,4.49438202247191,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IS,Iceland,ISL,5.09803921568627,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IN,India,IND,34.4367937990783,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IN,India,IND,35.4332400207361,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IN,India,IND,36.3736133093908,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IN,India,IND,37.2304058196555,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IN,India,IND,37.7959288724467,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IN,India,IND,38.3588256281002,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ID,Indonesia,IDN,23.4833345717202,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ID,Indonesia,IDN,25.501919593146,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ID,Indonesia,IDN,27.4112285672284,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ID,Indonesia,IDN,29.2310195798774,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ID,Indonesia,IDN,32.1752390372568,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ID,Indonesia,IDN,34.9000464639792,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,13.3875209180014,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,14.8892738675584,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,16.411506443152,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,18.0604442286685,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,20.0631728654352,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IR,"Iran, Islamic Rep.",IRN,22.1922571945637,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IQ,Iraq,IRQ,15.3329978191579,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IQ,Iraq,IRQ,15.5803888637685,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IQ,Iraq,IRQ,15.7243041858426,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IQ,Iraq,IRQ,15.8018570648292,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IQ,Iraq,IRQ,15.5527181652998,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IQ,Iraq,IRQ,14.9332115538303,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IE,Ireland,IRL,18.722233975037,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IE,Ireland,IRL,19.3866129393329,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IE,Ireland,IRL,20.2309357709887,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IE,Ireland,IRL,20.9516298633018,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IE,Ireland,IRL,21.6620498614958,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IE,Ireland,IRL,22.2316624185783,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IL,Israel,ISR,4.0156585427453,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IL,Israel,ISR,4.16385931815119,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IL,Israel,ISR,4.33070866141732,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IL,Israel,ISR,4.52278017958098,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IL,Israel,ISR,4.72706809229038,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IL,Israel,ISR,5.02333851967104,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IT,Italy,ITA,15.4476464623336,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IT,Italy,ITA,15.7249334809698,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IT,Italy,ITA,16.0090672029724,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IT,Italy,ITA,16.1987154739761,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IT,Italy,ITA,16.3477741890184,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",IT,Italy,ITA,16.4572775900901,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JM,Jamaica,JAM,22.956645344705,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JM,Jamaica,JAM,23.4950747902225,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JM,Jamaica,JAM,23.8166231830041,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JM,Jamaica,JAM,24.6320681642138,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JM,Jamaica,JAM,25.182778229082,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JM,Jamaica,JAM,25.6973795435334,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JP,Japan,JPN,3.14069658331953,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JP,Japan,JPN,4.59431658461128,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JP,Japan,JPN,6.78379889588042,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JP,Japan,JPN,10.3416457861035,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JP,Japan,JPN,10.6584834877051,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JP,Japan,JPN,10.9915908644722,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JO,Jordan,JOR,8.33550065019506,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JO,Jordan,JOR,8.98389095415118,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JO,Jordan,JOR,9.69465648854962,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JO,Jordan,JOR,10.5517096706524,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JO,Jordan,JOR,11.432538764175,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",JO,Jordan,JOR,14.1411134266151,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KZ,Kazakhstan,KAZ,23.331942042812,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KZ,Kazakhstan,KAZ,23.1204070096099,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KZ,Kazakhstan,KAZ,22.6168348380244,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KZ,Kazakhstan,KAZ,22.0362239297475,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KZ,Kazakhstan,KAZ,21.8778135048232,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KZ,Kazakhstan,KAZ,21.6979965372248,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KE,Kenya,KEN,36.8457079295814,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KE,Kenya,KEN,37.9403065340145,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KE,Kenya,KEN,38.9342200860672,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KE,Kenya,KEN,39.7922326993767,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KE,Kenya,KEN,40.6120067109198,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KE,Kenya,KEN,41.3869578197637,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KI,Kiribati,KIR,28.3018867924528,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KI,Kiribati,KIR,28.5714285714286,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KI,Kiribati,KIR,28.8888888888889,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KI,Kiribati,KIR,29.2682926829268,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KI,Kiribati,KIR,32.4675324675325,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KI,Kiribati,KIR,32.3943661971831,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,18.8630490956072,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,19.1461572997021,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,19.3095918024525,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,19.4614711033275,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,19.6434315121996,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KP,"Korea, Dem. People's Rep.",PRK,19.8969991086461,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KR,"Korea, Rep.",KOR,8.61507537688442,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KR,"Korea, Rep.",KOR,8.90553732483025,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KR,"Korea, Rep.",KOR,9.25945612654944,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KR,"Korea, Rep.",KOR,10.1463775365944,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KR,"Korea, Rep.",KOR,10.8209790836207,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KR,"Korea, Rep.",KOR,13.1294796611747,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KW,Kuwait,KWT,0.9765625,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KW,Kuwait,KWT,1.03609625668449,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KW,Kuwait,KWT,1.04575163398693,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KW,Kuwait,KWT,1.10178384050367,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KW,Kuwait,KWT,1.13493064312736,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KW,Kuwait,KWT,1.06796116504854,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KG,Kyrgyz Republic,KGZ,32.4632095304835,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KG,Kyrgyz Republic,KGZ,32.4521934758155,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KG,Kyrgyz Republic,KGZ,32.5664418881396,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KG,Kyrgyz Republic,KGZ,32.4924318869829,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KG,Kyrgyz Republic,KGZ,31.7726480836237,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",KG,Kyrgyz Republic,KGZ,30.9599636032757,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LA,Lao PDR,LAO,30.4273504273504,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LA,Lao PDR,LAO,33.0988117573483,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LA,Lao PDR,LAO,35.8549222797927,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LA,Lao PDR,LAO,38.8383744665058,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LA,Lao PDR,LAO,41.1535303776683,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LA,Lao PDR,LAO,42.2478793590952,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LV,Latvia,LVA,15.7065484982767,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LV,Latvia,LVA,15.5980861244019,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LV,Latvia,LVA,15.4398563734291,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LV,Latvia,LVA,15.2678194854492,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LV,Latvia,LVA,14.7969441093687,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LV,Latvia,LVA,14.6075854299662,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LB,Lebanon,LBN,6.11517910152385,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LB,Lebanon,LBN,6.45161290322581,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LB,Lebanon,LBN,6.74692751442187,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LB,Lebanon,LBN,6.89335394126739,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LB,Lebanon,LBN,7.48187211601846,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LB,Lebanon,LBN,8.28708842027377,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LS,Lesotho,LSO,36.6509433962264,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LS,Lesotho,LSO,37.5808860129418,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LS,Lesotho,LSO,38.4735202492212,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LS,Lesotho,LSO,39.5148247978437,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LS,Lesotho,LSO,41.1294922989161,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LS,Lesotho,LSO,42.1777221526909,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LR,Liberia,LBR,24.8945147679325,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LR,Liberia,LBR,25.8211217786761,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LR,Liberia,LBR,26.6360856269113,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LR,Liberia,LBR,27.4204702627939,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LR,Liberia,LBR,26.4903846153846,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LR,Liberia,LBR,22.0161673799334,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LY,Libya,LBY,10.4796580655374,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LY,Libya,LBY,11.2564145009104,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LY,Libya,LBY,11.7783735478105,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LY,Libya,LBY,12.304423411242,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LY,Libya,LBY,12.6606277649042,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LY,Libya,LBY,12.9107981220657,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LT,Lithuania,LTU,15.9053017672558,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LT,Lithuania,LTU,16.0638644509612,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LT,Lithuania,LTU,16.1192214111922,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LT,Lithuania,LTU,15.6901971991998,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LT,Lithuania,LTU,15.5457552370452,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LT,Lithuania,LTU,15.4720043278334,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LU,Luxembourg,LUX,5.14705882352941,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LU,Luxembourg,LUX,5.91715976331361,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LU,Luxembourg,LUX,6.76855895196507,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LU,Luxembourg,LUX,8.0091533180778,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LU,Luxembourg,LUX,8.5995085995086,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LU,Luxembourg,LUX,9.68586387434555,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MO,"Macao SAR, China",MAC,0,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MG,Madagascar,MDG,32.6456510975408,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MG,Madagascar,MDG,34.1714502585512,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MG,Madagascar,MDG,35.6806998359759,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MG,Madagascar,MDG,36.5068275643061,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MG,Madagascar,MDG,37.1989295272079,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MG,Madagascar,MDG,38.3682660661701,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MW,Malawi,MWI,41.6546305390259,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MW,Malawi,MWI,41.9275343013188,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MW,Malawi,MWI,41.9993809965955,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MW,Malawi,MWI,41.9978802331743,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MW,Malawi,MWI,42.2980431510286,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MW,Malawi,MWI,42.9871917010691,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MY,Malaysia,MYS,12.488988940002,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MY,Malaysia,MYS,14.3519009725906,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MY,Malaysia,MYS,16.6769849868441,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MY,Malaysia,MYS,19.4363791631085,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MY,Malaysia,MYS,22.6441495778046,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MY,Malaysia,MYS,25.6493328208226,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MV,Maldives,MDV,27.4509803921569,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MV,Maldives,MDV,30.4615384615385,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MV,Maldives,MDV,33.6700336700337,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MV,Maldives,MDV,36.6300366300366,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MV,Maldives,MDV,37.1428571428571,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MV,Maldives,MDV,37.5,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ML,Mali,MLI,29.9034380958239,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ML,Mali,MLI,31.8484090096532,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ML,Mali,MLI,33.7772194304858,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ML,Mali,MLI,35.5068226120858,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ML,Mali,MLI,36.7671598620536,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ML,Mali,MLI,37.715003138732,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MT,Malta,MLT,2.32018561484919,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MT,Malta,MLT,2.59433962264151,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MT,Malta,MLT,3.14009661835749,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MT,Malta,MLT,3.68550368550369,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MT,Malta,MLT,4.30379746835443,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MT,Malta,MLT,4.53333333333333,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MR,Mauritania,MRT,19.8529411764706,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MR,Mauritania,MRT,21.4681440443213,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MR,Mauritania,MRT,23.2284715602161,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MR,Mauritania,MRT,24.9261447562777,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MR,Mauritania,MRT,26.9065981148243,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MR,Mauritania,MRT,28.8537549407115,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MU,Mauritius,MUS,29.8245614035088,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MU,Mauritius,MUS,29.4882209585703,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MU,Mauritius,MUS,29.0189612530915,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MU,Mauritius,MUS,28.5232067510549,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MU,Mauritius,MUS,28.4070796460177,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MU,Mauritius,MUS,28.0983916745506,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MX,Mexico,MEX,10.2215018045929,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MX,Mexico,MEX,10.888485485978,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MX,Mexico,MEX,11.5495069176029,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MX,Mexico,MEX,12.4477732637619,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MX,Mexico,MEX,13.20026836632,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MX,Mexico,MEX,14.489352556432,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,40,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,39.8058252427184,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,39.2523364485981,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,39.2523364485981,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,38.3177570093458,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",FM,"Micronesia, Fed. Sts.",FSM,38.1443298969072,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MD,Moldova,MDA,26.4842840512224,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MD,Moldova,MDA,26.5883011474951,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MD,Moldova,MDA,26.3004246284501,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MD,Moldova,MDA,25.6572541382668,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MD,Moldova,MDA,25.5186721991701,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MD,Moldova,MDA,25.2062328139322,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MN,Mongolia,MNG,14.4664842681259,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MN,Mongolia,MNG,16.8448212311095,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MN,Mongolia,MNG,19.2794932699921,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MN,Mongolia,MNG,21.8098415346122,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MN,Mongolia,MNG,21.8110579016108,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MN,Mongolia,MNG,21.6117216117216,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ME,Montenegro,MNE,18.1672025723473,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ME,Montenegro,MNE,18.6795491143317,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ME,Montenegro,MNE,18.9935064935065,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ME,Montenegro,MNE,20.7855973813421,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ME,Montenegro,MNE,23.5772357723577,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ME,Montenegro,MNE,26.0586319218241,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MA,Morocco,MAR,19.8886729104082,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MA,Morocco,MAR,20.9683026261732,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MA,Morocco,MAR,22.3004149377593,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MA,Morocco,MAR,23.239289446186,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MA,Morocco,MAR,24.0822867364812,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MA,Morocco,MAR,25.7912867274569,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MZ,Mozambique,MOZ,32.818376225942004,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MZ,Mozambique,MOZ,33.262402470063,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MZ,Mozambique,MOZ,33.5014992146971,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MZ,Mozambique,MOZ,33.6616327423944,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MZ,Mozambique,MOZ,34.1280270321006,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MZ,Mozambique,MOZ,35.1857311320755,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MM,Myanmar,MMR,31.9880363340964,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MM,Myanmar,MMR,33.2614430686873,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MM,Myanmar,MMR,34.5854922279793,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MM,Myanmar,MMR,35.7356613625575,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MM,Myanmar,MMR,36.4041473637768,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MM,Myanmar,MMR,36.8682192626356,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NA,Namibia,NAM,25.2926421404682,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NA,Namibia,NAM,27.8568150527765,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NA,Namibia,NAM,30.5226824457594,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NA,Namibia,NAM,32.8413284132841,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NA,Namibia,NAM,33.9177750906892,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NA,Namibia,NAM,34.7703180212014,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NP,Nepal,NPL,38.7877083186836,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NP,Nepal,NPL,40.1661327572078,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NP,Nepal,NPL,41.6439331040209,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NP,Nepal,NPL,42.8811731723097,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NP,Nepal,NPL,46.0339048914363,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NP,Nepal,NPL,45.5719964664311,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NL,Netherlands,NLD,4.76699317304838,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NL,Netherlands,NLD,6.47568608570053,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NL,Netherlands,NLD,8.69165184321904,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NL,Netherlands,NLD,11.6211614855918,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NL,Netherlands,NLD,13.6325312925611,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NL,Netherlands,NLD,15.9167226326394,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NC,New Caledonia,NCL,15.2091254752852,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NC,New Caledonia,NCL,16.6666666666667,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NC,New Caledonia,NCL,18.4210526315789,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NC,New Caledonia,NCL,19.5238095238095,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NC,New Caledonia,NCL,20.5263157894737,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NC,New Caledonia,NCL,20.8333333333333,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NZ,New Zealand,NZL,7.02785030461271,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NZ,New Zealand,NZL,7.0970695970696,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NZ,New Zealand,NZL,7.1584038694075,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NZ,New Zealand,NZL,7.41316744427164,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NZ,New Zealand,NZL,7.6734693877551,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NZ,New Zealand,NZL,8.03177405119153,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NI,Nicaragua,NIC,21.195652173913,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NI,Nicaragua,NIC,21.9474497681607,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NI,Nicaragua,NIC,22.8005865102639,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NI,Nicaragua,NIC,23.3679670652813,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NI,Nicaragua,NIC,24.0557939914163,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NI,Nicaragua,NIC,24.8247522359197,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NE,Niger,NER,40.9600415153088,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NE,Niger,NER,41.4585037437866,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NE,Niger,NER,41.7324029126214,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NE,Niger,NER,41.8562329390355,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NE,Niger,NER,41.6166684847824,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NE,Niger,NER,41.4882641217436,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NG,Nigeria,NGA,25.9737146095334,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NG,Nigeria,NGA,28.1620206877552,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NG,Nigeria,NGA,30.3941656040004,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NG,Nigeria,NGA,32.5366016422927,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NG,Nigeria,NGA,33.8519714088079,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NG,Nigeria,NGA,35.1349655396007,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MK,North Macedonia,MKD,21.6793168880455,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MK,North Macedonia,MKD,21.7887725975262,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MK,North Macedonia,MKD,21.5311004784689,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MK,North Macedonia,MKD,21.0910862152947,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MK,North Macedonia,MKD,20.4880528723945,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",MK,North Macedonia,MKD,21.5032354405177,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NO,Norway,NOR,10.1691619677231,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NO,Norway,NOR,10.8362298098548,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NO,Norway,NOR,11.5725719229937,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NO,Norway,NOR,12.268982409263,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NO,Norway,NOR,13.4403669724771,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",NO,Norway,NOR,14.3598207969818,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OM,Oman,OMN,14.1173641173641,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OM,Oman,OMN,14.1226818830243,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OM,Oman,OMN,14.9762282091918,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OM,Oman,OMN,15.4126766985864,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OM,Oman,OMN,16.1559888579387,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",OM,Oman,OMN,18.2219768083932,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PK,Pakistan,PAK,31.3385952324005,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PK,Pakistan,PAK,32.4547066399459,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PK,Pakistan,PAK,33.5055168353685,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PK,Pakistan,PAK,34.2239557261249,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PK,Pakistan,PAK,34.6778331188975,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PK,Pakistan,PAK,35.6284487492236,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PA,Panama,PAN,17.4523570712136,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PA,Panama,PAN,18.189233278956,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PA,Panama,PAN,19.0433749257279,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PA,Panama,PAN,19.9018003273322,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PA,Panama,PAN,22.0892274211099,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PA,Panama,PAN,24.4069159630076,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PG,Papua New Guinea,PNG,43.9800864666579,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PG,Papua New Guinea,PNG,43.98600379064,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PG,Papua New Guinea,PNG,43.9304461942257,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PG,Papua New Guinea,PNG,43.8929168990519,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PG,Papua New Guinea,PNG,43.4478371501272,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PG,Papua New Guinea,PNG,43.0735930735931,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PY,Paraguay,PRY,21.2995876581829,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PY,Paraguay,PRY,21.9228982814677,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PY,Paraguay,PRY,22.5609756097561,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PY,Paraguay,PRY,23.6261682242991,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PY,Paraguay,PRY,25.2186588921283,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PY,Paraguay,PRY,26.8769122146387,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PE,Peru,PER,11.1613876319759,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PE,Peru,PER,12.0113449972663,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PE,Peru,PER,12.912999567162,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PE,Peru,PER,13.8461538461538,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PE,Peru,PER,14.8502443711099,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PE,Peru,PER,15.8919713393349,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PH,Philippines,PHL,28.2378711825781,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PH,Philippines,PHL,27.8316424810582,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PH,Philippines,PHL,27.2276016359632,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PH,Philippines,PHL,26.6071704527894,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PH,Philippines,PHL,26.4761658477717,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PH,Philippines,PHL,26.3624330083296,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PL,Poland,POL,19.6143582230129,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PL,Poland,POL,19.4586245713239,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PL,Poland,POL,19.1907030309375,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PL,Poland,POL,19.0889653733834,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PL,Poland,POL,19.222972972973,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PL,Poland,POL,19.3284579696469,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PT,Portugal,PRT,17.9547596606975,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PT,Portugal,PRT,19.3502691472283,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PT,Portugal,PRT,20.8182683158896,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PT,Portugal,PRT,22.2588783233068,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PT,Portugal,PRT,23.8387639893038,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PT,Portugal,PRT,25.3838383838384,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PR,Puerto Rico,PRI,3.18021201413428,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PR,Puerto Rico,PRI,3.07277628032345,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PR,Puerto Rico,PRI,2.95055821371611,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PR,Puerto Rico,PRI,2.81801422175402,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PR,Puerto Rico,PRI,3.17073170731707,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PR,Puerto Rico,PRI,3.58056265984655,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",QA,Qatar,QAT,0.553191489361702,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",QA,Qatar,QAT,1.02798400913764,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",QA,Qatar,QAT,1.70523751522533,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",QA,Qatar,QAT,2.36087689713322,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",QA,Qatar,QAT,3.1936127744511,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",QA,Qatar,QAT,4.81171548117155,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RO,Romania,ROU,22.6377496640252,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RO,Romania,ROU,23.0273089062714,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RO,Romania,ROU,23.3301677746122,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RO,Romania,ROU,23.3016213319041,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RO,Romania,ROU,22.9620275213377,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RO,Romania,ROU,23.1986992983057,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RU,Russian Federation,RUS,12.3696322256471,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RU,Russian Federation,RUS,12.5569218343105,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RU,Russian Federation,RUS,12.6294873309109,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RU,Russian Federation,RUS,12.6686380856341,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RU,Russian Federation,RUS,12.5947160872667,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RU,Russian Federation,RUS,12.5211780032265,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RW,Rwanda,RWA,33.1000080456996,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RW,Rwanda,RWA,35.7142857142857,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RW,Rwanda,RWA,38.2118994591155,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RW,Rwanda,RWA,40.5122096486004,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RW,Rwanda,RWA,43.2279710400848,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RW,Rwanda,RWA,46.2785862785863,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",WS,Samoa,WSM,41.7525773195876,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",WS,Samoa,WSM,41.3978494623656,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",WS,Samoa,WSM,40.7821229050279,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",WS,Samoa,WSM,40.8045977011494,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",WS,Samoa,WSM,40.5882352941176,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",WS,Samoa,WSM,41.1042944785276,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ST,Sao Tome and Principe,STP,17.7339901477833,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ST,Sao Tome and Principe,STP,18.9944134078212,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ST,Sao Tome and Principe,STP,21.4285714285714,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ST,Sao Tome and Principe,STP,23.5714285714286,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ST,Sao Tome and Principe,STP,25.9541984732824,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ST,Sao Tome and Principe,STP,28.2051282051282,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SA,Saudi Arabia,SAU,9.66954311325172,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SA,Saudi Arabia,SAU,9.97138454765573,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SA,Saudi Arabia,SAU,10.4576751721345,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SA,Saudi Arabia,SAU,10.7128673550437,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SA,Saudi Arabia,SAU,11.7574190768568,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SA,Saudi Arabia,SAU,12.9396519807479,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SN,Senegal,SEN,27.5988776055585,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SN,Senegal,SEN,28.2625482625483,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SN,Senegal,SEN,28.8705527459853,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SN,Senegal,SEN,29.2131413506388,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SN,Senegal,SEN,29.8209366391185,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SN,Senegal,SEN,30.2635081181794,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RS,Serbia,SRB,22.3365874363328,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RS,Serbia,SRB,22.5044055146678,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RS,Serbia,SRB,22.7802330253114,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RS,Serbia,SRB,23.4984911904994,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RS,Serbia,SRB,24.2313253012048,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",RS,Serbia,SRB,25.0231124807396,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SC,Seychelles,SYC,23.1578947368421,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SC,Seychelles,SYC,23.9130434782609,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SC,Seychelles,SYC,24.1379310344828,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SC,Seychelles,SYC,25,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SC,Seychelles,SYC,25,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SC,Seychelles,SYC,24.2857142857143,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SL,Sierra Leone,SLE,29.3242601677481,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SL,Sierra Leone,SLE,30.1286509040334,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SL,Sierra Leone,SLE,30.78125,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SL,Sierra Leone,SLE,31.3768115942029,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SL,Sierra Leone,SLE,32.009167303285,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SL,Sierra Leone,SLE,32.6490230027208,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SG,Singapore,SGP,0,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SG,Singapore,SGP,0,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SG,Singapore,SGP,0,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SG,Singapore,SGP,0,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SG,Singapore,SGP,0,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SG,Singapore,SGP,0,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SK,Slovak Republic,SVK,22.9021619640894,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SK,Slovak Republic,SVK,22.3449291367569,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SK,Slovak Republic,SVK,21.8512335373771,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SK,Slovak Republic,SVK,21.5478841870824,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SK,Slovak Republic,SVK,21.4578672632364,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SK,Slovak Republic,SVK,21.5273829827554,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SI,Slovenia,SVN,25.3846153846154,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SI,Slovenia,SVN,25.1217137293087,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SI,Slovenia,SVN,24.7,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SI,Slovenia,SVN,24.4343891402715,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SI,Slovenia,SVN,24.3473895582329,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SI,Slovenia,SVN,24.4510978043912,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SB,Solomon Islands,SLB,39.3162393162393,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SB,Solomon Islands,SLB,40.4174573055028,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SB,Solomon Islands,SLB,41.9148936170213,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SB,Solomon Islands,SLB,43.0992736077482,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SB,Solomon Islands,SLB,43.854748603352,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SB,Solomon Islands,SLB,44.2307692307692,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,29.8840240942192,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,30.9879618098796,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,31.9792158715163,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,32.8730029786082,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,33.7693034982666,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SO,"Somalia, Fed. Rep.",SOM,34.5618475166087,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZA,South Africa,ZAF,16.5463994616017,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZA,South Africa,ZAF,17.7738474694861,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZA,South Africa,ZAF,19.1641097935152,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZA,South Africa,ZAF,20.6011550382411,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZA,South Africa,ZAF,21.9572249312026,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZA,South Africa,ZAF,23.2571413040524,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SS,South Sudan,SSD,40.5167448366658,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SS,South Sudan,SSD,40.9415551755357,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SS,South Sudan,SSD,41.2115934817763,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SS,South Sudan,SSD,41.4549827145649,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SS,South Sudan,SSD,41.7372101582628,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SS,South Sudan,SSD,42.9835212489159,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ES,Spain,ESP,10.3622881355932,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ES,Spain,ESP,10.9176735524663,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ES,Spain,ESP,11.4732184014013,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ES,Spain,ESP,11.9008018270735,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ES,Spain,ESP,12.0849293523756,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ES,Spain,ESP,12.3292955790448,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LK,Sri Lanka,LKA,39.6538959837128,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LK,Sri Lanka,LKA,39.9123229598227,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LK,Sri Lanka,LKA,40.2987318931382,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LK,Sri Lanka,LKA,40.4892025256009,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LK,Sri Lanka,LKA,40.752110514198,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LK,Sri Lanka,LKA,40.9340183570975,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LC,St. Lucia,LCA,39.7849462365591,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LC,St. Lucia,LCA,40.1129943502825,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LC,St. Lucia,LCA,37.5757575757576,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LC,St. Lucia,LCA,35.6687898089172,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LC,St. Lucia,LCA,35.1351351351351,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",LC,St. Lucia,LCA,34.5323741007194,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,25.6880733944954,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,26.3636363636364,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,27.5229357798165,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,27.7777777777778,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,28.7037037037037,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VC,St. Vincent and the Grenadines,VCT,29.6296296296296,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SD,Sudan,SDN,33.3568940273641,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SD,Sudan,SDN,33.7260181756984,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SD,Sudan,SDN,33.8726017856012,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SD,Sudan,SDN,33.9451857194374,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SD,Sudan,SDN,34.0372620163888,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SD,Sudan,SDN,35.8638612624319,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SR,Suriname,SUR,17.304189435337,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SR,Suriname,SUR,17.1428571428571,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SR,Suriname,SUR,17,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SR,Suriname,SUR,17.1306209850107,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SR,Suriname,SUR,17.4311926605505,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SR,Suriname,SUR,17.6904176904177,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SE,Sweden,SWE,7.55106251289457,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SE,Sweden,SWE,7.93989129276351,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SE,Sweden,SWE,8.28349944629014,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SE,Sweden,SWE,8.40847610459874,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SE,Sweden,SWE,8.49665798119406,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SE,Sweden,SWE,8.87954200257039,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CH,Switzerland,CHE,14.3221264716592,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CH,Switzerland,CHE,14.4572158365262,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CH,Switzerland,CHE,14.4843412526998,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CH,Switzerland,CHE,14.5289602233077,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CH,Switzerland,CHE,14.3366110873593,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",CH,Switzerland,CHE,13.4122583545632,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SY,Syrian Arab Republic,SYR,21.4147765551314,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SY,Syrian Arab Republic,SYR,22.4781720230355,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SY,Syrian Arab Republic,SYR,23.5536962624539,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SY,Syrian Arab Republic,SYR,24.2624152464724,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SY,Syrian Arab Republic,SYR,25.1569256521133,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",SY,Syrian Arab Republic,SYR,25.7248413782026,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TJ,Tajikistan,TJK,36.7204738125653,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TJ,Tajikistan,TJK,36.9559517566859,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TJ,Tajikistan,TJK,36.9820746400235,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TJ,Tajikistan,TJK,36.9382476559974,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TJ,Tajikistan,TJK,35.7192254495159,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TJ,Tajikistan,TJK,34.1827104567761,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TZ,Tanzania,TZA,34.2735843644222,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TZ,Tanzania,TZA,35.9830124071686,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TZ,Tanzania,TZA,37.5386358953225,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TZ,Tanzania,TZA,38.6849298962406,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TZ,Tanzania,TZA,39.4590081816664,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TZ,Tanzania,TZA,40.2213153351122,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TH,Thailand,THA,24.4970326409496,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TH,Thailand,THA,27.6618174151381,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TH,Thailand,THA,31.1089078706528,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TH,Thailand,THA,33.978153120639,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TH,Thailand,THA,34.9433744744337,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TH,Thailand,THA,35.2968205998268,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TL,Timor-Leste,TLS,34.3563512361466,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TL,Timor-Leste,TLS,35.9592215013902,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TL,Timor-Leste,TLS,37.6506024096386,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TL,Timor-Leste,TLS,38.7587822014052,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TL,Timor-Leste,TLS,39.677047289504,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TL,Timor-Leste,TLS,40.745672436751,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TG,Togo,TGO,29.2247629670943,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TG,Togo,TGO,30.3947994292056,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TG,Togo,TGO,31.4744630933045,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TG,Togo,TGO,32.5179856115108,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TG,Togo,TGO,33.5901027077498,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TG,Togo,TGO,34.9788806758184,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TO,Tonga,TON,38.3177570093458,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TO,Tonga,TON,38.4615384615385,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TO,Tonga,TON,38.2352941176471,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TO,Tonga,TON,39.7959183673469,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TO,Tonga,TON,39.5833333333333,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TO,Tonga,TON,38.9473684210526,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TT,Trinidad and Tobago,TTO,45.3194650817236,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TT,Trinidad and Tobago,TTO,45.0301204819277,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TT,Trinidad and Tobago,TTO,44.7530864197531,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TT,Trinidad and Tobago,TTO,44.5146014206788,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TT,Trinidad and Tobago,TTO,45.0996015936255,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TT,Trinidad and Tobago,TTO,45.6255110384301,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TN,Tunisia,TUN,16.3061860258122,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TN,Tunisia,TUN,16.8077501881114,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TN,Tunisia,TUN,17.2983189097782,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TN,Tunisia,TUN,18.2370184254606,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TN,Tunisia,TUN,19.294143843242,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TN,Tunisia,TUN,21.1309157959435,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TR,Turkiye,TUR,12.9154659608037,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TR,Turkiye,TUR,14.2324433724251,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TR,Turkiye,TUR,15.6786041156151,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TR,Turkiye,TUR,17.1776810447171,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TR,Turkiye,TUR,18.4716858617272,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TR,Turkiye,TUR,19.9259190665802,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TM,Turkmenistan,TKM,24.6185336806848,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TM,Turkmenistan,TKM,25.4314620115057,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TM,Turkmenistan,TKM,26.1373209772536,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TM,Turkmenistan,TKM,26.7273939124639,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TM,Turkmenistan,TKM,27.2683858643744,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",TM,Turkmenistan,TKM,27.0918506405015,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UG,Uganda,UGA,42.0716972671334,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UG,Uganda,UGA,42.8705937739069,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UG,Uganda,UGA,43.5319919236928,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UG,Uganda,UGA,43.8993244356566,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UG,Uganda,UGA,44.0019286403086,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UG,Uganda,UGA,44.2486455660108,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UA,Ukraine,UKR,14.124445639027,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UA,Ukraine,UKR,14.6406080347448,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UA,Ukraine,UKR,15.0033944331297,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UA,Ukraine,UKR,15.1558391259148,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UA,Ukraine,UKR,15.1266911707203,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UA,Ukraine,UKR,15.1125650903037,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AE,United Arab Emirates,ARE,9.8976821883483,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AE,United Arab Emirates,ARE,11.0992655768775,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AE,United Arab Emirates,ARE,11.882381296698,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AE,United Arab Emirates,ARE,13.1196298744217,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AE,United Arab Emirates,ARE,14.1577825159915,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",AE,United Arab Emirates,ARE,13.5105204872647,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GB,United Kingdom,GBR,8.71029384123802,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GB,United Kingdom,GBR,9.32540641564761,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GB,United Kingdom,GBR,9.97163755784445,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GB,United Kingdom,GBR,10.544350392699,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GB,United Kingdom,GBR,10.6660689346001,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",GB,United Kingdom,GBR,10.7718390603698,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",US,United States,USA,9.31789731397269,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",US,United States,USA,9.72374345868322,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",US,United States,USA,10.1346229952443,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",US,United States,USA,10.5564047154729,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",US,United States,USA,11.4300530892892,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",US,United States,USA,12.376083958398,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UY,Uruguay,URY,2.6530612244898,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UY,Uruguay,URY,3.14446751705725,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UY,Uruguay,URY,3.78947368421053,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UY,Uruguay,URY,4.57693465823547,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UY,Uruguay,URY,5.3953488372093,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UY,Uruguay,URY,6.33440514469453,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UZ,Uzbekistan,UZB,31.8422026995187,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UZ,Uzbekistan,UZB,31.9240880118117,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UZ,Uzbekistan,UZB,31.6797849875216,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UZ,Uzbekistan,UZB,31.3033671661028,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UZ,Uzbekistan,UZB,30.7642035552457,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",UZ,Uzbekistan,UZB,29.8063825647013,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VU,Vanuatu,VUT,36.8821292775665,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VU,Vanuatu,VUT,37.7118644067797,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VU,Vanuatu,VUT,38.5714285714286,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VU,Vanuatu,VUT,39.6739130434783,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VU,Vanuatu,VUT,40.4761904761905,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VU,Vanuatu,VUT,41.7808219178082,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VE,"Venezuela, RB",VEN,5.99795487952962,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VE,"Venezuela, RB",VEN,6.10129807526771,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VE,"Venezuela, RB",VEN,6.19621342512909,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VE,"Venezuela, RB",VEN,6.60439200262209,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VE,"Venezuela, RB",VEN,7.47329349990947,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VE,"Venezuela, RB",VEN,8.52077001013171,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VN,Viet Nam,VNM,33.1741374510098,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VN,Viet Nam,VNM,34.7063910069963,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VN,Viet Nam,VNM,35.8960776004144,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VN,Viet Nam,VNM,37.2923054099496,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VN,Viet Nam,VNM,38.2912391475927,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VN,Viet Nam,VNM,39.1443788184417,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VI,Virgin Islands (U.S.),VIR,1.86915887850467,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VI,Virgin Islands (U.S.),VIR,2.80373831775701,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VI,Virgin Islands (U.S.),VIR,2.80373831775701,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VI,Virgin Islands (U.S.),VIR,3.6697247706422,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VI,Virgin Islands (U.S.),VIR,4.71698113207547,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",VI,Virgin Islands (U.S.),VIR,5.8252427184466,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PS,West Bank and Gaza,PSE,12.5522092767641,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PS,West Bank and Gaza,PSE,13.1074009469225,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PS,West Bank and Gaza,PSE,13.6516853932584,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PS,West Bank and Gaza,PSE,14.2009987515606,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PS,West Bank and Gaza,PSE,15.0827241246633,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",PS,West Bank and Gaza,PSE,16.3382988947621,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",YE,"Yemen, Rep.",YEM,31.5841002545526,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",YE,"Yemen, Rep.",YEM,33.2630469161834,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",YE,"Yemen, Rep.",YEM,34.8957298907646,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",YE,"Yemen, Rep.",YEM,36.4492381441534,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",YE,"Yemen, Rep.",YEM,37.9145025968837,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",YE,"Yemen, Rep.",YEM,38.490245971162,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZM,Zambia,ZMB,29.1623711340206,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZM,Zambia,ZMB,30.3071569072477,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZM,Zambia,ZMB,31.333914559721,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZM,Zambia,ZMB,32.2079207920792,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZM,Zambia,ZMB,30.8562379821287,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZM,Zambia,ZMB,29.4747577766446,NA,NA,0
+2015,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZW,Zimbabwe,ZWE,32.6000265851389,NA,NA,0
+2010,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZW,Zimbabwe,ZWE,32.1556932018047,NA,NA,0
+2005,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZW,Zimbabwe,ZWE,31.8306978207851,NA,NA,0
+2000,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZW,Zimbabwe,ZWE,32.1177223288548,NA,NA,0
+1995,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZW,Zimbabwe,ZWE,33.1901366096744,NA,NA,0
+1990,SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)",ZW,Zimbabwe,ZWE,34.706557063659,NA,NA,0

@@ -21,3 +21,16 @@ if(download_data){
     )
   )
 }
+
+# Input -------------------------------------------------------------------
+
+source("scripts/03_input.R")
+
+# Data Manipulation -------------------------------------------------------
+
+source('scripts/04_data_manipulation.R')
+
+
+# Forecasting -------------------------------------------------------------
+
+source("scripts/05_forecasting.R")
